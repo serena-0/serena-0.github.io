@@ -1,0 +1,80 @@
+:root{
+  --bg:#0b0f17;
+  --card:#111827;
+  --text:#e5e7eb;
+  --muted:#9ca3af;
+  --line:#1f2937;
+  --accent:#60a5fa;
+}
+
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+  background: radial-gradient(1200px 600px at 20% 0%, rgba(96,165,250,.15), transparent 60%),
+              radial-gradient(1000px 500px at 90% 10%, rgba(167,139,250,.12), transparent 55%),
+              var(--bg);
+  color:var(--text);
+  line-height:1.6;
+}
+
+a{color:var(--accent); text-decoration:none}
+a:hover{text-decoration:underline}
+
+.container{max-width:980px;margin:0 auto;padding:24px}
+.header{padding-top:48px;padding-bottom:12px}
+h1{font-size:40px; margin:0 0 8px}
+.subtitle{color:var(--muted); margin:0 0 14px}
+.links{display:flex; gap:14px; flex-wrap:wrap}
+
+.card{
+  background: rgba(17,24,39,.85);
+  border:1px solid var(--line);
+  border-radius:18px;
+  padding:18px 18px;
+  margin:16px 0;
+  backdrop-filter: blur(8px);
+}
+
+.section-title{display:flex; align-items:baseline; justify-content:space-between; gap:12px}
+.small{color:var(--muted); font-size:14px}
+.meta{color:var(--muted); font-size:14px; margin:4px 0 10px}
+.bullets{margin:10px 0 0; padding-left:18px}
+.bullets li{margin:6px 0}
+
+.grid{
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap:12px;
+  margin-top:12px;
+}
+.proj{
+  border:1px solid var(--line);
+  border-radius:14px;
+  padding:14px;
+  background: rgba(0,0,0,.12);
+}
+.proj h3{margin:0 0 6px; font-size:16px}
+.actions{display:flex; gap:12px; margin-top:10px}
+
+.notes{display:flex; flex-direction:column; gap:10px; margin-top:12px}
+.note{
+  border:1px solid var(--line);
+  border-radius:14px;
+  padding:12px 14px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  background: rgba(0,0,0,.12);
+}
+.note-title{font-weight:600}
+.note-meta{color:var(--muted); font-size:13px}
+.tip{color:var(--muted); font-size:14px; margin-top:12px}
+
+.footer{color:var(--muted); font-size:14px; padding:18px 0 40px; text-align:center}
+
+@media (max-width: 900px){
+  .grid{grid-template-columns: 1fr}
+  h1{font-size:34px}
+}
