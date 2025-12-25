@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>你的名字 | Projects & Notes</title>
+  <meta name="description" content="个人主页：项目展示 + 前沿学习整理" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header class="container header">
+    <div>
+      <h1>你的名字</h1>
+      <p class="subtitle">CS / BME · Portfolio · 前沿学习整理</p>
+      <div class="links">
+        <a href="https://github.com/你的GitHub" target="_blank" rel="noreferrer">GitHub</a>
+        <a href="https://www.linkedin.com/in/你的LinkedIn" target="_blank" rel="noreferrer">LinkedIn</a>
+        <a href="mailto:你的邮箱">Email</a>
+        <a href="./resume.pdf" target="_blank" rel="noreferrer">Resume</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="card">
+      <h2>About</h2>
+      <p>
+        一句话介绍你是谁 + 你在做什么（比如：做 AI/系统/科研/工程），以及你想找什么方向的机会。
+      </p>
+      <ul class="bullets">
+        <li>亮点 1：例如 RAG / Agent / Spring Boot 项目经验</li>
+        <li>亮点 2：例如 论文方向 / 显微图像 denoising / segmentation</li>
+        <li>亮点 3：例如 Python / Java / Linux / Docker / Cloud</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <div class="section-title">
+        <h2>Projects</h2>
+        <a class="small" href="https://github.com/你的GitHub?tab=repositories" target="_blank" rel="noreferrer">All repos →</a>
+      </div>
+
+      <div class="grid">
+        <article class="proj">
+          <h3>FinWise-AI Investment Research Assistant</h3>
+          <p class="meta">Spring Boot · Spring AI · RAG · PGVector · Tools</p>
+          <p>一句话写清楚：解决什么问题 + 你的贡献。</p>
+          <div class="actions">
+            <a href="https://github.com/你的repo" target="_blank" rel="noreferrer">Repo</a>
+            <a href="#" target="_blank" rel="noreferrer">Demo</a>
+          </div>
+        </article>
+
+        <article class="proj">
+          <h3>Campus Forum Web</h3>
+          <p class="meta">Spring Boot · React · MySQL · Redis · Kafka · Docker</p>
+          <p>一句话写清楚：功能亮点（帖子/点赞/通知/权限/搜索等）。</p>
+          <div class="actions">
+            <a href="https://github.com/你的repo" target="_blank" rel="noreferrer">Repo</a>
+          </div>
+        </article>
+
+        <article class="proj">
+          <h3>Fluorescence Microscopy Denoising</h3>
+          <p class="meta">PyTorch · Restormer · Noise2Void · Poisson-Gaussian</p>
+          <p>一句话写清楚：数据/方法/指标提升（PSNR/SSIM）或可视化效果。</p>
+          <div class="actions">
+            <a href="https://github.com/你的repo" target="_blank" rel="noreferrer">Repo</a>
+            <a href="#" target="_blank" rel="noreferrer">Poster/Slides</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="section-title">
+        <h2>Notes（前沿学习整理）</h2>
+        <span class="small">按主题整理：RAG / Agent / LLM / 系统 / 论文阅读</span>
+      </div>
+
+      <div class="notes">
+        <a class="note" href="#" target="_blank" rel="noreferrer">
+          <div>
+            <div class="note-title">RAG 进阶：GraphRAG / Multi-hop / Re-ranking</div>
+            <div class="note-meta">2025-12 · 10 min read</div>
+          </div>
+          <span>→</span>
+        </a>
+
+        <a class="note" href="#" target="_blank" rel="noreferrer">
+          <div>
+            <div class="note-title">Agent 评测体系：Tool-use 成功率 & Hallucination 指标</div>
+            <div class="note-meta">2025-12 · 8 min read</div>
+          </div>
+          <span>→</span>
+        </a>
+
+        <a class="note" href="#" target="_blank" rel="noreferrer">
+          <div>
+            <div class="note-title">Restormer 训练笔记：dynamic-max 归一化的坑</div>
+            <div class="note-meta">2025-12 · 6 min read</div>
+          </div>
+          <span>→</span>
+        </a>
+      </div>
+
+      <p class="tip">
+        小技巧：你可以先把 Notes 写在 Notion/Medium/知乎专栏，然后这里放链接；以后再迁移到静态博客。
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>Contact</h2>
+      <p>如果你想合作/内推/交流：<a href="mailto:你的邮箱">你的邮箱</a></p>
+    </section>
+
+    <footer class="footer">
+      <span>© <span id="year"></span> 你的名字</span>
+    </footer>
+  </main>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
