@@ -9,10 +9,14 @@
 </head>
 
 <body>
+  <!-- Header -->
   <header class="container header">
     <div>
       <h1>Serena / Shiyu Zhang</h1>
-      <p class="subtitle">Frontier Briefs · Projects · Research Notes | 前沿雷达 · 项目作品 · 深度解读</p>
+      <p class="subtitle">
+        Frontier Briefs · Projects · Research Notes |
+        前沿雷达 · 项目作品 · 深度解读
+      </p>
 
       <div class="links">
         <a href="https://github.com/serena-0" target="_blank" rel="noreferrer">GitHub</a>
@@ -32,25 +36,30 @@
 
   <main class="container">
 
-    <!-- 1) Frontier -->
+    <!-- Frontier -->
     <section id="frontier" class="card">
       <div class="section-title">
-        <h2>Frontier（近几天自动更新）</h2>
-        <span class="small">Auto-updated by GitHub Actions · <span id="frontierStatus">loading…</span></span>
+        <h2>Frontier（新 + 热）</h2>
+        <span class="small">
+          Auto-updated by GitHub Actions ·
+          <span id="frontierStatus">loading…</span>
+        </span>
       </div>
 
       <div id="frontierList" class="grid"></div>
 
       <p class="tip" style="margin-top:12px">
-        点击标题跳转原文；卡片正文为自动生成的简要说明（可先为空，后续用 Actions 填充）。
+        基于多源交叉 + 热度评分（Hot Score）筛选，不只是“最新”。
       </p>
     </section>
 
-    <!-- 2) Projects -->
+    <!-- Projects -->
     <section id="projects" class="card">
       <div class="section-title">
         <h2>Projects</h2>
-        <a class="small" href="https://github.com/serena-0?tab=repositories" target="_blank" rel="noreferrer">All repos →</a>
+        <a class="small" href="https://github.com/serena-0?tab=repositories" target="_blank" rel="noreferrer">
+          All repos →
+        </a>
       </div>
 
       <div class="grid">
@@ -60,14 +69,13 @@
           <p>投资研究智能体：公司/行业信息检索、结构化研究笔记生成、工具调用与评测。</p>
           <div class="actions">
             <a href="https://github.com/REPLACE_WITH_YOUR_REPO" target="_blank" rel="noreferrer">Repo</a>
-            <a href="#" target="_blank" rel="noreferrer">Demo</a>
           </div>
         </article>
 
         <article class="proj">
           <h3>Campus Forum Web</h3>
           <p class="meta">Spring Boot · React · MySQL · Redis · Kafka · Docker</p>
-          <p>校园社区平台：发帖/评论/点赞、消息通知、权限与基础运营能力。</p>
+          <p>校园社区平台：发帖、评论、点赞、通知与基础运营能力。</p>
           <div class="actions">
             <a href="https://github.com/REPLACE_WITH_YOUR_REPO" target="_blank" rel="noreferrer">Repo</a>
           </div>
@@ -76,19 +84,18 @@
         <article class="proj">
           <h3>Fluorescence Microscopy Denoising</h3>
           <p class="meta">PyTorch · Restormer · Noise2Void · Poisson–Gaussian</p>
-          <p>荧光显微序列去噪：数据构建、训练/推理一致性、可视化对比与指标评估。</p>
+          <p>显微成像序列去噪：数据构建、训练一致性、可视化与指标评估。</p>
           <div class="actions">
             <a href="https://github.com/REPLACE_WITH_YOUR_REPO" target="_blank" rel="noreferrer">Repo</a>
-            <a href="#" target="_blank" rel="noreferrer">Slides</a>
           </div>
         </article>
       </div>
     </section>
 
-    <!-- 3) Notes / Writings -->
+    <!-- Notes -->
     <section id="notes" class="card">
       <div class="section-title">
-        <h2>Research Notes（解读 / 调研）</h2>
+        <h2>Research Notes</h2>
         <span class="small">RAG · Agent · LLM · Systems · Papers</span>
       </div>
 
@@ -103,24 +110,12 @@
 
         <a class="note" href="#" target="_blank" rel="noreferrer">
           <div>
-            <div class="note-title">Agent 评测体系：Tool-use 成功率 & Hallucination 指标</div>
+            <div class="note-title">Agent 评测体系：Tool-use 成功率 & Hallucination</div>
             <div class="note-meta">2025-12 · 8 min read</div>
           </div>
           <span>→</span>
         </a>
-
-        <a class="note" href="#" target="_blank" rel="noreferrer">
-          <div>
-            <div class="note-title">Restormer 训练笔记：dynamic-max 归一化的坑</div>
-            <div class="note-meta">2025-12 · 6 min read</div>
-          </div>
-          <span>→</span>
-        </a>
       </div>
-
-      <p class="tip">
-        你可以先把文章放 Notion/知乎/语雀/Google Doc，然后这里放链接；以后再迁移成站内 Markdown。
-      </p>
     </section>
 
     <!-- Contact -->
@@ -134,11 +129,20 @@
     </footer>
   </main>
 
+  <!-- Script -->
   <script>
     // footer year
     document.getElementById("year").textContent = new Date().getFullYear();
 
-    // Frontier loader
+    function escapeHtml(str) {
+      return String(str)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
     async function loadFrontier() {
       const status = document.getElementById("frontierStatus");
       const root = document.getElementById("frontierList");
@@ -152,19 +156,41 @@
 
         if (!show.length) {
           status.textContent = "no items";
-          root.innerHTML = `<p class="small" style="margin:0;color:var(--muted)">No frontier items yet. Generate data/frontier.json first.</p>`;
+          root.innerHTML = `
+            <p class="small" style="margin:0;color:var(--muted)">
+              No frontier items yet. Generate data/frontier.json first.
+            </p>
+          `;
           return;
         }
 
         status.textContent = "updated";
+
         root.innerHTML = show.map(x => `
           <article class="proj">
-            <h3><a href="${x.url}" target="_blank" rel="noreferrer">${escapeHtml(x.title || "")}</a></h3>
-            <p class="meta">${escapeHtml(x.source || "")} · ${escapeHtml(x.published_at || "")}</p>
+            <h3>
+              <a href="${x.url}" target="_blank" rel="noreferrer">
+                ${escapeHtml(x.title || "")}
+              </a>
+              ${
+                x.hot_score >= 12
+                  ? `<span class="small" style="margin-left:8px;border:1px solid var(--line);padding:2px 8px;border-radius:999px">🔥 HOT ${x.hot_score}</span>`
+                  : `<span class="small" style="margin-left:8px;border:1px solid var(--line);padding:2px 8px;border-radius:999px">热度 ${x.hot_score ?? ""}</span>`
+              }
+            </h3>
+
+            <p class="meta">
+              ${escapeHtml(x.source || "")} · ${escapeHtml(x.published_at || "")}
+              ${
+                Array.isArray(x.sources) && x.sources.length > 1
+                  ? ` · <span class="small">cross-source: ${escapeHtml(x.sources.join(" / "))}</span>`
+                  : ``
+              }
+            </p>
+
             <p>${escapeHtml(x.ai_summary || "")}</p>
           </article>
         `).join("");
-
       } catch (e) {
         status.textContent = "failed";
         root.innerHTML = `
@@ -173,16 +199,6 @@
           </p>
         `;
       }
-    }
-
-    // Basic HTML escape to avoid breaking markup if title contains "<" etc.
-    function escapeHtml(str) {
-      return String(str)
-        .replaceAll("&", "&amp;")
-        .replaceAll("<", "&lt;")
-        .replaceAll(">", "&gt;")
-        .replaceAll('"', "&quot;")
-        .replaceAll("'", "&#039;");
     }
 
     loadFrontier();
