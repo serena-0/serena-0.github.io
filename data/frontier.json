@@ -1,443 +1,196 @@
 [
   {
-    "title": "PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient Language Generation",
-    "source": "arXiv cs.LG",
+    "title": "腾讯按下AI加速键，人才、组织、开源动作密集",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-25-9",
+    "source": "机器之心",
     "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20687",
-    "ai_summary": "arXiv:2512.20687v1 Announce Type: new Abstract: Transformers operate as horizontal token-by-token scanners; at each generation step, the model attends to an ever-growing sequence of token-level states. This access pattern increases prefill latency and makes lo…",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
     "tags": [],
     "hot_score": 13,
     "sources": [
-      "arXiv cs.CL",
-      "arXiv cs.LG"
+      "机器之心"
     ]
   },
   {
-    "title": "M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation",
-    "source": "arXiv cs.AI",
+    "title": "无需再训练微调，一个辅助系统让GPT-5.2准确率飙到创纪录的75%",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-25-8",
+    "source": "机器之心",
     "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20136",
-    "ai_summary": "arXiv:2512.20136v2 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) has recently been extended to multimodal settings, connecting multimodal large language models (MLLMs) with vast corpora of external knowledge such as multimodal knowledge g…",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
     "tags": [],
-    "hot_score": 10,
+    "hot_score": 13,
     "sources": [
-      "arXiv cs.AI",
-      "arXiv cs.CL"
+      "机器之心"
     ]
   },
   {
-    "title": "Zero-Training Temporal Drift Detection for Transformer Sentiment Models: A Comprehensive Analysis on Authentic Social Media Streams",
-    "source": "arXiv cs.LG",
+    "title": "模仿人类直觉的AI，化学本体驱动的反应路径搜索新范式，用知识结构替代暴力搜索",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-25-7",
+    "source": "机器之心",
     "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20631",
-    "ai_summary": "arXiv:2512.20631v1 Announce Type: new Abstract: We present a comprehensive zero-training temporal drift analysis of transformer-based sentiment models validated on authentic social media data from major real-world events. Through systematic evaluation across t…",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
     "tags": [],
-    "hot_score": 10,
+    "hot_score": 13,
     "sources": [
-      "arXiv cs.CL",
-      "arXiv cs.LG"
+      "机器之心"
     ]
   },
   {
-    "title": "Real Time Detection and Quantitative Analysis of Spurious Forgetting in Continual Learning",
-    "source": "arXiv cs.LG",
+    "title": "越狱成功率飙升至87.6%，南京大学联合美团、上交破解主流视频生成模型安全漏洞",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-25-6",
+    "source": "机器之心",
     "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20634",
-    "ai_summary": "arXiv:2512.20634v1 Announce Type: new Abstract: Catastrophic forgetting remains a fundamental challenge in continual learning for large language models. Recent work revealed that performance degradation may stem from spurious forgetting caused by task alignmen…",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
     "tags": [],
-    "hot_score": 10,
+    "hot_score": 13,
     "sources": [
-      "arXiv cs.CL",
-      "arXiv cs.LG"
+      "机器之心"
     ]
   },
   {
-    "title": "MaskOpt: A Large-Scale Mask Optimization Dataset to Advance AI in Integrated Circuit Manufacturing",
-    "source": "arXiv cs.LG",
+    "title": "TPU惹急黄仁勋，200亿美元拿下「TPU之父」核心团队、技术授权",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-25-5",
+    "source": "机器之心",
     "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20655",
-    "ai_summary": "arXiv:2512.20655v1 Announce Type: new Abstract: As integrated circuit (IC) dimensions shrink below the lithographic wavelength, optical lithography faces growing challenges from diffraction and process variability. Model-based optical proximity correction (OPC…",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
     "tags": [],
-    "hot_score": 10,
+    "hot_score": 13,
     "sources": [
-      "arXiv cs.CV",
-      "arXiv cs.LG"
+      "机器之心"
     ]
   },
   {
-    "title": "HyDRA: Hierarchical and Dynamic Rank Adaptation for Mobile Vision Language Model",
-    "source": "arXiv cs.LG",
+    "title": "刷新NAVSIM SOTA，复旦引望提出Masked Diffusion端到端自动驾驶新框架",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-25-4",
+    "source": "机器之心",
     "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20674",
-    "ai_summary": "arXiv:2512.20674v1 Announce Type: new Abstract: Vision Language Models (VLMs) have undergone significant advancements, particularly with the emergence of mobile-oriented VLMs, which offer a wide range of application scenarios. However, the substantial computat…",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
     "tags": [],
-    "hot_score": 10,
+    "hot_score": 13,
     "sources": [
-      "arXiv cs.CV",
-      "arXiv cs.LG"
+      "机器之心"
     ]
   },
   {
-    "title": "Generalization of RLVR Using Causal Reasoning as a Testbed",
-    "source": "arXiv cs.LG",
+    "title": "光帆科技全球首款具备视觉感知能力的主动式AI耳机正式发布",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-25-3",
+    "source": "机器之心",
     "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20760",
-    "ai_summary": "arXiv:2512.20760v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has emerged as a promising paradigm for post-training large language models (LLMs) on complex reasoning tasks. Yet, the conditions under which RLVR yields rob…",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
     "tags": [],
-    "hot_score": 10,
+    "hot_score": 13,
     "sources": [
-      "arXiv cs.CL",
-      "arXiv cs.LG"
+      "机器之心"
     ]
   },
   {
-    "title": "Generalization of Diffusion Models Arises with a Balanced Representation Space",
-    "source": "arXiv cs.LG",
+    "title": "微软定目标：2030年，彻底删除C、C++代码，换成Rust",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-25-2",
+    "source": "机器之心",
     "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20963",
-    "ai_summary": "arXiv:2512.20963v1 Announce Type: new Abstract: Diffusion models excel at generating high-quality, diverse samples, yet they risk memorizing training data when overfit to the training objective. We analyze the distinctions between memorization and generalizati…",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
     "tags": [],
-    "hot_score": 10,
+    "hot_score": 13,
     "sources": [
-      "arXiv cs.CV",
-      "arXiv cs.LG"
+      "机器之心"
     ]
   },
   {
-    "title": "STLDM: Spatio-Temporal Latent Diffusion Model for Precipitation Nowcasting",
-    "source": "arXiv cs.LG",
+    "title": "V-Thinker: 让模型像人一样「边画边想」",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-25",
+    "source": "机器之心",
     "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.21118",
-    "ai_summary": "arXiv:2512.21118v1 Announce Type: new Abstract: Precipitation nowcasting is a critical spatio-temporal prediction task for society to prevent severe damage owing to extreme weather events. Despite the advances in this field, the complex and stochastic nature o…",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
     "tags": [],
-    "hot_score": 10,
+    "hot_score": 13,
     "sources": [
-      "arXiv cs.CV",
-      "arXiv cs.LG"
+      "机器之心"
     ]
   },
   {
-    "title": "Improving the Convergence Rate of Ray Search Optimization for Query-Efficient Hard-Label Attacks",
-    "source": "arXiv cs.LG",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.21241",
-    "ai_summary": "arXiv:2512.21241v1 Announce Type: new Abstract: In hard-label black-box adversarial attacks, where only the top-1 predicted label is accessible, the prohibitive query complexity poses a major obstacle to practical deployment. In this paper, we focus on optimiz…",
+    "title": "谁还敢说谷歌掉队？2025年，它打了一场漂亮的翻身仗",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-24-10",
+    "source": "机器之心",
+    "published_at": "2025-12-24",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
     "tags": [],
-    "hot_score": 10,
+    "hot_score": 13,
     "sources": [
-      "arXiv cs.CV",
-      "arXiv cs.LG"
+      "机器之心"
     ]
   },
   {
-    "title": "Does the Data Processing Inequality Reflect Practice? On the Utility of Low-Level Tasks",
-    "source": "arXiv cs.LG",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.21315",
-    "ai_summary": "arXiv:2512.21315v1 Announce Type: new Abstract: The data processing inequality is an information-theoretic principle stating that the information content of a signal cannot be increased by processing the observations. In particular, it suggests that there is n…",
+    "title": "北航提出代码大模型的 Scaling Laws：编程语言差异与多语言最优配比策略",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-24-9",
+    "source": "机器之心",
+    "published_at": "2025-12-24",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
     "tags": [],
-    "hot_score": 10,
+    "hot_score": 13,
     "sources": [
-      "arXiv cs.CV",
-      "arXiv cs.LG"
+      "机器之心"
     ]
   },
   {
-    "title": "Measuring all the noises of LLM Evals",
-    "source": "arXiv cs.LG",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.21326",
-    "ai_summary": "arXiv:2512.21326v1 Announce Type: new Abstract: Separating signal from noise is central to experimental science. Applying well-established statistical method effectively to LLM evals requires consideration of their unique noise characteristics. We clearly defi…",
+    "title": "DeepSeek官方点赞元宝，罕见现身互动",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-24-8",
+    "source": "机器之心",
+    "published_at": "2025-12-24",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
     "tags": [],
-    "hot_score": 10,
+    "hot_score": 13,
     "sources": [
-      "arXiv cs.CL",
-      "arXiv cs.LG"
-    ]
-  },
-  {
-    "title": "Uncovering Competency Gaps in Large Language Models and Their Benchmarks",
-    "source": "arXiv cs.LG",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20638",
-    "ai_summary": "arXiv:2512.20638v1 Announce Type: cross Abstract: The evaluation of large language models (LLMs) relies heavily on standardized benchmarks. These benchmarks provide useful aggregated metrics for a given capability, but those aggregated metrics can obscure (i)…",
-    "tags": [],
-    "hot_score": 10,
-    "sources": [
-      "arXiv cs.CL",
-      "arXiv cs.LG"
-    ]
-  },
-  {
-    "title": "AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent",
-    "source": "arXiv cs.LG",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20745",
-    "ai_summary": "arXiv:2512.20745v1 Announce Type: cross Abstract: Large Reasoning Models (LRMs) like o3 and DeepSeek-R1 have achieved remarkable progress in natural language reasoning with long chain-of-thought. However, they remain computationally inefficient and struggle wi…",
-    "tags": [],
-    "hot_score": 10,
-    "sources": [
-      "arXiv cs.CL",
-      "arXiv cs.LG"
-    ]
-  },
-  {
-    "title": "TrashDet: Iterative Neural Architecture Search for Efficient Waste Detection",
-    "source": "arXiv cs.LG",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20746",
-    "ai_summary": "arXiv:2512.20746v1 Announce Type: cross Abstract: This paper addresses trash detection on the TACO dataset under strict TinyML constraints using an iterative hardware-aware neural architecture search framework targeting edge and IoT devices. The proposed metho…",
-    "tags": [],
-    "hot_score": 10,
-    "sources": [
-      "arXiv cs.CV",
-      "arXiv cs.LG"
-    ]
-  },
-  {
-    "title": "TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior",
-    "source": "arXiv cs.LG",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20757",
-    "ai_summary": "arXiv:2512.20757v1 Announce Type: cross Abstract: Tokenizers provide the fundamental basis through which text is represented and processed by language models (LMs). Despite the importance of tokenization, its role in LM performance and behavior is poorly under…",
-    "tags": [],
-    "hot_score": 10,
-    "sources": [
-      "arXiv cs.CL",
-      "arXiv cs.LG"
-    ]
-  },
-  {
-    "title": "NULLBUS: Multimodal Mixed-Supervision for Breast Ultrasound Segmentation via Nullable Global-Local Prompts",
-    "source": "arXiv cs.LG",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20783",
-    "ai_summary": "arXiv:2512.20783v1 Announce Type: cross Abstract: Breast ultrasound (BUS) segmentation provides lesion boundaries essential for computer-aided diagnosis and treatment planning. While promptable methods can improve segmentation performance and tumor delineation…",
-    "tags": [],
-    "hot_score": 10,
-    "sources": [
-      "arXiv cs.CV",
-      "arXiv cs.LG"
-    ]
-  },
-  {
-    "title": "CHAMMI-75: pre-training multi-channel models with heterogeneous microscopy images",
-    "source": "arXiv cs.LG",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20833",
-    "ai_summary": "arXiv:2512.20833v1 Announce Type: cross Abstract: Quantifying cell morphology using images and machine learning has proven to be a powerful tool to study the response of cells to treatments. However, models used to quantify cellular morphology are typically tr…",
-    "tags": [],
-    "hot_score": 10,
-    "sources": [
-      "arXiv cs.CV",
-      "arXiv cs.LG"
-    ]
-  },
-  {
-    "title": "Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
-    "source": "arXiv cs.LG",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20848",
-    "ai_summary": "arXiv:2512.20848v1 Announce Type: cross Abstract: We present Nemotron 3 Nano 30B-A3B, a Mixture-of-Experts hybrid Mamba-Transformer language model. Nemotron 3 Nano was pretrained on 25 trillion text tokens, including more than 3 trillion new unique tokens over…",
-    "tags": [],
-    "hot_score": 10,
-    "sources": [
-      "arXiv cs.CL",
-      "arXiv cs.LG"
-    ]
-  },
-  {
-    "title": "NVIDIA Nemotron 3: Efficient and Open Intelligence",
-    "source": "arXiv cs.LG",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20856",
-    "ai_summary": "arXiv:2512.20856v1 Announce Type: cross Abstract: We introduce the Nemotron 3 family of models - Nano, Super, and Ultra. These models deliver strong agentic, reasoning, and conversational capabilities. The Nemotron 3 family uses a Mixture-of-Experts hybrid Mam…",
-    "tags": [],
-    "hot_score": 10,
-    "sources": [
-      "arXiv cs.CL",
-      "arXiv cs.LG"
-    ]
-  },
-  {
-    "title": "Architectural Trade-offs in Small Language Models Under Compute Constraints",
-    "source": "arXiv cs.LG",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20877",
-    "ai_summary": "arXiv:2512.20877v1 Announce Type: cross Abstract: We present a systematic empirical study of small language models under strict compute constraints, analyzing how architectural choices and training budget interact to determine performance. Starting from a line…",
-    "tags": [],
-    "hot_score": 10,
-    "sources": [
-      "arXiv cs.CL",
-      "arXiv cs.LG"
-    ]
-  },
-  {
-    "title": "MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation",
-    "source": "arXiv cs.CL",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20626",
-    "ai_summary": "arXiv:2512.20626v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) enables large language models (LLMs) to dynamically access external information, which is powerful for answering questions over previously unseen documents. Nonetheless, the…",
-    "tags": [],
-    "hot_score": 10,
-    "sources": [
-      "arXiv cs.CL",
-      "arXiv cs.CV"
-    ]
-  },
-  {
-    "title": "Transductive Visual Programming: Evolving Tool Libraries from Experience for Spatial Reasoning",
-    "source": "arXiv cs.CL",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20934",
-    "ai_summary": "arXiv:2512.20934v1 Announce Type: cross Abstract: Spatial reasoning in 3D scenes requires precise geometric calculations that challenge vision-language models. Visual programming addresses this by decomposing problems into steps calling specialized tools, yet…",
-    "tags": [],
-    "hot_score": 10,
-    "sources": [
-      "arXiv cs.CL",
-      "arXiv cs.CV"
-    ]
-  },
-  {
-    "title": "Zero-Shot Segmentation through Prototype-Guidance for Multi-Label Plant Species Identification",
-    "source": "arXiv cs.AI",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.19957",
-    "ai_summary": "arXiv:2512.19957v1 Announce Type: new Abstract: This paper presents an approach developed to address the PlantClef 2025 challenge, which consists of a fine-grained multi-label species identification, over high-resolution images. Our solution focused on employi…",
-    "tags": [],
-    "hot_score": 9,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "Enhancing Zero-Shot Time Series Forecasting in Off-the-Shelf LLMs via Noise Injection",
-    "source": "arXiv cs.AI",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.20140",
-    "ai_summary": "arXiv:2512.20140v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated effectiveness as zero-shot time series (TS) forecasters. The key challenge lies in tokenizing TS data into textual representations that align with LLMs' pre-trained…",
-    "tags": [],
-    "hot_score": 9,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "CoPHo: Classifier-guided Conditional Topology Generation with Persistent Homology",
-    "source": "arXiv cs.AI",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.19736",
-    "ai_summary": "arXiv:2512.19736v1 Announce Type: cross Abstract: The structure of topology underpins much of the research on performance and robustness, yet available topology data are typically scarce, necessitating the generation of synthetic graphs with desired properties…",
-    "tags": [],
-    "hot_score": 9,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "SpidR-Adapt: A Universal Speech Representation Model for Few-Shot Adaptation",
-    "source": "arXiv cs.CL",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.21204",
-    "ai_summary": "arXiv:2512.21204v1 Announce Type: new Abstract: Human infants, with only a few hundred hours of speech exposure, acquire basic units of new languages, highlighting a striking efficiency gap compared to the data-hungry self-supervised speech models. To address…",
-    "tags": [],
-    "hot_score": 9,
-    "sources": [
-      "arXiv cs.CL"
-    ]
-  },
-  {
-    "title": "Rethinking Memory in LLM based Agents: Representations, Operations, and Emerging Topics",
-    "source": "arXiv cs.CL",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2505.00675",
-    "ai_summary": "arXiv:2505.00675v3 Announce Type: replace Abstract: Memory is fundamental to large language model (LLM)-based agents, but existing surveys emphasize application-level use (e.g., personalized dialogue), while overlooking the atomic operations governing memory d…",
-    "tags": [],
-    "hot_score": 9,
-    "sources": [
-      "arXiv cs.CL"
-    ]
-  },
-  {
-    "title": "When F1 Fails: Granularity-Aware Evaluation for Dialogue Topic Segmentation",
-    "source": "arXiv cs.CL",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.17083",
-    "ai_summary": "arXiv:2512.17083v2 Announce Type: replace Abstract: Dialogue topic segmentation supports summarization, retrieval, memory management, and conversational continuity. Despite decades of work, evaluation practice remains dominated by strict boundary matching and…",
-    "tags": [],
-    "hot_score": 9,
-    "sources": [
-      "arXiv cs.CL"
-    ]
-  },
-  {
-    "title": "A Turn Toward Better Alignment: Few-Shot Generative Adaptation with Equivariant Feature Rotation",
-    "source": "arXiv cs.CV",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.21174",
-    "ai_summary": "arXiv:2512.21174v1 Announce Type: new Abstract: Few-shot image generation aims to effectively adapt a source generative model to a target domain using very few training images. Most existing approaches introduce consistency constraints-typically through instan…",
-    "tags": [],
-    "hot_score": 9,
-    "sources": [
-      "arXiv cs.CV"
-    ]
-  },
-  {
-    "title": "DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation",
-    "source": "arXiv cs.CV",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.21252",
-    "ai_summary": "arXiv:2512.21252v1 Announce Type: new Abstract: The \"one-shot\" technique represents a distinct and sophisticated aesthetic in filmmaking. However, its practical realization is often hindered by prohibitive costs and complex real-world constraints. Although eme…",
-    "tags": [],
-    "hot_score": 9,
-    "sources": [
-      "arXiv cs.CV"
-    ]
-  },
-  {
-    "title": "TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning",
-    "source": "arXiv cs.CV",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.21331",
-    "ai_summary": "arXiv:2512.21331v1 Announce Type: new Abstract: The interpretation of small tiles in large whole slide images (WSI) often needs a larger image context. We introduce TICON, a transformer-based tile representation contextualizer that produces rich, contextualize…",
-    "tags": [],
-    "hot_score": 9,
-    "sources": [
-      "arXiv cs.CV"
-    ]
-  },
-  {
-    "title": "TexAvatars : Hybrid Texel-3D Representations for Stable Rigging of Photorealistic Gaussian Head Avatars",
-    "source": "arXiv cs.CV",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.21099",
-    "ai_summary": "arXiv:2512.21099v1 Announce Type: cross Abstract: Constructing drivable and photorealistic 3D head avatars has become a central task in AR/XR, enabling immersive and expressive user experiences. With the emergence of high-fidelity and efficient representations…",
-    "tags": [],
-    "hot_score": 9,
-    "sources": [
-      "arXiv cs.CV"
-    ]
-  },
-  {
-    "title": "Schr\\\"odinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation",
-    "source": "arXiv cs.CV",
-    "published_at": "2025-12-25",
-    "url": "https://arxiv.org/abs/2512.21201",
-    "ai_summary": "arXiv:2512.21201v1 Announce Type: cross Abstract: Zero-shot object navigation (ZSON) requires a robot to locate a target object in a previously unseen environment without relying on pre-built maps or task-specific training. However, existing ZSON methods often…",
-    "tags": [],
-    "hot_score": 9,
-    "sources": [
-      "arXiv cs.CV"
+      "机器之心"
     ]
   },
   {
     "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
     "source": "Hugging Face Blog",
     "published_at": "2025-12-23",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+    "raw_snippet": "",
     "ai_summary": "",
+    "ai_generated": false,
     "tags": [],
-    "hot_score": 8,
+    "hot_score": 12,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
+    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
+    "url": "https://huggingface.co/blog/tokenizers",
+    "source": "Hugging Face Blog",
+    "published_at": "2025-12-18",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 11,
     "sources": [
       "Hugging Face Blog"
     ]
