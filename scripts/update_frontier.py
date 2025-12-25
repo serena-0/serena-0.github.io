@@ -18,9 +18,9 @@ OUT_PATH = Path("data/frontier.json")
 # Tuning knobs
 # =====================
 
-DAYS_BACK = 7
+DAYS_BACK = 14
 MAX_ITEMS = 40
-MIN_HOT_SCORE = 7              # 稍微提高阈值，过滤“普通资讯”
+MIN_HOT_SCORE = 5              # 筛选分数阈值，过滤“普通资讯”
 MAX_PER_SOURCE = 120
 
 MAX_JIQI = 3                   # ✅ 机器之心限流：最多 3 条
