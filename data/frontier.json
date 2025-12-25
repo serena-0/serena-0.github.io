@@ -26,5 +26,243 @@
     "sources": [
       "Hugging Face Blog"
     ]
+  },
+  {
+    "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
+    "source": "Hugging Face Blog",
+    "published_at": "2025-12-17",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 11,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
+    "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
+    "source": "Hugging Face Blog",
+    "published_at": "2025-12-15",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 11,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
+    "title": "New in llama.cpp: Model Management",
+    "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
+    "source": "Hugging Face Blog",
+    "published_at": "2025-12-11",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 11,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
+    "title": "Codex is Open Sourcing AI models",
+    "url": "https://huggingface.co/blog/hf-skills-training-codex",
+    "source": "Hugging Face Blog",
+    "published_at": "2025-12-11",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 11,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
+    "title": "腾讯按下AI加速键，人才、组织、开源动作密集",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-25-9",
+    "source": "机器之心",
+    "published_at": "2025-12-25",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 6,
+    "sources": [
+      "机器之心"
+    ]
+  },
+  {
+    "title": "无需再训练微调，一个辅助系统让GPT-5.2准确率飙到创纪录的75%",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-25-8",
+    "source": "机器之心",
+    "published_at": "2025-12-25",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 6,
+    "sources": [
+      "机器之心"
+    ]
+  },
+  {
+    "title": "模仿人类直觉的AI，化学本体驱动的反应路径搜索新范式，用知识结构替代暴力搜索",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-25-7",
+    "source": "机器之心",
+    "published_at": "2025-12-25",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 6,
+    "sources": [
+      "机器之心"
+    ]
+  },
+  {
+    "title": "PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational Physics Research",
+    "url": "https://arxiv.org/abs/2512.19799",
+    "source": "arXiv cs.AI",
+    "published_at": "2025-12-25",
+    "raw_snippet": "arXiv:2512.19799v1 Announce Type: new Abstract: Advances in LLMs have produced agents with knowledge and operational capabilities comparable to human scientists, suggesting potential to assist, accelerate, and automate research. However, existing studies mainly evaluate such systems on well-defined benchmarks or genera…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "A Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid Distribution",
+    "url": "https://arxiv.org/abs/2512.19882",
+    "source": "arXiv cs.AI",
+    "published_at": "2025-12-25",
+    "raw_snippet": "arXiv:2512.19882v1 Announce Type: new Abstract: The distribution of relief supplies to shelters is a critical aspect of post-disaster humanitarian logistics. In major disasters, prepositioned supplies often fall short of meeting all demands. We address the problem of planning vehicle routes from a distribution center t…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "Interpolative Decoding: Exploring the Spectrum of Personality Traits in LLMs",
+    "url": "https://arxiv.org/abs/2512.19937",
+    "source": "arXiv cs.AI",
+    "published_at": "2025-12-25",
+    "raw_snippet": "arXiv:2512.19937v1 Announce Type: new Abstract: Recent research has explored using very large language models (LLMs) as proxies for humans in tasks such as simulation, surveys, and studies. While LLMs do not possess a human psychology, they often can emulate human behaviors with sufficiently high fidelity to drive simu…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "Zero-Shot Segmentation through Prototype-Guidance for Multi-Label Plant Species Identification",
+    "url": "https://arxiv.org/abs/2512.19957",
+    "source": "arXiv cs.AI",
+    "published_at": "2025-12-25",
+    "raw_snippet": "arXiv:2512.19957v1 Announce Type: new Abstract: This paper presents an approach developed to address the PlantClef 2025 challenge, which consists of a fine-grained multi-label species identification, over high-resolution images. Our solution focused on employing class prototypes obtained from the training dataset as a…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "FGDCC: Fine-Grained Deep Cluster Categorization -- A Framework for Intra-Class Variability Problems in Plant Classification",
+    "url": "https://arxiv.org/abs/2512.19960",
+    "source": "arXiv cs.AI",
+    "published_at": "2025-12-25",
+    "raw_snippet": "arXiv:2512.19960v1 Announce Type: new Abstract: Intra-class variability is given according to the significance in the degree of dissimilarity between images within a class. In that sense, depending on its intensity, intra-class variability can hinder the learning process for DL models, specially when such classes are a…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test",
+    "url": "https://arxiv.org/abs/2512.19992",
+    "source": "arXiv cs.AI",
+    "published_at": "2025-12-25",
+    "raw_snippet": "arXiv:2512.19992v1 Announce Type: new Abstract: The integration of embodied agents into human environments demands embodied social intelligence: reasoning over both social norms and physical constraints. However, existing evaluations fail to address this integration, as they are limited to either disembodied social rea…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "Discovering Lie Groups with Flow Matching",
+    "url": "https://arxiv.org/abs/2512.20043",
+    "source": "arXiv cs.AI",
+    "published_at": "2025-12-25",
+    "raw_snippet": "arXiv:2512.20043v1 Announce Type: new Abstract: Symmetry is fundamental to understanding physical systems, and at the same time, can improve performance and sample efficiency in machine learning. Both pursuits require knowledge of the underlying symmetries in data. To address this, we propose learning symmetries direct…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "Learning Skills from Action-Free Videos",
+    "url": "https://arxiv.org/abs/2512.20052",
+    "source": "arXiv cs.AI",
+    "published_at": "2025-12-25",
+    "raw_snippet": "arXiv:2512.20052v1 Announce Type: new Abstract: Learning from videos offers a promising path toward generalist robots by providing rich visual and temporal priors beyond what real robot datasets contain. While existing video generative models produce impressive visual predictions, they are difficult to translate into l…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "Towards Generative Location Awareness for Disaster Response: A Probabilistic Cross-view Geolocalization Approach",
+    "url": "https://arxiv.org/abs/2512.20056",
+    "source": "arXiv cs.AI",
+    "published_at": "2025-12-25",
+    "raw_snippet": "arXiv:2512.20056v1 Announce Type: new Abstract: As Earth's climate changes, it is impacting disasters and extreme weather events across the planet. Record-breaking heat waves, drenching rainfalls, extreme wildfires, and widespread flooding during hurricanes are all becoming more frequent and more intense. Rapid and eff…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "Scaling Reinforcement Learning for Content Moderation with Large Language Models",
+    "url": "https://arxiv.org/abs/2512.20061",
+    "source": "arXiv cs.AI",
+    "published_at": "2025-12-25",
+    "raw_snippet": "arXiv:2512.20061v1 Announce Type: new Abstract: Content moderation at scale remains one of the most pressing challenges in today's digital ecosystem, where billions of user- and AI-generated artifacts must be continuously evaluated for policy violations. Although recent advances in large language models (LLMs) have dem…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
   }
 ]
