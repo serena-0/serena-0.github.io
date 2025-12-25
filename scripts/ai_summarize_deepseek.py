@@ -5,6 +5,9 @@ import re
 from typing import List, Dict
 import urllib.request
 
+AI_ENABLED = os.getenv("AI_ENABLED", "true").lower() == "true"
+
+
 # DeepSeek OpenAI-compatible endpoint
 DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
@@ -99,6 +102,11 @@ Snippet: {snippet}
     return item
 
 def main():
+
+    if not AI_ENABLED:
+        print("[SKIP] AI summarization disabled by AI_ENABLED=false")
+        return
+
     path = "data/frontier.json"
     items = json.loads(open(path, "r", encoding="utf-8").read() or "[]")
     if not items:
