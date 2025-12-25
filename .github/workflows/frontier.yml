@@ -38,7 +38,9 @@ jobs:
 
       # 5) DeepSeek AI 摘要 + 标签
       - name: AI summarize via DeepSeek
+        if: env.AI_ENABLED == 'true'
         env:
+          AI_ENABLED: 'false'
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           DEEPSEEK_MODEL: deepseek-chat
           DEEPSEEK_BASE_URL: https://api.deepseek.com
