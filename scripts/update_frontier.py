@@ -9,27 +9,36 @@ import feedparser
 from dateutil import parser as dateparser
 
 # =====================
-# Config
+# Output
 # =====================
 
 OUT_PATH = Path("data/frontier.json")
 
+# =====================
+# Tuning knobs
+# =====================
+
 DAYS_BACK = 7
 MAX_ITEMS = 40
-MIN_HOT_SCORE = 6
-MAX_PER_SOURCE = 80
+MIN_HOT_SCORE = 7              # 稍微提高阈值，过滤“普通资讯”
+MAX_PER_SOURCE = 120
+
+MAX_JIQI = 3                   # ✅ 机器之心限流：最多 3 条
+MAX_ARXIV = 10                 # 可选：arXiv 也限流，避免论文刷屏
 
 # =====================
 # Feeds（少而精）
 # =====================
 
 FEEDS: List[Tuple[str, str]] = [
-    # Curated / 推荐源
+    # 主热源：推荐/精选
     ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
     ("HF Trending Papers", "https://jamesg.blog/hf-papers.xml"),
+
+    # 中文解读：放大器（不能单独制造热点）
     ("机器之心", "https://www.jiqizhixin.com/rss"),
 
-    # arXiv（仅补充）
+    # 事实源：论文补充（不负责“热”）
     ("arXiv cs.AI", "http://export.arxiv.org/rss/cs.AI"),
     ("arXiv cs.LG", "http://export.arxiv.org/rss/cs.LG"),
     ("arXiv cs.CL", "http://export.arxiv.org/rss/cs.CL"),
@@ -37,13 +46,13 @@ FEEDS: List[Tuple[str, str]] = [
 ]
 
 # =====================
-# Source metadata
+# Source type & weight
 # =====================
 
 SOURCE_TYPE = {
-    "Hugging Face Blog": "curated",
-    "HF Trending Papers": "curated",
-    "机器之心": "curated",
+    "Hugging Face Blog": "hf",
+    "HF Trending Papers": "hf",
+    "机器之心": "cn",
 
     "arXiv cs.AI": "arxiv",
     "arXiv cs.LG": "arxiv",
@@ -51,10 +60,11 @@ SOURCE_TYPE = {
     "arXiv cs.CV": "arxiv",
 }
 
+# ✅ 机器之心降权；HF 是主热源
 SOURCE_WEIGHT = {
-    "Hugging Face Blog": 6,
-    "HF Trending Papers": 7,
-    "机器之心": 6,
+    "Hugging Face Blog": 7,
+    "HF Trending Papers": 8,
+    "机器之心": 3,
 
     "arXiv cs.AI": 2,
     "arXiv cs.LG": 2,
@@ -73,7 +83,7 @@ def clean_text(s: str) -> str:
     s = re.sub(r"\s+", " ", s)
     return s.strip()
 
-def truncate(s: str, n: int = 300) -> str:
+def truncate(s: str, n: int = 320) -> str:
     s = clean_text(s)
     return s if len(s) <= n else s[:n].rstrip() + "…"
 
@@ -117,15 +127,31 @@ def recency_bonus(published: dt.date, today: dt.date) -> int:
     return 0
 
 def cross_source_bonus(sources: set) -> int:
+    """
+    ✅ 真热点原则：
+    - HF（推荐系统）可以“制造热点”
+    - arXiv 是事实源，不单独“热”
+    - 机器之心是放大器/解读源，不允许单源变热
+    """
     types = {SOURCE_TYPE.get(s, "other") for s in sources}
 
-    # 真·热点规则
-    if "curated" in types and "arxiv" in types:
+    has_hf = "hf" in types
+    has_arxiv = "arxiv" in types
+    has_cn = "cn" in types
+
+    # HF + arXiv：社区推荐 + 论文事实，最可信热点
+    if has_hf and has_arxiv:
         return 6
-    if "curated" in types:
+
+    # HF 单独：也算热（HF 的推荐系统本身就是热度信号）
+    if has_hf:
         return 4
 
-    # 纯 arXiv：不加热
+    # ❌ 机器之心单独出现：不加热（防 UC 刷屏）
+    # 机器之心只有在“有 HF 或 arXiv 佐证”时才加分
+    if has_cn and has_arxiv:
+        return 2  # 中文解读 + 论文，算一点热
+
     return 0
 
 def compute_hot_score(source: str, published: dt.date, today: dt.date, sources: set) -> int:
@@ -154,6 +180,8 @@ def main():
             link = getattr(e, "link", "")
             published = parse_date(e)
 
+            if not title or not link:
+                continue
             if published < cutoff:
                 continue
 
@@ -181,11 +209,7 @@ def main():
         if not key:
             key = hash_key(it["url"] or it["title"])
 
-        g = groups.setdefault(key, {
-            "items": [],
-            "sources": set(),
-        })
-
+        g = groups.setdefault(key, {"items": [], "sources": set()})
         g["items"].append(it)
         g["sources"].add(it["source"])
 
@@ -196,7 +220,7 @@ def main():
         items = g["items"]
         sources = g["sources"]
 
-        # best source priority
+        # Prefer: HF > CN > arXiv, and newer date
         items.sort(
             key=lambda x: (
                 SOURCE_WEIGHT.get(x["source"], 0),
@@ -227,7 +251,7 @@ def main():
             # 原始素材（RSS / arXiv）
             "raw_snippet": best["raw_snippet"],
 
-            # AI 生成（现在你关着也 OK）
+            # AI 生成（你现在关着也 OK）
             "ai_summary": "",
             "ai_generated": False,
 
@@ -236,17 +260,40 @@ def main():
             "sources": sorted(list(sources)),
         })
 
-    # 4) Sort & limit
+    # 4) Sort by hotness and recency
     results.sort(key=lambda x: (x["hot_score"], x["published_at"]), reverse=True)
-    results = results[:MAX_ITEMS]
+
+    # 5) Limit by source (prevent any one feed dominating)
+    filtered = []
+    cnt_jiqi = 0
+    cnt_arxiv = 0
+
+    for x in results:
+        if x["source"] == "机器之心":
+            if cnt_jiqi >= MAX_JIQI:
+                continue
+            cnt_jiqi += 1
+
+        if x["source"].startswith("arXiv"):
+            if cnt_arxiv >= MAX_ARXIV:
+                continue
+            cnt_arxiv += 1
+
+        filtered.append(x)
+
+        if len(filtered) >= MAX_ITEMS:
+            break
+
+    filtered = filtered[:MAX_ITEMS]
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(
-        json.dumps(results, ensure_ascii=False, indent=2),
+        json.dumps(filtered, ensure_ascii=False, indent=2),
         encoding="utf-8"
     )
 
-    print(f"[OK] wrote {len(results)} hot frontier items")
+    print(f"[OK] wrote {len(filtered)} hot frontier items")
+    print(f"[INFO] machine-heart kept: {cnt_jiqi}, arXiv kept: {cnt_arxiv}")
 
 if __name__ == "__main__":
     main()
