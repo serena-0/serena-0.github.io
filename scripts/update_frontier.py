@@ -7,7 +7,7 @@ import feedparser
 from dateutil import parser as dateparser
 
 OUT_PATH = Path("data/frontier.json")
-DAYS_BACK = 7
+DAYS_BACK = 3
 MAX_ITEMS = 40
 
 FEEDS = [
