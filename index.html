@@ -3,39 +3,63 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Serena Zhang>| Projects & Notes</title>
-  <meta name="description" content="个人主页：项目展示 + 前沿学习整理" />
+  <title>Serena (Shiyu) Zhang | Frontier · Projects · Notes</title>
+  <meta name="description" content="Frontier Briefs · Projects · Research Notes | 前沿雷达 · 项目作品 · 深度解读" />
   <link rel="stylesheet" href="./style.css" />
 </head>
+
 <body>
   <header class="container header">
     <div>
       <h1>Serena / Shiyu Zhang</h1>
       <p class="subtitle">Frontier Briefs · Projects · Research Notes | 前沿雷达 · 项目作品 · 深度解读</p>
+
       <div class="links">
-        <a href="https://github.com/你的GitHub" target="https://github.com/serena-0" rel="noreferrer">GitHub</a>
-        <a href="https://www.linkedin.com/in/你的LinkedIn" target="https://www.linkedin.com/in/serena-zhang-" rel="noreferrer">LinkedIn</a>
-        <a href="mailto:你的邮箱">Email</a>
+        <a href="https://github.com/serena-0" target="_blank" rel="noreferrer">GitHub</a>
+        <a href="https://www.linkedin.com/in/serena-zhang-/" target="_blank" rel="noreferrer">LinkedIn</a>
+        <a href="mailto:YOUR_EMAIL_HERE">Email</a>
         <a href="./resume.pdf" target="_blank" rel="noreferrer">Resume</a>
       </div>
+
+      <nav class="links" style="margin-top:12px">
+        <a href="#frontier">Frontier</a>
+        <a href="#projects">Projects</a>
+        <a href="#notes">Notes</a>
+        <a href="#contact">Contact</a>
+      </nav>
     </div>
   </header>
 
   <main class="container">
 
-    <section class="card">
+    <!-- 1) Frontier -->
+    <section id="frontier" class="card">
+      <div class="section-title">
+        <h2>Frontier（近几天自动更新）</h2>
+        <span class="small">Auto-updated by GitHub Actions · <span id="frontierStatus">loading…</span></span>
+      </div>
+
+      <div id="frontierList" class="grid"></div>
+
+      <p class="tip" style="margin-top:12px">
+        点击标题跳转原文；卡片正文为自动生成的简要说明（可先为空，后续用 Actions 填充）。
+      </p>
+    </section>
+
+    <!-- 2) Projects -->
+    <section id="projects" class="card">
       <div class="section-title">
         <h2>Projects</h2>
-        <a class="small" href="https://github.com/你的GitHub?tab=repositories" target="_blank" rel="noreferrer">All repos →</a>
+        <a class="small" href="https://github.com/serena-0?tab=repositories" target="_blank" rel="noreferrer">All repos →</a>
       </div>
 
       <div class="grid">
         <article class="proj">
-          <h3>FinWise-AI Investment Research Assistant</h3>
-          <p class="meta">Spring Boot · Spring AI · RAG · PGVector · Tools</p>
-          <p>一句话写清楚：解决什么问题 + 你的贡献。</p>
+          <h3>FinWise — AI Investment Research Assistant</h3>
+          <p class="meta">Spring Boot · Spring AI · RAG · PGVector · Tool Calling</p>
+          <p>投资研究智能体：公司/行业信息检索、结构化研究笔记生成、工具调用与评测。</p>
           <div class="actions">
-            <a href="https://github.com/你的repo" target="_blank" rel="noreferrer">Repo</a>
+            <a href="https://github.com/REPLACE_WITH_YOUR_REPO" target="_blank" rel="noreferrer">Repo</a>
             <a href="#" target="_blank" rel="noreferrer">Demo</a>
           </div>
         </article>
@@ -43,28 +67,29 @@
         <article class="proj">
           <h3>Campus Forum Web</h3>
           <p class="meta">Spring Boot · React · MySQL · Redis · Kafka · Docker</p>
-          <p>一句话写清楚：功能亮点（帖子/点赞/通知/权限/搜索等）。</p>
+          <p>校园社区平台：发帖/评论/点赞、消息通知、权限与基础运营能力。</p>
           <div class="actions">
-            <a href="https://github.com/你的repo" target="_blank" rel="noreferrer">Repo</a>
+            <a href="https://github.com/REPLACE_WITH_YOUR_REPO" target="_blank" rel="noreferrer">Repo</a>
           </div>
         </article>
 
         <article class="proj">
           <h3>Fluorescence Microscopy Denoising</h3>
-          <p class="meta">PyTorch · Restormer · Noise2Void · Poisson-Gaussian</p>
-          <p>一句话写清楚：数据/方法/指标提升（PSNR/SSIM）或可视化效果。</p>
+          <p class="meta">PyTorch · Restormer · Noise2Void · Poisson–Gaussian</p>
+          <p>荧光显微序列去噪：数据构建、训练/推理一致性、可视化对比与指标评估。</p>
           <div class="actions">
-            <a href="https://github.com/你的repo" target="_blank" rel="noreferrer">Repo</a>
-            <a href="#" target="_blank" rel="noreferrer">Poster/Slides</a>
+            <a href="https://github.com/REPLACE_WITH_YOUR_REPO" target="_blank" rel="noreferrer">Repo</a>
+            <a href="#" target="_blank" rel="noreferrer">Slides</a>
           </div>
         </article>
       </div>
     </section>
 
-    <section class="card">
+    <!-- 3) Notes / Writings -->
+    <section id="notes" class="card">
       <div class="section-title">
-        <h2>Notes（前沿学习整理）</h2>
-        <span class="small">按主题整理：RAG / Agent / LLM / 系统 / 论文阅读</span>
+        <h2>Research Notes（解读 / 调研）</h2>
+        <span class="small">RAG · Agent · LLM · Systems · Papers</span>
       </div>
 
       <div class="notes">
@@ -94,22 +119,73 @@
       </div>
 
       <p class="tip">
-        小技巧：你可以先把 Notes 写在 Notion/Medium/知乎专栏，然后这里放链接；以后再迁移到静态博客。
+        你可以先把文章放 Notion/知乎/语雀/Google Doc，然后这里放链接；以后再迁移成站内 Markdown。
       </p>
     </section>
 
-    <section class="card">
+    <!-- Contact -->
+    <section id="contact" class="card">
       <h2>Contact</h2>
-      <p>如果你想合作/内推/交流：<a href="mailto:你的邮箱">你的邮箱</a></p>
+      <p>合作 / 内推 / 交流：<a href="mailto:YOUR_EMAIL_HERE">YOUR_EMAIL_HERE</a></p>
     </section>
 
     <footer class="footer">
-      <span>© <span id="year"></span> 你的名字</span>
+      <span>© <span id="year"></span> Serena (Shiyu) Zhang</span>
     </footer>
   </main>
 
   <script>
+    // footer year
     document.getElementById("year").textContent = new Date().getFullYear();
+
+    // Frontier loader
+    async function loadFrontier() {
+      const status = document.getElementById("frontierStatus");
+      const root = document.getElementById("frontierList");
+
+      try {
+        const res = await fetch("./data/frontier.json", { cache: "no-store" });
+        if (!res.ok) throw new Error("HTTP " + res.status);
+
+        const items = await res.json();
+        const show = (items || []).slice(0, 9);
+
+        if (!show.length) {
+          status.textContent = "no items";
+          root.innerHTML = `<p class="small" style="margin:0;color:var(--muted)">No frontier items yet. Generate data/frontier.json first.</p>`;
+          return;
+        }
+
+        status.textContent = "updated";
+        root.innerHTML = show.map(x => `
+          <article class="proj">
+            <h3><a href="${x.url}" target="_blank" rel="noreferrer">${escapeHtml(x.title || "")}</a></h3>
+            <p class="meta">${escapeHtml(x.source || "")} · ${escapeHtml(x.published_at || "")}</p>
+            <p>${escapeHtml(x.ai_summary || "")}</p>
+          </article>
+        `).join("");
+
+      } catch (e) {
+        status.textContent = "failed";
+        root.innerHTML = `
+          <p class="small" style="margin:0;color:var(--muted)">
+            Failed to load <code>data/frontier.json</code>. Make sure the file exists and is committed.
+          </p>
+        `;
+      }
+    }
+
+    // Basic HTML escape to avoid breaking markup if title contains "<" etc.
+    function escapeHtml(str) {
+      return String(str)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    loadFrontier();
   </script>
 </body>
 </html>
