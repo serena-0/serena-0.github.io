@@ -1,5 +1,229 @@
 [
   {
+    "title": "From Word to World: Can Large Language Models be Implicit Text-based World Models?",
+    "url": "https://huggingface.co/papers/2512.18832",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "LLM-based world models enhance agent performance in text-based environments through action verification, synthetic trajectory generation, and warm-starting reinforcement learning, but their effectiveness is contingent on behavioral coverage and environment complexity. AI-generated summary Agentic reinforcement learning…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation",
+    "url": "https://huggingface.co/papers/2512.21227",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "In this work, we introduce PhononBench, the first large-scale benchmark for dynamical stability in AI-generated crystals. Leveraging the recently developed MatterSim interatomic potential, which achieves DFT-level accuracy in phonon predictions across more than 10,000 materials, PhononBench enables efficient large-scal…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios",
+    "url": "https://huggingface.co/papers/2512.18470",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "SWE-EVO benchmark evaluates AI coding agents on complex, multi-step software evolution tasks across multiple files, highlighting a significant gap in current models' capabilities. AI-generated summary Existing benchmarks for AI coding agents focus on isolated, single-issue tasks such as fixing a bug or implementing a s…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Multi-hop Reasoning via Early Knowledge Alignment",
+    "url": "https://huggingface.co/papers/2512.20144",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "Early Knowledge Alignment improves retrieval and reasoning in iterative RAG systems by aligning LLMs with relevant knowledge before planning, enhancing performance and efficiency. AI-generated summary Retrieval-Augmented Generation (RAG) has emerged as a powerful paradigm for Large Language Models (LLMs) to address kno…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation",
+    "url": "https://huggingface.co/papers/2512.21252",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "The \"one-shot\" technique represents a distinct and sophisticated aesthetic in filmmaking. However, its practical realization is often hindered by prohibitive costs and complex real-world constraints. Although emerging video generation models offer a virtual alternative, existing approaches typically rely on naive clip…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Learning from Next-Frame Prediction: Autoregressive Video Modeling Encodes Effective Representations",
+    "url": "https://huggingface.co/papers/2512.21004",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "Recent advances in pretraining general foundation models have significantly improved performance across diverse downstream tasks. While autoregressive (AR) generative models like GPT have revolutionized NLP, most visual generative pretraining methods still rely on BERT-style masked modeling, which often disregards the…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior",
+    "url": "https://huggingface.co/papers/2512.20757",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "Tokenizers provide the fundamental basis through which text is represented and processed by language models (LMs). Despite the importance of tokenization, its role in LM performance and behavior is poorly understood due to the challenge of measuring the impact of tokenization in isolation. To address this need, we pres…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models",
+    "url": "https://huggingface.co/papers/2512.21337",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "We expose a significant popularity bias in state-of-the-art vision-language models (VLMs), which achieve up to 34% higher accuracy on famous buildings compared to ordinary ones, indicating a reliance on memorization over generalizable understanding. To systematically investigate this, we introduce the largest open benc…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times",
+    "url": "https://huggingface.co/papers/2512.16093",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality. AI-generated summary We introduce TurboDiffusion, a video generation acceleration framework that can speed up end-to-end diffusion generation by 100-200x while main…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming",
+    "url": "https://huggingface.co/papers/2512.21338",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "High-resolution video generation, while crucial for digital media and film, is computationally bottlenecked by the quadratic complexity of diffusion models, making practical inference infeasible. To address this, we introduce HiStream, an efficient autoregressive framework that systematically reduces redundancy across…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models",
+    "url": "https://huggingface.co/papers/2512.20557",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "DSR Suite enhances vision-language models with dynamic spatial reasoning through automated data generation and a geometry selection module that integrates geometric priors. AI-generated summary Vision-language models (VLM) excel at general understanding yet remain weak at dynamic spatial reasoning (DSR), i.e., reasonin…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation",
+    "url": "https://huggingface.co/papers/2512.21094",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "Text-to-Audio-Video (T2AV) generation aims to synthesize temporally coherent video and semantically synchronized audio from natural language, yet its evaluation remains fragmented, often relying on unimodal metrics or narrowly scoped benchmarks that fail to capture cross-modal alignment, instruction following, and perc…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Streaming Video Instruction Tuning",
+    "url": "https://huggingface.co/papers/2512.21334",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "We present Streamo, a real-time streaming video LLM that serves as a general-purpose interactive assistant. Unlike existing online video models that focus narrowly on question answering or captioning, Streamo performs a broad spectrum of streaming video tasks, including real-time narration, action understanding, event…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+    "url": "https://huggingface.co/papers/2512.20848",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "We present Nemotron 3 Nano 30B-A3B, a Mixture-of-Experts hybrid Mamba-Transformer language model. Nemotron 3 Nano was pretrained on 25 trillion text tokens, including more than 3 trillion new unique tokens over Nemotron 2, followed by supervised fine tuning and large-scale RL on diverse environments. Nemotron 3 Nano ac…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "NVIDIA Nemotron 3: Efficient and Open Intelligence",
+    "url": "https://huggingface.co/papers/2512.20856",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "We introduce the Nemotron 3 family of models - Nano, Super, and Ultra. These models deliver strong agentic, reasoning, and conversational capabilities. The Nemotron 3 family uses a Mixture-of-Experts hybrid Mamba-Transformer architecture to provide best-in-class throughput and context lengths of up to 1M tokens. Super…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "LLM Swiss Round: Aggregating Multi-Benchmark Performance via Competitive Swiss-System Dynamics",
+    "url": "https://huggingface.co/papers/2512.21010",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-25",
+    "raw_snippet": "The rapid proliferation of Large Language Models (LLMs) and diverse specialized benchmarks necessitates a shift from fragmented, task-specific metrics to a holistic, competitive ranking system that effectively aggregates performance across multiple ability dimensions. Primarily using static scoring, current evaluation…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
     "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
     "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
     "source": "Hugging Face Blog",
@@ -22,7 +246,7 @@
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
-    "hot_score": 12,
+    "hot_score": 11,
     "sources": [
       "Hugging Face Blog"
     ]
@@ -46,34 +270,6 @@
     "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
     "source": "Hugging Face Blog",
     "published_at": "2025-12-15",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 11,
-    "sources": [
-      "Hugging Face Blog"
-    ]
-  },
-  {
-    "title": "New in llama.cpp: Model Management",
-    "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
-    "source": "Hugging Face Blog",
-    "published_at": "2025-12-11",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 11,
-    "sources": [
-      "Hugging Face Blog"
-    ]
-  },
-  {
-    "title": "Codex is Open Sourcing AI models",
-    "url": "https://huggingface.co/blog/hf-skills-training-codex",
-    "source": "Hugging Face Blog",
-    "published_at": "2025-12-11",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
