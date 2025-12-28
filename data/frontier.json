@@ -54,47 +54,5 @@
     "sources": [
       "Hugging Face Blog"
     ]
-  },
-  {
-    "title": "AI大佬Karpathy焦虑了：作为程序员，我从未感到如此落后",
-    "url": "https://www.jiqizhixin.com/articles/2025-12-27-4",
-    "source": "机器之心",
-    "published_at": "2025-12-27",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 6,
-    "sources": [
-      "机器之心"
-    ]
-  },
-  {
-    "title": "告别「单线程」思维：通研院提出NPR框架，让智能体进化出原生的并行推理大脑",
-    "url": "https://www.jiqizhixin.com/articles/2025-12-27-3",
-    "source": "机器之心",
-    "published_at": "2025-12-27",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 6,
-    "sources": [
-      "机器之心"
-    ]
-  },
-  {
-    "title": "SIGGRAPH Asia 2025｜当视频生成真正「看清一个人」：多视角身份一致、真实光照与可控镜头的统一框架",
-    "url": "https://www.jiqizhixin.com/articles/2025-12-27-2",
-    "source": "机器之心",
-    "published_at": "2025-12-27",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 6,
-    "sources": [
-      "机器之心"
-    ]
   }
 ]
