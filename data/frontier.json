@@ -1,5 +1,201 @@
 [
   {
+    "title": "SWE-RM: Execution-free Feedback For Software Engineering Agents",
+    "url": "https://huggingface.co/papers/2512.21919",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Execution-based feedback like unit testing is widely used in the development of coding agents through test-time scaling (TTS) and reinforcement learning (RL). This paradigm requires scalable and reliable collection of unit test cases to provide accurate feedback, and the resulting feedback is often sparse and cannot ef…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards",
+    "url": "https://huggingface.co/papers/2512.21625",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-29",
+    "raw_snippet": "Large reasoning models (LRMs) are typically trained using reinforcement learning with verifiable reward (RLVR) to enhance their reasoning abilities. In this paradigm, policies are updated using both positive and negative self-generated rollouts, which correspond to distinct sample polarities. In this paper, we provide…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "MAI-UI Technical Report: Real-World Centric Foundation GUI Agents",
+    "url": "https://huggingface.co/papers/2512.22047",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-29",
+    "raw_snippet": "The development of GUI agents could revolutionize the next generation of human-computer interaction. Motivated by this vision, we present MAI-UI, a family of foundation GUI agents spanning the full spectrum of sizes, including 2B, 8B, 32B, and 235B-A22B variants. We identify four key challenges to realistic deployment:…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "A 58-Addition, Rank-23 Scheme for General 3x3 Matrix Multiplication",
+    "url": "https://huggingface.co/papers/2512.21980",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-29",
+    "raw_snippet": "This paper presents a new state-of-the-art algorithm for exact 3times3 matrix multiplication over general non-commutative rings, achieving a rank-23 scheme with only 58 scalar additions. This improves the previous best additive complexity of 60 additions without a change of basis. The result was discovered through an a…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "InSight-o3: Empowering Multimodal Foundation Models with Generalized Visual Search",
+    "url": "https://huggingface.co/papers/2512.18745",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-29",
+    "raw_snippet": "O3-Bench evaluates multimodal reasoning with interleaved attention to visual details, while InSight-o3 uses a multi-agent framework to improve performance through specialized visual search and reasoning tasks. AI-generated summary The ability for AI agents to \"think with images\" requires a sophisticated blend of reason…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Omni-Weather: Unified Multimodal Foundation Model for Weather Generation and Understanding",
+    "url": "https://huggingface.co/papers/2512.21643",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-29",
+    "raw_snippet": "Omni-Weather is a multimodal foundation model that integrates weather generation and understanding using a shared self-attention mechanism and a Chain-of-Thought dataset to enable interpretable, high-quality outputs. AI-generated summary Weather modeling requires both accurate prediction and mechanistic interpretation,…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SlideTailor: Personalized Presentation Slide Generation for Scientific Papers",
+    "url": "https://huggingface.co/papers/2512.20292",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-29",
+    "raw_snippet": "SlideTailor, an agentic framework, generates user-aligned slides using implicit preferences from example pairs and visual templates, incorporating a chain-of-speech mechanism for oral narration alignment and a benchmark dataset for evaluation. AI-generated summary Automatic presentation slide generation can greatly str…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "TimeBill: Time-Budgeted Inference for Large Language Models",
+    "url": "https://huggingface.co/papers/2512.21859",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-29",
+    "raw_snippet": "Large Language Models (LLMs) are increasingly deployed in time-critical systems, such as robotics, autonomous driving, embodied intelligence, and industrial automation, where generating accurate responses within a given time budget is crucial for decision-making, control, or safety-critical tasks. However, the auto-reg…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SVBench: Evaluation of Video Generation Models on Social Reasoning",
+    "url": "https://huggingface.co/papers/2512.21507",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-29",
+    "raw_snippet": "Recent text-to-video generation models exhibit remarkable progress in visual realism, motion fidelity, and text-video alignment, yet they remain fundamentally limited in their ability to generate socially coherent behavior. Unlike humans, who effortlessly infer intentions, beliefs, emotions, and social norms from brief…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Mindscape-Aware Retrieval Augmented Generation for Improved Long Context Understanding",
+    "url": "https://huggingface.co/papers/2512.17220",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-29",
+    "raw_snippet": "MiA-RAG, a Mindscape-Aware Retrieval-Augmented Generation system, enhances LLM-based RAG with global context awareness through hierarchical summarization, improving long-context tasks and evidence-based understanding. AI-generated summary Humans understand long and complex texts by relying on a holistic semantic repres…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture",
+    "url": "https://huggingface.co/papers/2512.21675",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-29",
+    "raw_snippet": "Multimodal large language models (MLLMs) have achieved remarkable progress in visual understanding tasks such as visual grounding, segmentation, and captioning. However, their ability to perceive perceptual-level image features remains limited. In this work, we present UniPercept-Bench, a unified framework for perceptu…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning",
+    "url": "https://huggingface.co/papers/2512.22120",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-29",
+    "raw_snippet": "Large vision-language models (VLMs) often benefit from intermediate visual cues, either injected via external tools or generated as latent visual tokens during reasoning, but these mechanisms still overlook fine-grained visual evidence (e.g., polylines in charts), generalize poorly across domains, and incur high infere…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion",
+    "url": "https://huggingface.co/papers/2512.17504",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-29",
+    "raw_snippet": "InsertAnywhere framework enhances video object insertion by generating geometrically consistent and visually coherent scenarios through 4D aware mask generation and diffusion-based synthesis. AI-generated summary Recent advances in diffusion-based video generation have opened new possibilities for controllable video ed…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "ProEdit: Inversion-based Editing From Prompts Done Right",
+    "url": "https://huggingface.co/papers/2512.22118",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-29",
+    "raw_snippet": "Inversion-based visual editing provides an effective and training-free way to edit an image or a video based on user instructions. Existing methods typically inject source image information during the sampling process to maintain editing consistency. However, this sampling strategy overly relies on source information,…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
     "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
     "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
     "source": "Hugging Face Blog",
@@ -32,20 +228,6 @@
     "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
     "source": "Hugging Face Blog",
     "published_at": "2025-12-17",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 11,
-    "sources": [
-      "Hugging Face Blog"
-    ]
-  },
-  {
-    "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
-    "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
-    "source": "Hugging Face Blog",
-    "published_at": "2025-12-15",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
