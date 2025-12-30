@@ -1,201 +1,5 @@
 [
   {
-    "title": "SWE-RM: Execution-free Feedback For Software Engineering Agents",
-    "url": "https://huggingface.co/papers/2512.21919",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-30",
-    "raw_snippet": "Execution-based feedback like unit testing is widely used in the development of coding agents through test-time scaling (TTS) and reinforcement learning (RL). This paradigm requires scalable and reliable collection of unit test cases to provide accurate feedback, and the resulting feedback is often sparse and cannot ef…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards",
-    "url": "https://huggingface.co/papers/2512.21625",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-29",
-    "raw_snippet": "Large reasoning models (LRMs) are typically trained using reinforcement learning with verifiable reward (RLVR) to enhance their reasoning abilities. In this paradigm, policies are updated using both positive and negative self-generated rollouts, which correspond to distinct sample polarities. In this paper, we provide…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "MAI-UI Technical Report: Real-World Centric Foundation GUI Agents",
-    "url": "https://huggingface.co/papers/2512.22047",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-29",
-    "raw_snippet": "The development of GUI agents could revolutionize the next generation of human-computer interaction. Motivated by this vision, we present MAI-UI, a family of foundation GUI agents spanning the full spectrum of sizes, including 2B, 8B, 32B, and 235B-A22B variants. We identify four key challenges to realistic deployment:…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "A 58-Addition, Rank-23 Scheme for General 3x3 Matrix Multiplication",
-    "url": "https://huggingface.co/papers/2512.21980",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-29",
-    "raw_snippet": "This paper presents a new state-of-the-art algorithm for exact 3times3 matrix multiplication over general non-commutative rings, achieving a rank-23 scheme with only 58 scalar additions. This improves the previous best additive complexity of 60 additions without a change of basis. The result was discovered through an a…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "InSight-o3: Empowering Multimodal Foundation Models with Generalized Visual Search",
-    "url": "https://huggingface.co/papers/2512.18745",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-29",
-    "raw_snippet": "O3-Bench evaluates multimodal reasoning with interleaved attention to visual details, while InSight-o3 uses a multi-agent framework to improve performance through specialized visual search and reasoning tasks. AI-generated summary The ability for AI agents to \"think with images\" requires a sophisticated blend of reason…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Omni-Weather: Unified Multimodal Foundation Model for Weather Generation and Understanding",
-    "url": "https://huggingface.co/papers/2512.21643",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-29",
-    "raw_snippet": "Omni-Weather is a multimodal foundation model that integrates weather generation and understanding using a shared self-attention mechanism and a Chain-of-Thought dataset to enable interpretable, high-quality outputs. AI-generated summary Weather modeling requires both accurate prediction and mechanistic interpretation,…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "SlideTailor: Personalized Presentation Slide Generation for Scientific Papers",
-    "url": "https://huggingface.co/papers/2512.20292",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-29",
-    "raw_snippet": "SlideTailor, an agentic framework, generates user-aligned slides using implicit preferences from example pairs and visual templates, incorporating a chain-of-speech mechanism for oral narration alignment and a benchmark dataset for evaluation. AI-generated summary Automatic presentation slide generation can greatly str…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "TimeBill: Time-Budgeted Inference for Large Language Models",
-    "url": "https://huggingface.co/papers/2512.21859",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-29",
-    "raw_snippet": "Large Language Models (LLMs) are increasingly deployed in time-critical systems, such as robotics, autonomous driving, embodied intelligence, and industrial automation, where generating accurate responses within a given time budget is crucial for decision-making, control, or safety-critical tasks. However, the auto-reg…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "SVBench: Evaluation of Video Generation Models on Social Reasoning",
-    "url": "https://huggingface.co/papers/2512.21507",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-29",
-    "raw_snippet": "Recent text-to-video generation models exhibit remarkable progress in visual realism, motion fidelity, and text-video alignment, yet they remain fundamentally limited in their ability to generate socially coherent behavior. Unlike humans, who effortlessly infer intentions, beliefs, emotions, and social norms from brief…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Mindscape-Aware Retrieval Augmented Generation for Improved Long Context Understanding",
-    "url": "https://huggingface.co/papers/2512.17220",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-29",
-    "raw_snippet": "MiA-RAG, a Mindscape-Aware Retrieval-Augmented Generation system, enhances LLM-based RAG with global context awareness through hierarchical summarization, improving long-context tasks and evidence-based understanding. AI-generated summary Humans understand long and complex texts by relying on a holistic semantic repres…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture",
-    "url": "https://huggingface.co/papers/2512.21675",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-29",
-    "raw_snippet": "Multimodal large language models (MLLMs) have achieved remarkable progress in visual understanding tasks such as visual grounding, segmentation, and captioning. However, their ability to perceive perceptual-level image features remains limited. In this work, we present UniPercept-Bench, a unified framework for perceptu…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning",
-    "url": "https://huggingface.co/papers/2512.22120",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-29",
-    "raw_snippet": "Large vision-language models (VLMs) often benefit from intermediate visual cues, either injected via external tools or generated as latent visual tokens during reasoning, but these mechanisms still overlook fine-grained visual evidence (e.g., polylines in charts), generalize poorly across domains, and incur high infere…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion",
-    "url": "https://huggingface.co/papers/2512.17504",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-29",
-    "raw_snippet": "InsertAnywhere framework enhances video object insertion by generating geometrically consistent and visually coherent scenarios through 4D aware mask generation and diffusion-based synthesis. AI-generated summary Recent advances in diffusion-based video generation have opened new possibilities for controllable video ed…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "ProEdit: Inversion-based Editing From Prompts Done Right",
-    "url": "https://huggingface.co/papers/2512.22118",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-29",
-    "raw_snippet": "Inversion-based visual editing provides an effective and training-free way to edit an image or a video based on user instructions. Existing methods typically inject source image information during the sampling process to maintain editing consistency. However, this sampling strategy overly relies on source information,…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
     "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
     "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
     "source": "Hugging Face Blog",
@@ -238,10 +42,10 @@
     ]
   },
   {
-    "title": "AI引爆内存荒：手机电脑不仅要涨价，还要减配",
-    "url": "https://www.jiqizhixin.com/articles/2025-12-29-11",
+    "title": "Manus被收购，智谱也定了8天后上市",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-30-5",
     "source": "机器之心",
-    "published_at": "2025-12-29",
+    "published_at": "2025-12-30",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
@@ -252,10 +56,10 @@
     ]
   },
   {
-    "title": "全景视觉的Depth Anything来了！Insta360推出DAP，200万数据打造全场景360°空间智能新高度",
-    "url": "https://www.jiqizhixin.com/articles/2025-12-29-10",
+    "title": "招生 | 港科大（广州）数据科学与分析学域2026-27博士项目申请开放！",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-30-4",
     "source": "机器之心",
-    "published_at": "2025-12-29",
+    "published_at": "2025-12-30",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
@@ -266,10 +70,10 @@
     ]
   },
   {
-    "title": "九章云极完成新一轮战略融资，持续巩固全球智算云第一梯队地位",
-    "url": "https://www.jiqizhixin.com/articles/2025-12-29-9",
+    "title": "清华朱军团队Nature Machine Intelligence：多模态扩散模型实现心血管信号实时全面监测",
+    "url": "https://www.jiqizhixin.com/articles/2025-12-30-3",
     "source": "机器之心",
-    "published_at": "2025-12-29",
+    "published_at": "2025-12-30",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
@@ -283,7 +87,7 @@
     "title": "From Visual Perception to Deep Empathy: An Automated Assessment Framework for House-Tree-Person Drawings Using Multimodal LLMs and Multi-Agent Collaboration",
     "url": "https://arxiv.org/abs/2512.21360",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-29",
+    "published_at": "2025-12-30",
     "raw_snippet": "arXiv:2512.21360v1 Announce Type: new Abstract: Background: The House-Tree-Person (HTP) drawing test, introduced by John Buck in 1948, remains a widely used projective technique in clinical psychology. However, it has long faced challenges such as heterogeneous scoring standards, reliance on examiners subjective experi…",
     "ai_summary": "",
     "ai_generated": false,
@@ -297,7 +101,7 @@
     "title": "A Study of Solving Life-and-Death Problems in Go Using Relevance-Zone Based Solvers",
     "url": "https://arxiv.org/abs/2512.21365",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-29",
+    "published_at": "2025-12-30",
     "raw_snippet": "arXiv:2512.21365v1 Announce Type: new Abstract: This paper analyzes the behavior of solving Life-and-Death (L&amp;D) problems in the game of Go using current state-of-the-art computer Go solvers with two techniques: the Relevance-Zone Based Search (RZS) and the relevance-zone pattern table. We examined the solutions de…",
     "ai_summary": "",
     "ai_generated": false,
@@ -311,7 +115,7 @@
     "title": "Three-way conflict analysis based on alliance and conflict functions",
     "url": "https://arxiv.org/abs/2512.21419",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-29",
+    "published_at": "2025-12-30",
     "raw_snippet": "arXiv:2512.21419v1 Announce Type: new Abstract: Trisecting agents, issues, and agent pairs are essential topics of three-way conflict analysis. They have been commonly studied based on either a rating or an auxiliary function. A rating function defines the positive, negative, or neutral ratings of agents on issues. An…",
     "ai_summary": "",
     "ai_generated": false,
@@ -325,8 +129,8 @@
     "title": "Feasible strategies in three-way conflict analysis with three-valued ratings",
     "url": "https://arxiv.org/abs/2512.21420",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-29",
-    "raw_snippet": "arXiv:2512.21420v1 Announce Type: new Abstract: Most existing work on three-way conflict analysis has focused on trisecting agent pairs, agents, or issues, which contributes to understanding the nature of conflicts but falls short in addressing their resolution. Specifically, the formulation of feasible strategies, as…",
+    "published_at": "2025-12-30",
+    "raw_snippet": "arXiv:2512.21420v2 Announce Type: new Abstract: Most existing work on three-way conflict analysis has focused on trisecting agent pairs, agents, or issues, which contributes to understanding the nature of conflicts but falls short in addressing their resolution. Specifically, the formulation of feasible strategies, as…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -339,7 +143,7 @@
     "title": "Three-way decision with incomplete information based on similarity and satisfiability",
     "url": "https://arxiv.org/abs/2512.21421",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-29",
+    "published_at": "2025-12-30",
     "raw_snippet": "arXiv:2512.21421v1 Announce Type: new Abstract: Three-way decision is widely applied with rough set theory to learn classification or decision rules. The approaches dealing with complete information are well established in the literature, including the two complementary computational and conceptual formulations. The co…",
     "ai_summary": "",
     "ai_generated": false,
@@ -353,7 +157,7 @@
     "title": "LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis",
     "url": "https://arxiv.org/abs/2512.21482",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-29",
+    "published_at": "2025-12-30",
     "raw_snippet": "arXiv:2512.21482v1 Announce Type: new Abstract: Sophisticated text-centric forgeries, fueled by rapid AIGC advancements, pose a significant threat to societal security and information authenticity. Current methods for text-centric forgery analysis are often limited to coarse-grained visual analysis and lack the capacit…",
     "ai_summary": "",
     "ai_generated": false,
@@ -367,7 +171,7 @@
     "title": "Leash: Adaptive Length Penalty and Reward Shaping for Efficient Large Reasoning Model",
     "url": "https://arxiv.org/abs/2512.21540",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-29",
+    "published_at": "2025-12-30",
     "raw_snippet": "arXiv:2512.21540v1 Announce Type: new Abstract: Existing approaches typically rely on fixed length penalties, but such penalties are hard to tune and fail to adapt to the evolving reasoning abilities of LLMs, leading to suboptimal trade-offs between accuracy and conciseness. To address this challenge, we propose Leash…",
     "ai_summary": "",
     "ai_generated": false,
@@ -381,7 +185,7 @@
     "title": "NEMO-4-PAYPAL: Leveraging NVIDIA's Nemo Framework for empowering PayPal's Commerce Agent",
     "url": "https://arxiv.org/abs/2512.21578",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-29",
+    "published_at": "2025-12-30",
     "raw_snippet": "arXiv:2512.21578v1 Announce Type: new Abstract: We present the development and optimization of PayPal's Commerce Agent, powered by NEMO-4-PAYPAL, a multi-agent system designed to revolutionize agentic commerce on the PayPal platform. Through our strategic partnership with NVIDIA, we leveraged the NeMo Framework for LLM…",
     "ai_summary": "",
     "ai_generated": false,
@@ -395,7 +199,7 @@
     "title": "A Medical Multimodal Diagnostic Framework Integrating Vision-Language Models and Logic Tree Reasoning",
     "url": "https://arxiv.org/abs/2512.21583",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-29",
+    "published_at": "2025-12-30",
     "raw_snippet": "arXiv:2512.21583v1 Announce Type: new Abstract: With the rapid growth of large language models (LLMs) and vision-language models (VLMs) in medicine, simply integrating clinical text and medical imaging does not guarantee reliable reasoning. Existing multimodal models often produce hallucinations or inconsistent chains…",
     "ai_summary": "",
     "ai_generated": false,
@@ -409,7 +213,7 @@
     "title": "AMS-IO-Bench and AMS-IO-Agent: Benchmarking and Structured Reasoning for Analog and Mixed-Signal Integrated Circuit Input/Output Design",
     "url": "https://arxiv.org/abs/2512.21613",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-29",
+    "published_at": "2025-12-30",
     "raw_snippet": "arXiv:2512.21613v1 Announce Type: new Abstract: In this paper, we propose AMS-IO-Agent, a domain-specialized LLM-based agent for structure-aware input/output (I/O) subsystem generation in analog and mixed-signal (AMS) integrated circuits (ICs). The central contribution of this work is a framework that connects natural…",
     "ai_summary": "",
     "ai_generated": false,
