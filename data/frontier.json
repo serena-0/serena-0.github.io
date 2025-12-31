@@ -1,5 +1,439 @@
 [
   {
+    "title": "Monadic Context Engineering",
+    "url": "https://huggingface.co/papers/2512.22431",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-31",
+    "raw_snippet": "The proliferation of Large Language Models (LLMs) has catalyzed a shift towards autonomous agents capable of complex reasoning and tool use. However, current agent architectures are frequently constructed using imperative, ad hoc patterns. This results in brittle systems plagued by difficulties in state management, err…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "An Information Theoretic Perspective on Agentic System Design",
+    "url": "https://huggingface.co/papers/2512.21720",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-31",
+    "raw_snippet": "Agentic language model (LM) systems power modern applications like \"Deep Research\" and \"Claude Code,\" and leverage multi-LM architectures to overcome context limitations. Beneath their apparent diversity lies a recurring pattern: smaller \"compressor\" LMs (that can even run locally) distill raw context into compact text…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Self-Evaluation Unlocks Any-Step Text-to-Image Generation",
+    "url": "https://huggingface.co/papers/2512.22374",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Self-E is a novel self-evaluating text-to-image model trained from scratch that supports any-step generation and combines local learning with self-driven global matching to achieve high quality even at low step counts. AI-generated summary We introduce the Self-Evaluating Model (Self-E), a novel, from-scratch training…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta",
+    "url": "https://huggingface.co/papers/2512.23236",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Making deep learning recommendation model (DLRM) training and inference fast and efficient is important. However, this presents three key system challenges - model architecture diversity, kernel primitive diversity, and hardware generation and architecture heterogeneity. This paper presents KernelEvolve-an agentic kern…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Shape of Thought: When Distribution Matters More than Correctness in Reasoning Tasks",
+    "url": "https://huggingface.co/papers/2512.22255",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "We present the surprising finding that a language model's reasoning capabilities can be improved by training on synthetic datasets of chain-of-thought (CoT) traces from more capable models, even when all of those traces lead to an incorrect final answer. Our experiments show this approach can yield better performance o…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation",
+    "url": "https://huggingface.co/papers/2512.23703",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "The primary obstacle for applying reinforcement learning (RL) to real-world robotics is the design of effective reward functions. While recently learning-based Process Reward Models (PRMs) are a promising direction, they are often hindered by two fundamental limitations: their reward models lack step-aware understandin…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Introducing TrGLUE and SentiTurca: A Comprehensive Benchmark for Turkish General Language Understanding and Sentiment Analysis",
+    "url": "https://huggingface.co/papers/2512.22100",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Evaluating the performance of various model architectures, such as transformers, large language models (LLMs), and other NLP systems, requires comprehensive benchmarks that measure performance across multiple dimensions. Among these, the evaluation of natural language understanding (NLU) is particularly critical as it…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection",
+    "url": "https://huggingface.co/papers/2512.23273",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Existing Real-Time Object Detection (RTOD) methods commonly adopt YOLO-like architectures for their favorable trade-off between accuracy and speed. However, these models rely on static dense computation that applies uniform processing to all inputs, misallocating representational capacity and computational resources su…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "ProGuard: Towards Proactive Multimodal Safeguard",
+    "url": "https://huggingface.co/papers/2512.23573",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "The rapid evolution of generative models has led to a continuous emergence of multimodal safety risks, exposing the limitations of existing defense methods. To address these challenges, we propose ProGuard, a vision-language proactive guard that identifies and describes out-of-distribution (OOD) safety risks without th…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "VL-LN Bench: Towards Long-horizon Goal-oriented Navigation with Active Dialogs",
+    "url": "https://huggingface.co/papers/2512.22342",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "A new benchmark for dialog-enabled navigation tasks introduces interactive learning to resolve ambiguous instructions through active dialog, enhancing real-world applicability of embodied agents. AI-generated summary In most existing embodied navigation tasks, instructions are well-defined and unambiguous, such as inst…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Reverse Personalization",
+    "url": "https://huggingface.co/papers/2512.22984",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "A reverse personalization framework using conditional diffusion inversion enables attribute-controllable face anonymization, balancing identity removal and image quality. AI-generated summary Recent text-to-image diffusion models have demonstrated remarkable generation of realistic facial images conditioned on textual…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting",
+    "url": "https://huggingface.co/papers/2512.20927",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Recent advancements in computer vision have successfully extended Open-vocabulary segmentation (OVS) to the 3D domain by leveraging 3D Gaussian Splatting (3D-GS). Despite this progress, efficiently rendering the high-dimensional features required for open-vocabulary queries poses a significant challenge. Existing metho…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Knot Forcing: Taming Autoregressive Video Diffusion Models for Real-time Infinite Interactive Portrait Animation",
+    "url": "https://huggingface.co/papers/2512.21734",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Real-time portrait animation is essential for interactive applications such as virtual assistants and live avatars, requiring high visual fidelity, temporal coherence, ultra-low latency, and responsive control from dynamic inputs like reference images and driving signals. While diffusion-based models achieve strong qua…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Act2Goal: From World Model To General Goal-conditioned Policy",
+    "url": "https://huggingface.co/papers/2512.23541",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Act2Goal employs a goal-conditioned visual world model with multi-scale temporal control and cross-attention to achieve robust long-horizon robotic manipulation through structured planning and adaptive execution. AI-generated summary Specifying robotic manipulation tasks in a manner that is both expressive and precise…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion",
+    "url": "https://huggingface.co/papers/2512.23709",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Diffusion-based video super-resolution (VSR) methods achieve strong perceptual quality but remain impractical for latency-sensitive settings due to reliance on future frames and expensive multi-step denoising. We propose Stream-DiffVSR, a causally conditioned diffusion framework for efficient online VSR. Operating stri…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models",
+    "url": "https://huggingface.co/papers/2512.15560",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "The text encoder is a critical component of text-to-image and text-to-video diffusion models, fundamentally determining the semantic fidelity of the generated content. However, its development has been hindered by two major challenges: the lack of an efficient evaluation framework that reliably predicts downstream gene…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SpotEdit: Selective Region Editing in Diffusion Transformers",
+    "url": "https://huggingface.co/papers/2512.22323",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Diffusion Transformer models have significantly advanced image editing by encoding conditional images and integrating them into transformer layers. However, most edits involve modifying only small regions, while current methods uniformly process and denoise all tokens at every timestep, causing redundant computation an…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone",
+    "url": "https://huggingface.co/papers/2512.22615",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Diffusion-based vision-language models and action frameworks demonstrate superior performance in visual planning and robotic control tasks compared to autoregressive baselines. AI-generated summary While autoregressive Large Vision-Language Models (VLMs) have achieved remarkable success, their sequential generation oft…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "DiRL: An Efficient Post-Training Framework for Diffusion Language Models",
+    "url": "https://huggingface.co/papers/2512.22234",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Diffusion Language Models (dLLMs) have emerged as promising alternatives to Auto-Regressive (AR) models. While recent efforts have validated their pre-training potential and accelerated inference speeds, the post-training landscape for dLLMs remains underdeveloped. Existing methods suffer from computational inefficienc…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation",
+    "url": "https://huggingface.co/papers/2512.23576",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Real-time multimodal video generation via diffusion is enabled by an improved distillation approach with multimodal conditioning and optimized scheduling, reducing inference latency while maintaining quality for interactive systems. AI-generated summary Real-time video generation via diffusion is essential for building…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Bridging Your Imagination with Audio-Video Generation via a Unified Director",
+    "url": "https://huggingface.co/papers/2512.23222",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "A unified director model leveraging a Mixture-of-Transformers architecture with interleaved and disentangled learning generates coherent video scripts and consistent keyframes through a single framework. AI-generated summary Existing AI-driven video creation systems typically treat script drafting and key-shot design a…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling",
+    "url": "https://huggingface.co/papers/2512.23162",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Data scarcity remains a fundamental barrier to achieving fully autonomous surgical robots. While large scale vision language action (VLA) models have shown impressive generalization in household and industrial manipulation by leveraging paired video action data from diverse domains, surgical robotics suffers from the p…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Video-BrowseComp: Benchmarking Agentic Video Research on Open Web",
+    "url": "https://huggingface.co/papers/2512.23044",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "The paper addresses the modality gap in autonomous agents for video processing by introducing a benchmark requiring proactive, open-web video reasoning, revealing limitations of current models in metadata-sparse, dynamic video domains. AI-generated summary The evolution of autonomous agents is redefining information se…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation",
+    "url": "https://huggingface.co/papers/2512.23705",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Transparent objects remain notoriously hard for perception systems: refraction, reflection and transmission break the assumptions behind stereo, ToF and purely discriminative monocular depth, causing holes and temporally unstable estimates. Our key observation is that modern video diffusion models already synthesize co…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Training AI Co-Scientists Using Rubric Rewards",
+    "url": "https://huggingface.co/papers/2512.23707",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "AI co-scientists are emerging as a tool to assist human researchers in achieving their research goals. A crucial feature of these AI co-scientists is the ability to generate a research plan given a set of aims and constraints. The plan may be used by researchers for brainstorming, or may even be implemented after furth…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Yume-1.5: A Text-Controlled Interactive World Generation Model",
+    "url": "https://huggingface.co/papers/2512.22096",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Recent approaches have demonstrated the promise of using diffusion models to generate interactive and explorable worlds. However, most of these methods face critical challenges such as excessively large parameter sizes, reliance on lengthy inference steps, and rapidly growing historical context, which severely limit re…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Coupling Experts and Routers in Mixture-of-Experts via an Auxiliary Loss",
+    "url": "https://huggingface.co/papers/2512.23447",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "An expert-router coupling (ERC) loss aligns router decisions with expert capabilities in Mixture-of-Experts (MoE) models by enforcing constraints on internal activations, improving performance and computational efficiency. AI-generated summary Mixture-of-Experts (MoE) models lack explicit constraints to ensure the rout…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Nested Browser-Use Learning for Agentic Information Seeking",
+    "url": "https://huggingface.co/papers/2512.23647",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Information-seeking (IS) agents have achieved strong performance across a range of wide and deep search tasks, yet their tool use remains largely restricted to API-level snippet retrieval and URL-based page fetching, limiting access to the richer information available through real browsing. While full browser interacti…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Web World Models",
+    "url": "https://huggingface.co/papers/2512.23676",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Web World Models (WWMs) combine web frameworks with large language models to create controllable, open-ended persistent environments by structuring world state in web code and leveraging model-driven imagination for narratives and decisions. AI-generated summary Language agents increasingly require persistent worlds in…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding",
+    "url": "https://huggingface.co/papers/2512.23646",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Omnimodal large language models have made significant strides in unifying audio and visual modalities; however, they often lack the fine-grained cross-modal understanding and have difficulty with multimodal alignment. To address these limitations, we introduce OmniAgent, a fully audio-guided active perception agent tha…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents",
+    "url": "https://huggingface.co/papers/2512.22322",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-30",
+    "raw_snippet": "Agentic reinforcement learning (RL) holds great promise for the development of autonomous agents under complex GUI tasks, but its scalability remains severely hampered by the verification of task completion. Existing task verification is treated as a passive, post-hoc process: a verifier (i.e., rule-based scoring scrip…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
     "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
     "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
     "source": "Hugging Face Blog",
@@ -8,7 +442,7 @@
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
-    "hot_score": 12,
+    "hot_score": 11,
     "sources": [
       "Hugging Face Blog"
     ]
@@ -117,104 +551,6 @@
     "source": "arXiv cs.AI",
     "published_at": "2025-12-30",
     "raw_snippet": "arXiv:2512.21419v1 Announce Type: new Abstract: Trisecting agents, issues, and agent pairs are essential topics of three-way conflict analysis. They have been commonly studied based on either a rating or an auxiliary function. A rating function defines the positive, negative, or neutral ratings of agents on issues. An…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "Feasible strategies in three-way conflict analysis with three-valued ratings",
-    "url": "https://arxiv.org/abs/2512.21420",
-    "source": "arXiv cs.AI",
-    "published_at": "2025-12-30",
-    "raw_snippet": "arXiv:2512.21420v2 Announce Type: new Abstract: Most existing work on three-way conflict analysis has focused on trisecting agent pairs, agents, or issues, which contributes to understanding the nature of conflicts but falls short in addressing their resolution. Specifically, the formulation of feasible strategies, as…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "Three-way decision with incomplete information based on similarity and satisfiability",
-    "url": "https://arxiv.org/abs/2512.21421",
-    "source": "arXiv cs.AI",
-    "published_at": "2025-12-30",
-    "raw_snippet": "arXiv:2512.21421v1 Announce Type: new Abstract: Three-way decision is widely applied with rough set theory to learn classification or decision rules. The approaches dealing with complete information are well established in the literature, including the two complementary computational and conceptual formulations. The co…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis",
-    "url": "https://arxiv.org/abs/2512.21482",
-    "source": "arXiv cs.AI",
-    "published_at": "2025-12-30",
-    "raw_snippet": "arXiv:2512.21482v1 Announce Type: new Abstract: Sophisticated text-centric forgeries, fueled by rapid AIGC advancements, pose a significant threat to societal security and information authenticity. Current methods for text-centric forgery analysis are often limited to coarse-grained visual analysis and lack the capacit…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "Leash: Adaptive Length Penalty and Reward Shaping for Efficient Large Reasoning Model",
-    "url": "https://arxiv.org/abs/2512.21540",
-    "source": "arXiv cs.AI",
-    "published_at": "2025-12-30",
-    "raw_snippet": "arXiv:2512.21540v1 Announce Type: new Abstract: Existing approaches typically rely on fixed length penalties, but such penalties are hard to tune and fail to adapt to the evolving reasoning abilities of LLMs, leading to suboptimal trade-offs between accuracy and conciseness. To address this challenge, we propose Leash…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "NEMO-4-PAYPAL: Leveraging NVIDIA's Nemo Framework for empowering PayPal's Commerce Agent",
-    "url": "https://arxiv.org/abs/2512.21578",
-    "source": "arXiv cs.AI",
-    "published_at": "2025-12-30",
-    "raw_snippet": "arXiv:2512.21578v1 Announce Type: new Abstract: We present the development and optimization of PayPal's Commerce Agent, powered by NEMO-4-PAYPAL, a multi-agent system designed to revolutionize agentic commerce on the PayPal platform. Through our strategic partnership with NVIDIA, we leveraged the NeMo Framework for LLM…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "A Medical Multimodal Diagnostic Framework Integrating Vision-Language Models and Logic Tree Reasoning",
-    "url": "https://arxiv.org/abs/2512.21583",
-    "source": "arXiv cs.AI",
-    "published_at": "2025-12-30",
-    "raw_snippet": "arXiv:2512.21583v1 Announce Type: new Abstract: With the rapid growth of large language models (LLMs) and vision-language models (VLMs) in medicine, simply integrating clinical text and medical imaging does not guarantee reliable reasoning. Existing multimodal models often produce hallucinations or inconsistent chains…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "AMS-IO-Bench and AMS-IO-Agent: Benchmarking and Structured Reasoning for Analog and Mixed-Signal Integrated Circuit Input/Output Design",
-    "url": "https://arxiv.org/abs/2512.21613",
-    "source": "arXiv cs.AI",
-    "published_at": "2025-12-30",
-    "raw_snippet": "arXiv:2512.21613v1 Announce Type: new Abstract: In this paper, we propose AMS-IO-Agent, a domain-specialized LLM-based agent for structure-aware input/output (I/O) subsystem generation in analog and mixed-signal (AMS) integrated circuits (ICs). The central contribution of this work is a framework that connects natural…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
