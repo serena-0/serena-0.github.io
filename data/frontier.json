@@ -1,5 +1,89 @@
 [
   {
+    "title": "End-to-End Test-Time Training for Long Context",
+    "url": "https://huggingface.co/papers/2512.23675",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-31",
+    "raw_snippet": "We formulate long-context language modeling as a problem in continual learning rather than architecture design. Under this formulation, we only use a standard architecture -- a Transformer with sliding-window attention. However, our model continues learning at test time via next-token prediction on the given context, c…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement",
+    "url": "https://huggingface.co/papers/2512.21185",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-31",
+    "raw_snippet": "In this report, we introduce UltraShape 1.0, a scalable 3D diffusion framework for high-fidelity 3D geometry generation. The proposed approach adopts a two-stage generation pipeline: a coarse global structure is first synthesized and then refined to produce detailed, high-quality geometry. To support reliable 3D genera…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs",
+    "url": "https://huggingface.co/papers/2512.21008",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-31",
+    "raw_snippet": "Mixture-of-Experts (MoE) architectures have advanced the scaling of Large Language Models (LLMs) by activating only a sparse subset of parameters per input, enabling state-of-the-art performance with reduced computational cost. As these models are increasingly deployed in critical domains, understanding and strengtheni…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Evaluating Parameter Efficient Methods for RLVR",
+    "url": "https://huggingface.co/papers/2512.23165",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-31",
+    "raw_snippet": "We systematically evaluate Parameter-Efficient Fine-Tuning (PEFT) methods under the paradigm of Reinforcement Learning with Verifiable Rewards (RLVR). RLVR incentivizes language models to enhance their reasoning capabilities through verifiable feedback; however, while methods like LoRA are commonly used, the optimal PE…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "GraphLocator: Graph-guided Causal Reasoning for Issue Localization",
+    "url": "https://huggingface.co/papers/2512.22469",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-31",
+    "raw_snippet": "The issue localization task aims to identify the locations in a software repository that requires modification given a natural language issue description. This task is fundamental yet challenging in automated software engineering due to the semantic gap between issue description and source code implementation. This gap…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "DreamOmni3: Scribble-based Editing and Generation",
+    "url": "https://huggingface.co/papers/2512.22525",
+    "source": "HF Trending Papers",
+    "published_at": "2025-12-31",
+    "raw_snippet": "Recently unified generation and editing models have achieved remarkable success with their impressive performance. These models rely mainly on text prompts for instruction-based editing and generation, but language often fails to capture users intended edit locations and fine-grained visual details. To this end, we pro…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
     "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
     "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
     "source": "Hugging Face Blog",
@@ -18,20 +102,6 @@
     "url": "https://huggingface.co/blog/tokenizers",
     "source": "Hugging Face Blog",
     "published_at": "2025-12-18",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 11,
-    "sources": [
-      "Hugging Face Blog"
-    ]
-  },
-  {
-    "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
-    "source": "Hugging Face Blog",
-    "published_at": "2025-12-17",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
