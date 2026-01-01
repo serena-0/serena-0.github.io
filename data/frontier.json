@@ -1,89 +1,5 @@
 [
   {
-    "title": "End-to-End Test-Time Training for Long Context",
-    "url": "https://huggingface.co/papers/2512.23675",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-31",
-    "raw_snippet": "We formulate long-context language modeling as a problem in continual learning rather than architecture design. Under this formulation, we only use a standard architecture -- a Transformer with sliding-window attention. However, our model continues learning at test time via next-token prediction on the given context, c…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement",
-    "url": "https://huggingface.co/papers/2512.21185",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-31",
-    "raw_snippet": "In this report, we introduce UltraShape 1.0, a scalable 3D diffusion framework for high-fidelity 3D geometry generation. The proposed approach adopts a two-stage generation pipeline: a coarse global structure is first synthesized and then refined to produce detailed, high-quality geometry. To support reliable 3D genera…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs",
-    "url": "https://huggingface.co/papers/2512.21008",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-31",
-    "raw_snippet": "Mixture-of-Experts (MoE) architectures have advanced the scaling of Large Language Models (LLMs) by activating only a sparse subset of parameters per input, enabling state-of-the-art performance with reduced computational cost. As these models are increasingly deployed in critical domains, understanding and strengtheni…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Evaluating Parameter Efficient Methods for RLVR",
-    "url": "https://huggingface.co/papers/2512.23165",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-31",
-    "raw_snippet": "We systematically evaluate Parameter-Efficient Fine-Tuning (PEFT) methods under the paradigm of Reinforcement Learning with Verifiable Rewards (RLVR). RLVR incentivizes language models to enhance their reasoning capabilities through verifiable feedback; however, while methods like LoRA are commonly used, the optimal PE…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "GraphLocator: Graph-guided Causal Reasoning for Issue Localization",
-    "url": "https://huggingface.co/papers/2512.22469",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-31",
-    "raw_snippet": "The issue localization task aims to identify the locations in a software repository that requires modification given a natural language issue description. This task is fundamental yet challenging in automated software engineering due to the semantic gap between issue description and source code implementation. This gap…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "DreamOmni3: Scribble-based Editing and Generation",
-    "url": "https://huggingface.co/papers/2512.22525",
-    "source": "HF Trending Papers",
-    "published_at": "2025-12-31",
-    "raw_snippet": "Recently unified generation and editing models have achieved remarkable success with their impressive performance. These models rely mainly on text prompts for instruction-based editing and generation, but language often fails to capture users intended edit locations and fine-grained visual details. To this end, we pro…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
     "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
     "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
     "source": "Hugging Face Blog",
@@ -154,11 +70,27 @@
     ]
   },
   {
-    "title": "Bidirectional RAG: Safe Self-Improving Retrieval-Augmented Generation Through Multi-Stage Validation",
-    "url": "https://arxiv.org/abs/2512.22199",
+    "title": "The Drill-Down and Fabricate Test (DDFT): A Protocol for Measuring Epistemic Robustness in Language Models",
+    "url": "https://arxiv.org/abs/2512.23850",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-31",
-    "raw_snippet": "arXiv:2512.22199v1 Announce Type: new Abstract: Retrieval-Augmented Generation RAG systems enhance large language models by grounding responses in external knowledge bases, but conventional RAG architectures operate with static corpora that cannot evolve from user interactions. We introduce Bidirectional RAG, a novel R…",
+    "published_at": "2026-01-01",
+    "raw_snippet": "arXiv:2512.23850v1 Announce Type: new Abstract: Current language model evaluations measure what models know under ideal conditions but not how robustly they know it under realistic stress. Static benchmarks like MMLU and TruthfulQA cannot distinguish a model that lacks knowledge from one whose verification mechanisms c…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI",
+      "arXiv cs.CL",
+      "arXiv cs.LG"
+    ]
+  },
+  {
+    "title": "CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution",
+    "url": "https://arxiv.org/abs/2512.23880",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-01",
+    "raw_snippet": "arXiv:2512.23880v1 Announce Type: new Abstract: Large language model (LLM) agents currently depend on predefined tools or brittle tool generation, constraining their capability and adaptability to complex scientific tasks. We introduce CASCADE, a self-evolving agentic framework representing an early instantiation of th…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -168,11 +100,11 @@
     ]
   },
   {
-    "title": "Emergent Persuasion: Will LLMs Persuade Without Being Prompted?",
-    "url": "https://arxiv.org/abs/2512.22201",
+    "title": "A Proof-of-Concept for Explainable Disease Diagnosis Using Large Language Models and Answer Set Programming",
+    "url": "https://arxiv.org/abs/2512.23932",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-31",
-    "raw_snippet": "arXiv:2512.22201v1 Announce Type: new Abstract: With the wide-scale adoption of conversational AI systems, AI are now able to exert unprecedented influence on human opinion and beliefs. Recent work has shown that many Large Language Models (LLMs) comply with requests to persuade users into harmful beliefs or actions wh…",
+    "published_at": "2026-01-01",
+    "raw_snippet": "arXiv:2512.23932v1 Announce Type: new Abstract: Accurate disease prediction is vital for timely intervention, effective treatment, and reducing medical complications. While symbolic AI has been applied in healthcare, its adoption remains limited due to the effort required for constructing high-quality knowledge bases.…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -182,11 +114,11 @@
     ]
   },
   {
-    "title": "GamiBench: Evaluating Spatial Reasoning and 2D-to-3D Planning Capabilities of MLLMs with Origami Folding Tasks",
-    "url": "https://arxiv.org/abs/2512.22207",
+    "title": "SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing",
+    "url": "https://arxiv.org/abs/2512.24008",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-31",
-    "raw_snippet": "arXiv:2512.22207v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) are proficient in perception and instruction-following, but they still struggle with spatial reasoning: the ability to mentally track and manipulate objects across multiple views and over time. Spatial reasoning is a key component…",
+    "published_at": "2026-01-01",
+    "raw_snippet": "arXiv:2512.24008v1 Announce Type: new Abstract: Personalized search demands the ability to model users' evolving, multi-dimensional information needs; a challenge for systems constrained by static profiles or monolithic retrieval pipelines. We present SPARK (Search Personalization via Agent-Driven Retrieval and Knowled…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -196,11 +128,11 @@
     ]
   },
   {
-    "title": "Toward Equitable Recovery: A Fairness-Aware AI Framework for Prioritizing Post-Flood Aid in Bangladesh",
-    "url": "https://arxiv.org/abs/2512.22210",
+    "title": "ROAD: Reflective Optimization via Automated Debugging for Zero-Shot Agent Alignment",
+    "url": "https://arxiv.org/abs/2512.24040",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-31",
-    "raw_snippet": "arXiv:2512.22210v1 Announce Type: new Abstract: Post-disaster aid allocation in developing nations often suffers from systematic biases that disadvantage vulnerable regions, perpetuating historical inequities. This paper presents a fairness-aware artificial intelligence framework for prioritizing post-flood aid distrib…",
+    "published_at": "2026-01-01",
+    "raw_snippet": "arXiv:2512.24040v1 Announce Type: new Abstract: Automatic Prompt Optimization (APO) has emerged as a critical technique for enhancing Large Language Model (LLM) performance, yet current state-of-the-art methods typically rely on large, labeled gold-standard development sets to compute fitness scores for evolutionary or…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -210,11 +142,11 @@
     ]
   },
   {
-    "title": "With Great Capabilities Come Great Responsibilities: Introducing the Agentic Risk & Capability Framework for Governing Agentic AI Systems",
-    "url": "https://arxiv.org/abs/2512.22211",
+    "title": "LoongFlow: Directed Evolutionary Search via a Cognitive Plan-Execute-Summarize Paradigm",
+    "url": "https://arxiv.org/abs/2512.24077",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-31",
-    "raw_snippet": "arXiv:2512.22211v1 Announce Type: new Abstract: Agentic AI systems present both significant opportunities and novel risks due to their capacity for autonomous action, encompassing tasks such as code execution, internet interaction, and file modification. This poses considerable challenges for effective organizational g…",
+    "published_at": "2026-01-01",
+    "raw_snippet": "arXiv:2512.24077v1 Announce Type: new Abstract: The transition from static Large Language Models (LLMs) to self-improving agents is hindered by the lack of structured reasoning in traditional evolutionary approaches. Existing methods often struggle with premature convergence and inefficient exploration in high-dimensio…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -224,11 +156,11 @@
     ]
   },
   {
-    "title": "We are not able to identify AI-generated images",
-    "url": "https://arxiv.org/abs/2512.22236",
+    "title": "CogRec: A Cognitive Recommender Agent Fusing Large Language Models and Soar for Explainable Recommendation",
+    "url": "https://arxiv.org/abs/2512.24113",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-31",
-    "raw_snippet": "arXiv:2512.22236v1 Announce Type: new Abstract: AI-generated images are now pervasive online, yet many people believe they can easily tell them apart from real photographs. We test this assumption through an interactive web experiment where participants classify 20 images as real or AI-generated. Our dataset contains 1…",
+    "published_at": "2026-01-01",
+    "raw_snippet": "arXiv:2512.24113v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated a remarkable capacity in understanding user preferences for recommendation systems. However, they are constrained by several critical challenges, including their inherent \"Black-Box\" characteristics, susceptibility to knowled…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -238,11 +170,11 @@
     ]
   },
   {
-    "title": "Shape of Thought: When Distribution Matters More than Correctness in Reasoning Tasks",
-    "url": "https://arxiv.org/abs/2512.22255",
+    "title": "Graph-Based Exploration for ARC-AGI-3 Interactive Reasoning Tasks",
+    "url": "https://arxiv.org/abs/2512.24156",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-31",
-    "raw_snippet": "arXiv:2512.22255v1 Announce Type: new Abstract: We present the surprising finding that a language model's reasoning capabilities can be improved by training on synthetic datasets of chain-of-thought (CoT) traces from more capable models, even when all of those traces lead to an incorrect final answer. Our experiments s…",
+    "published_at": "2026-01-01",
+    "raw_snippet": "arXiv:2512.24156v1 Announce Type: new Abstract: We present a training-free graph-based approach for solving interactive reasoning tasks in the ARC-AGI-3 benchmark. ARC-AGI-3 comprises game-like tasks where agents must infer task mechanics through limited interactions, and adapt to increasing complexity as levels progre…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -252,11 +184,11 @@
     ]
   },
   {
-    "title": "Logic Sketch Prompting (LSP): A Deterministic and Interpretable Prompting Method",
-    "url": "https://arxiv.org/abs/2512.22258",
+    "title": "SCP: Accelerating Discovery with a Global Web of Autonomous Scientific Agents",
+    "url": "https://arxiv.org/abs/2512.24189",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-31",
-    "raw_snippet": "arXiv:2512.22258v1 Announce Type: new Abstract: Large language models (LLMs) excel at natural language reasoning but remain unreliable on tasks requiring strict rule adherence, determinism, and auditability. Logic Sketch Prompting (LSP) is a lightweight prompting framework that introduces typed variables, deterministic…",
+    "published_at": "2026-01-01",
+    "raw_snippet": "arXiv:2512.24189v1 Announce Type: new Abstract: We introduce SCP: the Science Context Protocol, an open-source standard designed to accelerate discovery by enabling a global network of autonomous scientific agents. SCP is built on two foundational pillars: (1) Unified Resource Integration: At its core, SCP provides a u…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -266,25 +198,11 @@
     ]
   },
   {
-    "title": "SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence",
-    "url": "https://arxiv.org/abs/2512.22334",
+    "title": "Deep Reinforcement Learning for Solving the Fleet Size and Mix Vehicle Routing Problem",
+    "url": "https://arxiv.org/abs/2512.24251",
     "source": "arXiv cs.AI",
-    "published_at": "2025-12-31",
-    "raw_snippet": "arXiv:2512.22334v1 Announce Type: new Abstract: We introduce SciEvalKit, a unified benchmarking toolkit designed to evaluate AI models for science across a broad range of scientific disciplines and task capabilities. Unlike general-purpose evaluation platforms, SciEvalKit focuses on the core competencies of scientific…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback",
-    "url": "https://arxiv.org/abs/2512.22336",
-    "source": "arXiv cs.AI",
-    "published_at": "2025-12-31",
-    "raw_snippet": "arXiv:2512.22336v1 Announce Type: new Abstract: Symbolic world models (e.g., PDDL domains or executable simulators) are central to model-based planning, but training LLMs to generate such world models is limited by the lack of large-scale verifiable supervision. Current approaches rely primarily on static validation me…",
+    "published_at": "2026-01-01",
+    "raw_snippet": "arXiv:2512.24251v1 Announce Type: new Abstract: The Fleet Size and Mix Vehicle Routing Problem (FSMVRP) is a prominent variant of the Vehicle Routing Problem (VRP), extensively studied in operations research and computational science. FSMVRP requires simultaneous decisions on fleet composition and routing, making it hi…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
