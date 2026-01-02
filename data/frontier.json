@@ -1,23 +1,289 @@
 [
   {
+    "title": "SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time",
+    "url": "https://huggingface.co/papers/2512.25075",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-02",
+    "raw_snippet": "SpaceTimePilot is a video diffusion model enabling independent control of spatial viewpoint and temporal motion through a time-embedding mechanism, temporal-warping training, and a synthetic dataset for precise space-time disentanglement. AI-generated summary We present SpaceTimePilot, a video diffusion model that dise…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Figure It Out: Improving the Frontier of Reasoning with Active Visual Thinking",
+    "url": "https://huggingface.co/papers/2512.24297",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-02",
+    "raw_snippet": "Complex reasoning problems often involve implicit spatial, geometric, and structural relationships that are not explicitly encoded in text. While recent reasoning models have achieved strong performance across many domains, purely text-based reasoning struggles to represent global structural constraints in complex sett…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "A unified framework for detecting point and collective anomalies in operating system logs via collaborative transformers",
+    "url": "https://huggingface.co/papers/2512.23380",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "CoLog, a log anomaly detection framework, employs collaborative transformers and multi-head impressed attention with a modality adaptation layer to achieve high-precision detection of both point and collective anomalies across diverse log modalities. AI-generated summary Log anomaly detection is crucial for preserving…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem",
+    "url": "https://huggingface.co/papers/2512.24873",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "The Agentic Learning Ecosystem (ALE) introduces a principled infrastructure for agent development, combining post-training optimization, sandbox environments, and policy alignment to enhance long-horizon training stability and performance in real-world tasks. AI-generated summary Agentic crafting requires LLMs to opera…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Guiding a Diffusion Transformer with the Internal Dynamics of Itself",
+    "url": "https://huggingface.co/papers/2512.24176",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "The diffusion model presents a powerful ability to capture the entire (conditional) data distribution. However, due to the lack of sufficient training and data to learn to cover low-probability areas, the model will be penalized for failing to generate high-quality images corresponding to these areas. To achieve better…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "mHC: Manifold-Constrained Hyper-Connections",
+    "url": "https://huggingface.co/papers/2512.24880",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "Manifold-Constrained Hyper-Connections (mHC) stabilize and scale residual connection architectures by restoring identity mapping properties through manifold projection and infrastructure optimization. AI-generated summary Recently, studies exemplified by Hyper-Connections (HC) have extended the ubiquitous residual conn…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Fantastic Reasoning Behaviors and Where to Find Them: Unsupervised Discovery of the Reasoning Process",
+    "url": "https://huggingface.co/papers/2512.23988",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "An unsupervised framework using sparse auto-encoders identifies and controls interpretable reasoning behaviors in large language models through disentangled latent vectors. AI-generated summary Despite the growing reasoning capabilities of recent large language models (LLMs), their internal mechanisms during the reason…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents",
+    "url": "https://huggingface.co/papers/2512.23343",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "Memory serves as the pivotal nexus bridging past and future, providing both humans and AI systems with invaluable concepts and experience to navigate complex tasks. Recent research on autonomous agents has increasingly focused on designing efficient memory workflows by drawing on cognitive neuroscience. However, constr…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction",
+    "url": "https://huggingface.co/papers/2512.25073",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "GaMO enhances sparse-view 3D reconstruction by using geometry-aware multi-view outpainting to improve scene coverage and consistency, achieving state-of-the-art performance with reduced computational cost. AI-generated summary Recent advances in 3D reconstruction have achieved remarkable progress in high-quality scene…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Geometry-Aware Optimization for Respiratory Sound Classification: Enhancing Sensitivity with SAM-Optimized Audio Spectrogram Transformers",
+    "url": "https://huggingface.co/papers/2512.22564",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "Respiratory sound classification is hindered by the limited size, high noise levels, and severe class imbalance of benchmark datasets like ICBHI 2017. While Transformer-based models offer powerful feature extraction capabilities, they are prone to overfitting and often converge to sharp minima in the loss landscape whe…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "BEDA: Belief Estimation as Probabilistic Constraints for Performing Strategic Dialogue Acts",
+    "url": "https://huggingface.co/papers/2512.24885",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "A framework called BEDA uses probabilistic constraints on belief estimation to improve strategic dialogue through formalized adversarial and alignment acts, outperforming baselines across multiple task settings. AI-generated summary Strategic dialogue requires agents to execute distinct dialogue acts, for which belief…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Valori: A Deterministic Memory Substrate for AI Systems",
+    "url": "https://huggingface.co/papers/2512.22280",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "Valori introduces a deterministic AI memory system using fixed-point arithmetic to ensure bit-identical results across platforms, addressing non-determinism in vector embeddings and similarity search for trustworthy AI. AI-generated summary Modern AI systems rely on vector embeddings stored and searched using floating-…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
+    "url": "https://huggingface.co/papers/2512.24385",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "The rapid advancement of autonomous systems, including self-driving vehicles and drones, has intensified the need to forge true Spatial Intelligence from multi-modal onboard sensor data. While foundation models excel in single-modal contexts, integrating their capabilities across diverse sensors like cameras and LiDAR…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation",
+    "url": "https://huggingface.co/papers/2512.22905",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "This paper presents JavisGPT, the first unified multimodal large language model (MLLM) for Joint Audio-Video (JAV) comprehension and generation. JavisGPT adopts a concise encoder-LLM-decoder architecture, featuring a SyncFusion module for spatio-temporal audio-video fusion and synchrony-aware learnable queries to bridg…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Factorized Learning for Temporally Grounded Video-Language Models",
+    "url": "https://huggingface.co/papers/2512.24097",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "Recent video-language models have shown great potential for video understanding, but still struggle with accurate temporal grounding for event-level perception. We observe that two main factors in video understanding (i.e., temporal grounding and textual response) form a logical hierarchy: accurate temporal evidence gr…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Scaling Open-Ended Reasoning to Predict the Future",
+    "url": "https://huggingface.co/papers/2512.25070",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "High-stakes decision making involves reasoning under uncertainty about the future. In this work, we train language models to make predictions on open-ended forecasting questions. To scale up training data, we synthesize novel forecasting questions from global events reported in daily news, using a fully automated, care…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation",
+    "url": "https://huggingface.co/papers/2512.24551",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "Recent advances in text-to-video (T2V) generation have achieved good visual quality, yet synthesizing videos that faithfully follow physical laws remains an open challenge. Existing methods mainly based on graphics or prompt extension struggle to generalize beyond simple simulated environments or learn implicit physica…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "GR-Dexter Technical Report",
+    "url": "https://huggingface.co/papers/2512.24210",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "GR-Dexter introduces a hardware-model-data framework for bimanual dexterous-hand robot manipulation using vision-language-action models, combining teleoperation data and multimodal datasets to achieve robust generalization. AI-generated summary Vision-language-action (VLA) models have enabled language-conditioned, long…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Youtu-LLM: Unlocking the Native Agentic Potential for Lightweight Large Language Models",
+    "url": "https://huggingface.co/papers/2512.24618",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "Youtu-LLM is a lightweight language model optimized for computational efficiency and agentic intelligence through a compact architecture, STEM-focused training curriculum, and scalable mid-training strategies for planning and reasoning tasks. AI-generated summary We introduce Youtu-LLM, a lightweight yet powerful langu…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Pretraining Frame Preservation in Autoregressive Video Memory Compression",
+    "url": "https://huggingface.co/papers/2512.23851",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-01",
+    "raw_snippet": "We present PFP, a neural network structure to compress long videos into short contexts, with an explicit pretraining objective to preserve the high-frequency details of single frames at arbitrary temporal positions. The baseline model can compress a 20-second video into a context at about 5k length, where random frames…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
     "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
     "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
     "source": "Hugging Face Blog",
     "published_at": "2025-12-23",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 11,
-    "sources": [
-      "Hugging Face Blog"
-    ]
-  },
-  {
-    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
-    "url": "https://huggingface.co/blog/tokenizers",
-    "source": "Hugging Face Blog",
-    "published_at": "2025-12-18",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
