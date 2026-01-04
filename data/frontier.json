@@ -1,103 +1,5 @@
 [
   {
-    "title": "TESO Tabu Enhanced Simulation Optimization for Noisy Black Box Problems",
-    "url": "https://huggingface.co/papers/2512.24007",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-02",
-    "raw_snippet": "Simulation optimization (SO) is frequently challenged by noisy evaluations, high computational costs, and complex, multimodal search landscapes. This paper introduces Tabu-Enhanced Simulation Optimization (TESO), a novel metaheuristic framework integrating adaptive search with memory-based strategies. TESO leverages a…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 14,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "FlowBlending: Stage-Aware Multi-Model Sampling for Fast and High-Fidelity Video Generation",
-    "url": "https://huggingface.co/papers/2512.24724",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-02",
-    "raw_snippet": "In this work, we show that the impact of model capacity varies across timesteps: it is crucial for the early and late stages but largely negligible during the intermediate stage. Accordingly, we propose FlowBlending, a stage-aware multi-model sampling strategy that employs a large model and a small model at capacity-se…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 14,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow",
-    "url": "https://huggingface.co/papers/2512.24766",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-02",
-    "raw_snippet": "Generative video modeling has emerged as a compelling tool to zero-shot reason about plausible physical interactions for open-world manipulation. Yet, it remains a challenge to translate such human-led motions into the low-level actions demanded by robotic systems. We observe that given an initial image and task instru…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 14,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling",
-    "url": "https://huggingface.co/papers/2512.23959",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-02",
-    "raw_snippet": "Multi-step retrieval-augmented generation (RAG) has become a widely adopted strategy for enhancing large language models (LLMs) on tasks that demand global comprehension and intensive reasoning. Many RAG systems incorporate a working memory module to consolidate retrieved information. However, existing memory designs f…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 14,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models",
-    "url": "https://huggingface.co/papers/2512.24165",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-02",
-    "raw_snippet": "While recent Multimodal Large Language Models (MLLMs) have attained significant strides in multimodal reasoning, their reasoning processes remain predominantly text-centric, leading to suboptimal performance in complex long-horizon, vision-centric tasks. In this paper, we establish a novel Generative Multimodal Reasoni…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 14,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "On the Role of Discreteness in Diffusion LLMs",
-    "url": "https://huggingface.co/papers/2512.22630",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-02",
-    "raw_snippet": "Diffusion models offer appealing properties for language generation, such as parallel decoding and iterative refinement, but the discrete and highly structured nature of text challenges the direct application of diffusion principles. In this paper, we revisit diffusion language modeling from the view of diffusion proce…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 14,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space",
-    "url": "https://huggingface.co/papers/2512.24617",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-02",
-    "raw_snippet": "Large Language Models (LLMs) apply uniform computation to all tokens, despite language exhibiting highly non-uniform information density. This token-uniform regime wastes capacity on locally predictable spans while under-allocating computation to semantically critical transitions. We propose Dynamic Large Concept Model…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 14,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
     "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
     "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
     "source": "Hugging Face Blog",
@@ -112,8 +14,8 @@
     ]
   },
   {
-    "title": "ControlNet作者张吕敏最新论文：长视频也能实现超短上下文",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-04-5",
+    "title": "AAAI 2026 | 小鹏联合北大，专为VLA模型定制视觉token剪枝方法，让端到端自动驾驶更高效",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-04-8",
     "source": "机器之心",
     "published_at": "2026-01-04",
     "raw_snippet": "",
@@ -126,8 +28,8 @@
     ]
   },
   {
-    "title": "4个月烧掉30亿Token，这位「菜鸟」程序员做出50多个产品，360万人围观",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-04-4",
+    "title": "统一结构与上下文信息的计算平台，德国慕尼黑大学等提出端到端的单细胞扰动分析框架",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-04-7",
     "source": "机器之心",
     "published_at": "2026-01-04",
     "raw_snippet": "",
@@ -140,8 +42,8 @@
     ]
   },
   {
-    "title": "LeCun在Meta还有论文：JEPA物理规划的「终极指南」",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-04-3",
+    "title": "前OpenAI CTO押注的赛道，被中国团队抢先跑通，AI「下半场」入场券人人有份",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-04-6",
     "source": "机器之心",
     "published_at": "2026-01-04",
     "raw_snippet": "",
