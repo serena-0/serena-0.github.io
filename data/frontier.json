@@ -1,103 +1,5 @@
 [
   {
-    "title": "TESO Tabu Enhanced Simulation Optimization for Noisy Black Box Problems",
-    "url": "https://huggingface.co/papers/2512.24007",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-02",
-    "raw_snippet": "Simulation optimization (SO) is frequently challenged by noisy evaluations, high computational costs, and complex, multimodal search landscapes. This paper introduces Tabu-Enhanced Simulation Optimization (TESO), a novel metaheuristic framework integrating adaptive search with memory-based strategies. TESO leverages a…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 14,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "FlowBlending: Stage-Aware Multi-Model Sampling for Fast and High-Fidelity Video Generation",
-    "url": "https://huggingface.co/papers/2512.24724",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-02",
-    "raw_snippet": "In this work, we show that the impact of model capacity varies across timesteps: it is crucial for the early and late stages but largely negligible during the intermediate stage. Accordingly, we propose FlowBlending, a stage-aware multi-model sampling strategy that employs a large model and a small model at capacity-se…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 14,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow",
-    "url": "https://huggingface.co/papers/2512.24766",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-02",
-    "raw_snippet": "Generative video modeling has emerged as a compelling tool to zero-shot reason about plausible physical interactions for open-world manipulation. Yet, it remains a challenge to translate such human-led motions into the low-level actions demanded by robotic systems. We observe that given an initial image and task instru…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 14,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling",
-    "url": "https://huggingface.co/papers/2512.23959",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-02",
-    "raw_snippet": "Multi-step retrieval-augmented generation (RAG) has become a widely adopted strategy for enhancing large language models (LLMs) on tasks that demand global comprehension and intensive reasoning. Many RAG systems incorporate a working memory module to consolidate retrieved information. However, existing memory designs f…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 14,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models",
-    "url": "https://huggingface.co/papers/2512.24165",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-02",
-    "raw_snippet": "While recent Multimodal Large Language Models (MLLMs) have attained significant strides in multimodal reasoning, their reasoning processes remain predominantly text-centric, leading to suboptimal performance in complex long-horizon, vision-centric tasks. In this paper, we establish a novel Generative Multimodal Reasoni…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 14,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "On the Role of Discreteness in Diffusion LLMs",
-    "url": "https://huggingface.co/papers/2512.22630",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-02",
-    "raw_snippet": "Diffusion models offer appealing properties for language generation, such as parallel decoding and iterative refinement, but the discrete and highly structured nature of text challenges the direct application of diffusion principles. In this paper, we revisit diffusion language modeling from the view of diffusion proce…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 14,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space",
-    "url": "https://huggingface.co/papers/2512.24617",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-02",
-    "raw_snippet": "Large Language Models (LLMs) apply uniform computation to all tokens, despite language exhibiting highly non-uniform information density. This token-uniform regime wastes capacity on locally predictable spans while under-allocating computation to semantically critical transitions. We propose Dynamic Large Concept Model…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 14,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
     "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
     "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
     "source": "Hugging Face Blog",
@@ -109,6 +11,20 @@
     "hot_score": 11,
     "sources": [
       "Hugging Face Blog"
+    ]
+  },
+  {
+    "title": "AAAI 2026 Oral｜InfiGUI-G1模型来了，刷新GUI Grounding SOTA",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-05",
+    "source": "机器之心",
+    "published_at": "2026-01-05",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 6,
+    "sources": [
+      "机器之心"
     ]
   },
   {
@@ -140,17 +56,149 @@
     ]
   },
   {
-    "title": "从「被动」到「主动」，为什么给耳机装上「眼睛」后AI范式变了？",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-04-10",
-    "source": "机器之心",
-    "published_at": "2026-01-04",
-    "raw_snippet": "",
+    "title": "Reasoning in Action: MCTS-Driven Knowledge Retrieval for Large Language Models",
+    "url": "https://arxiv.org/abs/2601.00003",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-05",
+    "raw_snippet": "arXiv:2601.00003v1 Announce Type: new Abstract: Large language models (LLMs) typically enhance their performance through either the retrieval of semantically similar information or the improvement of their reasoning capabilities. However, a significant challenge remains in effectively integrating both retrieval and rea…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
-    "hot_score": 6,
+    "hot_score": 5,
     "sources": [
-      "机器之心"
+      "arXiv cs.AI",
+      "arXiv cs.CL"
+    ]
+  },
+  {
+    "title": "Finetuning Large Language Models for Automated Depression Screening in Nigerian Pidgin English: GENSCORE Pilot Study",
+    "url": "https://arxiv.org/abs/2601.00004",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-05",
+    "raw_snippet": "arXiv:2601.00004v1 Announce Type: new Abstract: Depression is a major contributor to the mental-health burden in Nigeria, yet screening coverage remains limited due to low access to clinicians, stigma, and language barriers. Traditional tools like the Patient Health Questionnaire-9 (PHQ-9) were validated in high-income…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI",
+      "arXiv cs.CL",
+      "arXiv cs.LG"
+    ]
+  },
+  {
+    "title": "Toward a Physical Theory of Intelligence",
+    "url": "https://arxiv.org/abs/2601.00021",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-05",
+    "raw_snippet": "arXiv:2601.00021v1 Announce Type: new Abstract: We present a physical theory of intelligence grounded in irreversible information processing in systems constrained by conservation laws. An intelligent system is modelled as a coupled agent-environment process whose evolution transforms information into goal-directed wor…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "A multi-algorithm approach for operational human resources workload balancing in a last mile urban delivery system",
+    "url": "https://arxiv.org/abs/2601.00023",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-05",
+    "raw_snippet": "arXiv:2601.00023v1 Announce Type: new Abstract: Efficient workload assignment to the workforce is critical in last-mile package delivery systems. In this context, traditional methods of assigning package deliveries to workers based on geographical proximity can be inefficient and surely guide to an unbalanced workload…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI",
+      "arXiv cs.LG"
+    ]
+  },
+  {
+    "title": "Quantitative Rule-Based Strategy modeling in Classic Indian Rummy: A Metric Optimization Approach",
+    "url": "https://arxiv.org/abs/2601.00024",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-05",
+    "raw_snippet": "arXiv:2601.00024v1 Announce Type: new Abstract: The 13-card variant of Classic Indian Rummy is a sequential game of incomplete information that requires probabilistic reasoning and combinatorial decision-making. This paper proposes a rule-based framework for strategic play, driven by a new hand-evaluation metric termed…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "From Clay to Code: Typological and Material Reasoning in AI Interpretations of Iranian Pigeon Towers",
+    "url": "https://arxiv.org/abs/2601.00029",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-05",
+    "raw_snippet": "arXiv:2601.00029v1 Announce Type: new Abstract: This study investigates how generative AI systems interpret the architectural intelligence embedded in vernacular form. Using the Iranian pigeon tower as a case study, the research tests three diffusion models, Midjourney v6, DALL-E 3, and DreamStudio based on Stable Diff…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI",
+      "arXiv cs.CV"
+    ]
+  },
+  {
+    "title": "The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs",
+    "url": "https://arxiv.org/abs/2601.00097",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-05",
+    "raw_snippet": "arXiv:2601.00097v1 Announce Type: new Abstract: We design a large-language-model (LLM) agent that extracts causal feedback fuzzy cognitive maps (FCMs) from raw text. The causal learning or extraction process is agentic both because of the LLM's semi-autonomy and because ultimately the FCM dynamical system's equilibria…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI",
+      "arXiv cs.CL"
+    ]
+  },
+  {
+    "title": "Mortar: Evolving Mechanics for Automatic Game Design",
+    "url": "https://arxiv.org/abs/2601.00105",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-05",
+    "raw_snippet": "arXiv:2601.00105v1 Announce Type: new Abstract: We present Mortar, a system for autonomously evolving game mechanics for automatic game design. Game mechanics define the rules and interactions that govern gameplay, and designing them manually is a time-consuming and expert-driven process. Mortar combines a quality-dive…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "Ask, Clarify, Optimize: Human-LLM Agent Collaboration for Smarter Inventory Control",
+    "url": "https://arxiv.org/abs/2601.00121",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-05",
+    "raw_snippet": "arXiv:2601.00121v1 Announce Type: new Abstract: Inventory management remains a challenge for many small and medium-sized businesses that lack the expertise to deploy advanced optimization methods. This paper investigates whether Large Language Models (LLMs) can help bridge this gap. We show that employing LLMs as direc…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "Constructing a Neuro-Symbolic Mathematician from First Principles",
+    "url": "https://arxiv.org/abs/2601.00125",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-05",
+    "raw_snippet": "arXiv:2601.00125v1 Announce Type: new Abstract: Large Language Models (LLMs) exhibit persistent logical failures in complex reasoning due to the lack of an internal axiomatic framework. We propose Mathesis, a neuro-symbolic architecture that encodes mathematical states as higher-order hypergraphs and uses a Symbolic Re…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
     ]
   }
 ]
