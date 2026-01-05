@@ -1,5 +1,187 @@
 [
   {
+    "title": "Diversity or Precision? A Deep Dive into Next Token Prediction",
+    "url": "https://huggingface.co/papers/2512.22955",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-05",
+    "raw_snippet": "Recent advancements have shown that reinforcement learning (RL) can substantially improve the reasoning abilities of large language models (LLMs). The effectiveness of such RL training, however, depends critically on the exploration space defined by the pre-trained model's token-output distribution. In this paper, we r…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction",
+    "url": "https://huggingface.co/papers/2601.00796",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-05",
+    "raw_snippet": "Reconstructing dynamic 3D scenes from monocular videos requires simultaneously capturing high-frequency appearance details and temporally continuous motion. Existing methods using single Gaussian primitives are limited by their low-pass filtering nature, while standard Gabor functions introduce energy instability. More…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "InfoSynth: Information-Guided Benchmark Synthesis for LLMs",
+    "url": "https://huggingface.co/papers/2601.00575",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-05",
+    "raw_snippet": "InfoSynth generates novel, diverse coding benchmarks for large language models using information-theoretic metrics and genetic algorithms, enabling scalable and self-verifying evaluation. AI-generated summary Large language models (LLMs) have demonstrated significant advancements in reasoning and code generation. Howev…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Nested Learning: The Illusion of Deep Learning Architectures",
+    "url": "https://huggingface.co/papers/2512.24695",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-05",
+    "raw_snippet": "Despite the recent progresses, particularly in developing Language Models, there are fundamental challenges and unanswered questions about how such models can continually learn/memorize, self-improve, and find effective solutions. In this paper, we present a new learning paradigm, called Nested Learning (NL), that cohe…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos",
+    "url": "https://huggingface.co/papers/2601.00393",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-05",
+    "raw_snippet": "In this paper, we propose NeoVerse, a versatile 4D world model that is capable of 4D reconstruction, novel-trajectory video generation, and rich downstream applications. We first identify a common limitation of scalability in current 4D world modeling methods, caused either by expensive and specialized multi-view 4D da…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing",
+    "url": "https://huggingface.co/papers/2601.00204",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-05",
+    "raw_snippet": "3D morphing remains challenging due to the difficulty of generating semantically consistent and temporally smooth deformations, especially across categories. We present MorphAny3D, a training-free framework that leverages Structured Latent (SLAT) representations for high-quality 3D morphing. Our key insight is that int…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation",
+    "url": "https://huggingface.co/papers/2601.00664",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-05",
+    "raw_snippet": "A framework called Avatar Forcing uses diffusion forcing and direct preference optimization with synthetic losing samples to enable real-time, expressive multimodal interactions in talking head avatars without labeled data. AI-generated summary Talking head generation creates lifelike avatars from static portraits for…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization",
+    "url": "https://huggingface.co/papers/2512.24615",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-05",
+    "raw_snippet": "Existing Large Language Model (LLM) agent frameworks face two significant challenges: high configuration costs and static capabilities. Building a high-quality agent often requires extensive manual effort in tool integration and prompt engineering, while deployed agents struggle to adapt to dynamic environments without…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SenseNova-MARS: Empowering Multimodal Agentic Reasoning and Search via Reinforcement Learning",
+    "url": "https://huggingface.co/papers/2512.24330",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-05",
+    "raw_snippet": "While Vision-Language Models (VLMs) can solve complex tasks through agentic reasoning, their capabilities remain largely constrained to text-oriented chain-of-thought or isolated tool invocation. They fail to exhibit the human-like proficiency required to seamlessly interleave dynamic tool manipulation with continuous…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Deep Delta Learning",
+    "url": "https://huggingface.co/papers/2601.00417",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-05",
+    "raw_snippet": "The efficacy of deep residual networks is fundamentally predicated on the identity shortcut connection. While this mechanism effectively mitigates the vanishing gradient problem, it imposes a strictly additive inductive bias on feature transformations, thereby limiting the network's capacity to model complex state tran…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation",
+    "url": "https://huggingface.co/papers/2512.24271",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-05",
+    "raw_snippet": "Multimodal Large Language Models (MLLMs) have made remarkable progress in video understanding. However, they suffer from a critical vulnerability: an over-reliance on language priors, which can lead to visual ungrounded hallucinations, especially when processing counterfactual videos that defy common sense. This limita…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Fast-weight Product Key Memory",
+    "url": "https://huggingface.co/papers/2601.00671",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-05",
+    "raw_snippet": "FwPKM introduces a dynamic, fast-weight episodic memory mechanism for sequence modeling that balances storage capacity and efficiency, achieving strong performance on long-context tasks like Needle in a Haystack evaluations. AI-generated summary Sequence modeling layers in modern language models typically face a trade-…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Introducing Falcon H1R 7B",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-h1r-7b",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-01-05",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
     "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
     "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
     "source": "Hugging Face Blog",
@@ -14,8 +196,8 @@
     ]
   },
   {
-    "title": "AAAI 2026 Oral｜InfiGUI-G1模型来了，刷新GUI Grounding SOTA",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-05",
+    "title": "AI Shortlist上线｜研究值得关注的AI企业",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-05-8",
     "source": "机器之心",
     "published_at": "2026-01-05",
     "raw_snippet": "",
@@ -28,10 +210,10 @@
     ]
   },
   {
-    "title": "田渊栋2025年终总结：救火Llama4但被裁，现任神秘初创公司联创",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-04-12",
+    "title": "Claude Code 一小时「复刻」谷歌一年成果，那一年能读完五年半的博士吗？",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-05-7",
     "source": "机器之心",
-    "published_at": "2026-01-04",
+    "published_at": "2026-01-05",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
@@ -42,10 +224,10 @@
     ]
   },
   {
-    "title": "科研人福音！一键生成PPT和科研绘图，北大开源Paper2Any，全流程可编辑",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-04-11",
+    "title": "空间智能终极挑战MMSI-Video-Bench来了，顶级大模型全军覆没",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-05-6",
     "source": "机器之心",
-    "published_at": "2026-01-04",
+    "published_at": "2026-01-05",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
