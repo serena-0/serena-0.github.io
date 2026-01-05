@@ -1,5 +1,33 @@
 [
   {
+    "title": "The Reasoning-Creativity Trade-off: Toward Creativity-Driven Problem Solving",
+    "url": "https://huggingface.co/papers/2601.00747",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-05",
+    "raw_snippet": "Large language model training methods that optimize for correctness can cause reasoning path diversity collapse, but a new variational framework provides principled solutions to maintain both accuracy and creativity. AI-generated summary State-of-the-art large language model (LLM) pipelines rely on bootstrapped reasoni…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation",
+    "url": "https://huggingface.co/papers/2601.00664",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-05",
+    "raw_snippet": "Avatar Forcing framework enables real-time interactive head avatar generation with low latency and expressive motion through diffusion forcing and label-free preference optimization. AI-generated summary Talking head generation creates lifelike avatars from static portraits for virtual communication and content creatio…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
     "title": "Diversity or Precision? A Deep Dive into Next Token Prediction",
     "url": "https://huggingface.co/papers/2512.22955",
     "source": "HF Trending Papers",
@@ -32,7 +60,7 @@
     "url": "https://huggingface.co/papers/2601.00575",
     "source": "HF Trending Papers",
     "published_at": "2026-01-05",
-    "raw_snippet": "InfoSynth generates novel, diverse coding benchmarks for large language models using information-theoretic metrics and genetic algorithms, enabling scalable and self-verifying evaluation. AI-generated summary Large language models (LLMs) have demonstrated significant advancements in reasoning and code generation. Howev…",
+    "raw_snippet": "InfoSynth is a framework that automatically generates novel and diverse reasoning benchmarks for large language models using information-theoretic principles and genetic algorithms. AI-generated summary Large language models (LLMs) have demonstrated significant advancements in reasoning and code generation. However, ef…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -60,7 +88,7 @@
     "url": "https://huggingface.co/papers/2601.00393",
     "source": "HF Trending Papers",
     "published_at": "2026-01-05",
-    "raw_snippet": "In this paper, we propose NeoVerse, a versatile 4D world model that is capable of 4D reconstruction, novel-trajectory video generation, and rich downstream applications. We first identify a common limitation of scalability in current 4D world modeling methods, caused either by expensive and specialized multi-view 4D da…",
+    "raw_snippet": "NeoVerse is a scalable 4D world model that enables pose-free reconstruction and novel-trajectory video generation from monocular videos with state-of-the-art performance. AI-generated summary In this paper, we propose NeoVerse, a versatile 4D world model that is capable of 4D reconstruction, novel-trajectory video gene…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -75,20 +103,6 @@
     "source": "HF Trending Papers",
     "published_at": "2026-01-05",
     "raw_snippet": "3D morphing remains challenging due to the difficulty of generating semantically consistent and temporally smooth deformations, especially across categories. We present MorphAny3D, a training-free framework that leverages Structured Latent (SLAT) representations for high-quality 3D morphing. Our key insight is that int…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation",
-    "url": "https://huggingface.co/papers/2601.00664",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-05",
-    "raw_snippet": "A framework called Avatar Forcing uses diffusion forcing and direct preference optimization with synthetic losing samples to enable real-time, expressive multimodal interactions in talking head avatars without labeled data. AI-generated summary Talking head generation creates lifelike avatars from static portraits for…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -130,7 +144,7 @@
     "url": "https://huggingface.co/papers/2601.00417",
     "source": "HF Trending Papers",
     "published_at": "2026-01-05",
-    "raw_snippet": "The efficacy of deep residual networks is fundamentally predicated on the identity shortcut connection. While this mechanism effectively mitigates the vanishing gradient problem, it imposes a strictly additive inductive bias on feature transformations, thereby limiting the network's capacity to model complex state tran…",
+    "raw_snippet": "Deep Delta Learning introduces a novel residual connection mechanism that uses a learnable geometric transformation to generalize identity shortcuts, enabling more flexible feature modeling while maintaining stable training properties. AI-generated summary The efficacy of deep residual networks is fundamentally predica…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -168,8 +182,8 @@
     ]
   },
   {
-    "title": "Introducing Falcon H1R 7B",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-h1r-7b",
+    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
     "source": "Hugging Face Blog",
     "published_at": "2026-01-05",
     "raw_snippet": "",
