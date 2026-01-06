@@ -1,187 +1,5 @@
 [
   {
-    "title": "Fast-weight Product Key Memory",
-    "url": "https://huggingface.co/papers/2601.00671",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-06",
-    "raw_snippet": "FwPKM introduces a dynamic, fast-weight episodic memory mechanism for sequence modeling that balances storage capacity and efficiency, achieving strong performance on long-context tasks like Needle in a Haystack evaluations. AI-generated summary Sequence modeling layers in modern language models typically face a trade-…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation",
-    "url": "https://huggingface.co/papers/2601.00664",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-05",
-    "raw_snippet": "Avatar Forcing framework enables real-time interactive head avatar generation with low latency and expressive motion through diffusion forcing and label-free preference optimization. AI-generated summary Talking head generation creates lifelike avatars from static portraits for virtual communication and content creatio…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "The Reasoning-Creativity Trade-off: Toward Creativity-Driven Problem Solving",
-    "url": "https://huggingface.co/papers/2601.00747",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-05",
-    "raw_snippet": "Large language model training methods that optimize for correctness can cause reasoning path diversity collapse, but a new variational framework provides principled solutions to maintain both accuracy and creativity. AI-generated summary State-of-the-art large language model (LLM) pipelines rely on bootstrapped reasoni…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Diversity or Precision? A Deep Dive into Next Token Prediction",
-    "url": "https://huggingface.co/papers/2512.22955",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-05",
-    "raw_snippet": "Recent advancements have shown that reinforcement learning (RL) can substantially improve the reasoning abilities of large language models (LLMs). The effectiveness of such RL training, however, depends critically on the exploration space defined by the pre-trained model's token-output distribution. In this paper, we r…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction",
-    "url": "https://huggingface.co/papers/2601.00796",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-05",
-    "raw_snippet": "Reconstructing dynamic 3D scenes from monocular videos requires simultaneously capturing high-frequency appearance details and temporally continuous motion. Existing methods using single Gaussian primitives are limited by their low-pass filtering nature, while standard Gabor functions introduce energy instability. More…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "InfoSynth: Information-Guided Benchmark Synthesis for LLMs",
-    "url": "https://huggingface.co/papers/2601.00575",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-05",
-    "raw_snippet": "InfoSynth is a framework that automatically generates novel and diverse reasoning benchmarks for large language models using information-theoretic principles and genetic algorithms. AI-generated summary Large language models (LLMs) have demonstrated significant advancements in reasoning and code generation. However, ef…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Nested Learning: The Illusion of Deep Learning Architectures",
-    "url": "https://huggingface.co/papers/2512.24695",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-05",
-    "raw_snippet": "Despite the recent progresses, particularly in developing Language Models, there are fundamental challenges and unanswered questions about how such models can continually learn/memorize, self-improve, and find effective solutions. In this paper, we present a new learning paradigm, called Nested Learning (NL), that cohe…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos",
-    "url": "https://huggingface.co/papers/2601.00393",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-05",
-    "raw_snippet": "NeoVerse is a scalable 4D world model that enables pose-free reconstruction and novel-trajectory video generation from monocular videos with state-of-the-art performance. AI-generated summary In this paper, we propose NeoVerse, a versatile 4D world model that is capable of 4D reconstruction, novel-trajectory video gene…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing",
-    "url": "https://huggingface.co/papers/2601.00204",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-05",
-    "raw_snippet": "3D morphing remains challenging due to the difficulty of generating semantically consistent and temporally smooth deformations, especially across categories. We present MorphAny3D, a training-free framework that leverages Structured Latent (SLAT) representations for high-quality 3D morphing. Our key insight is that int…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization",
-    "url": "https://huggingface.co/papers/2512.24615",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-05",
-    "raw_snippet": "Existing Large Language Model (LLM) agent frameworks face two significant challenges: high configuration costs and static capabilities. Building a high-quality agent often requires extensive manual effort in tool integration and prompt engineering, while deployed agents struggle to adapt to dynamic environments without…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "SenseNova-MARS: Empowering Multimodal Agentic Reasoning and Search via Reinforcement Learning",
-    "url": "https://huggingface.co/papers/2512.24330",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-05",
-    "raw_snippet": "While Vision-Language Models (VLMs) can solve complex tasks through agentic reasoning, their capabilities remain largely constrained to text-oriented chain-of-thought or isolated tool invocation. They fail to exhibit the human-like proficiency required to seamlessly interleave dynamic tool manipulation with continuous…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Deep Delta Learning",
-    "url": "https://huggingface.co/papers/2601.00417",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-05",
-    "raw_snippet": "Deep Delta Learning introduces a novel residual connection mechanism that uses a learnable geometric transformation to generalize identity shortcuts, enabling more flexible feature modeling while maintaining stable training properties. AI-generated summary The efficacy of deep residual networks is fundamentally predica…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation",
-    "url": "https://huggingface.co/papers/2512.24271",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-05",
-    "raw_snippet": "Multimodal Large Language Models (MLLMs) have made remarkable progress in video understanding. However, they suffer from a critical vulnerability: an over-reliance on language priors, which can lead to visual ungrounded hallucinations, especially when processing counterfactual videos that defy common sense. This limita…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
     "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
     "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
     "source": "Hugging Face Blog",
@@ -238,10 +56,10 @@
     ]
   },
   {
-    "title": "AI Shortlist上线｜研究值得关注的AI企业",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-05-8",
+    "title": "1956-2026：人类与机器智能的七十年对话",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-06-4",
     "source": "机器之心",
-    "published_at": "2026-01-05",
+    "published_at": "2026-01-06",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
@@ -252,10 +70,10 @@
     ]
   },
   {
-    "title": "Claude Code 一小时「复刻」谷歌一年成果，那一年能读完五年半的博士吗？",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-05-7",
+    "title": "当蛋白质组数据走向大规模计算，Frag’n’Flow给出组学流程的部署与扩展问题的解决方案",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-06-3",
     "source": "机器之心",
-    "published_at": "2026-01-05",
+    "published_at": "2026-01-06",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
@@ -266,10 +84,10 @@
     ]
   },
   {
-    "title": "空间智能终极挑战MMSI-Video-Bench来了，顶级大模型全军覆没",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-05-6",
+    "title": "黄仁勋CES放出大杀器：下一代Rubin架构推理成本降10倍",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-06-2",
     "source": "机器之心",
-    "published_at": "2026-01-05",
+    "published_at": "2026-01-06",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
@@ -280,11 +98,53 @@
     ]
   },
   {
-    "title": "Reasoning in Action: MCTS-Driven Knowledge Retrieval for Large Language Models",
-    "url": "https://arxiv.org/abs/2601.00003",
+    "title": "Semantic Alignment of Multilingual Knowledge Graphs via Contextualized Vector Projections",
+    "url": "https://arxiv.org/abs/2601.00814",
     "source": "arXiv cs.AI",
-    "published_at": "2026-01-05",
-    "raw_snippet": "arXiv:2601.00003v1 Announce Type: new Abstract: Large language models (LLMs) typically enhance their performance through either the retrieval of semantically similar information or the improvement of their reasoning capabilities. However, a significant challenge remains in effectively integrating both retrieval and rea…",
+    "published_at": "2026-01-06",
+    "raw_snippet": "arXiv:2601.00814v1 Announce Type: new Abstract: The paper presents our work on cross-lingual ontology alignment system which uses embedding based cosine similarity matching. The ontology entities are made contextually richer by creating descriptions using novel techniques. We use a fine-tuned transformer based multilin…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback",
+    "url": "https://arxiv.org/abs/2601.00816",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-06",
+    "raw_snippet": "arXiv:2601.00816v1 Announce Type: new Abstract: Contemporary AI systems achieve extraordinary performance yet remain opaque and non-verifiable, creating a crisis of trust for safety-critical deployment. We introduce MathLedger, a substrate for verifiable machine cognition that integrates formal verification, cryptograp…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "Agentic AI for Autonomous, Explainable, and Real-Time Credit Risk Decision-Making",
+    "url": "https://arxiv.org/abs/2601.00818",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-06",
+    "raw_snippet": "arXiv:2601.00818v1 Announce Type: new Abstract: Significant digitalization of financial services in a short period of time has led to an urgent demand to have autonomous, transparent and real-time credit risk decision making systems. The traditional machine learning models are effective in pattern recognition, but do n…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "CogCanvas: Compression-Resistant Cognitive Artifacts for Long LLM Conversations",
+    "url": "https://arxiv.org/abs/2601.00821",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-06",
+    "raw_snippet": "arXiv:2601.00821v1 Announce Type: new Abstract: Large language models face a fundamental tension between context window limits and information fidelity in long conversations. Existing approaches--truncation and summarization--either discard early information or lose nuanced details. We introduce CogCanvas, a training-f…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -295,27 +155,11 @@
     ]
   },
   {
-    "title": "Finetuning Large Language Models for Automated Depression Screening in Nigerian Pidgin English: GENSCORE Pilot Study",
-    "url": "https://arxiv.org/abs/2601.00004",
+    "title": "Energy-Aware Routing to Large Reasoning Models",
+    "url": "https://arxiv.org/abs/2601.00823",
     "source": "arXiv cs.AI",
-    "published_at": "2026-01-05",
-    "raw_snippet": "arXiv:2601.00004v1 Announce Type: new Abstract: Depression is a major contributor to the mental-health burden in Nigeria, yet screening coverage remains limited due to low access to clinicians, stigma, and language barriers. Traditional tools like the Patient Health Questionnaire-9 (PHQ-9) were validated in high-income…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI",
-      "arXiv cs.CL",
-      "arXiv cs.LG"
-    ]
-  },
-  {
-    "title": "Toward a Physical Theory of Intelligence",
-    "url": "https://arxiv.org/abs/2601.00021",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-05",
-    "raw_snippet": "arXiv:2601.00021v1 Announce Type: new Abstract: We present a physical theory of intelligence grounded in irreversible information processing in systems constrained by conservation laws. An intelligent system is modelled as a coupled agent-environment process whose evolution transforms information into goal-directed wor…",
+    "published_at": "2026-01-06",
+    "raw_snippet": "arXiv:2601.00823v1 Announce Type: new Abstract: Large reasoning models (LRMs) have heterogeneous inference energy costs based on which model is used and how much it reasons. To reduce energy, it is important to choose the right LRM and operate it in the right way. As a result, the performance of systems that dispatch t…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -325,26 +169,11 @@
     ]
   },
   {
-    "title": "A multi-algorithm approach for operational human resources workload balancing in a last mile urban delivery system",
-    "url": "https://arxiv.org/abs/2601.00023",
+    "title": "Decomposing LLM Self-Correction: The Accuracy-Correction Paradox and Error Depth Hypothesis",
+    "url": "https://arxiv.org/abs/2601.00828",
     "source": "arXiv cs.AI",
-    "published_at": "2026-01-05",
-    "raw_snippet": "arXiv:2601.00023v1 Announce Type: new Abstract: Efficient workload assignment to the workforce is critical in last-mile package delivery systems. In this context, traditional methods of assigning package deliveries to workers based on geographical proximity can be inefficient and surely guide to an unbalanced workload…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI",
-      "arXiv cs.LG"
-    ]
-  },
-  {
-    "title": "Quantitative Rule-Based Strategy modeling in Classic Indian Rummy: A Metric Optimization Approach",
-    "url": "https://arxiv.org/abs/2601.00024",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-05",
-    "raw_snippet": "arXiv:2601.00024v1 Announce Type: new Abstract: The 13-card variant of Classic Indian Rummy is a sequential game of incomplete information that requires probabilistic reasoning and combinatorial decision-making. This paper proposes a rule-based framework for strategic play, driven by a new hand-evaluation metric termed…",
+    "published_at": "2026-01-06",
+    "raw_snippet": "arXiv:2601.00828v1 Announce Type: new Abstract: Large Language Models (LLMs) are widely believed to possess self-correction capabilities, yet recent studies suggest that intrinsic self-correction--where models correct their own outputs without external feedback--remains largely ineffective. In this work, we systematica…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -354,41 +183,11 @@
     ]
   },
   {
-    "title": "From Clay to Code: Typological and Material Reasoning in AI Interpretations of Iranian Pigeon Towers",
-    "url": "https://arxiv.org/abs/2601.00029",
+    "title": "Can We Trust AI Explanations? Evidence of Systematic Underreporting in Chain-of-Thought Reasoning",
+    "url": "https://arxiv.org/abs/2601.00830",
     "source": "arXiv cs.AI",
-    "published_at": "2026-01-05",
-    "raw_snippet": "arXiv:2601.00029v1 Announce Type: new Abstract: This study investigates how generative AI systems interpret the architectural intelligence embedded in vernacular form. Using the Iranian pigeon tower as a case study, the research tests three diffusion models, Midjourney v6, DALL-E 3, and DreamStudio based on Stable Diff…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI",
-      "arXiv cs.CV"
-    ]
-  },
-  {
-    "title": "The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs",
-    "url": "https://arxiv.org/abs/2601.00097",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-05",
-    "raw_snippet": "arXiv:2601.00097v1 Announce Type: new Abstract: We design a large-language-model (LLM) agent that extracts causal feedback fuzzy cognitive maps (FCMs) from raw text. The causal learning or extraction process is agentic both because of the LLM's semi-autonomy and because ultimately the FCM dynamical system's equilibria…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI",
-      "arXiv cs.CL"
-    ]
-  },
-  {
-    "title": "Mortar: Evolving Mechanics for Automatic Game Design",
-    "url": "https://arxiv.org/abs/2601.00105",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-05",
-    "raw_snippet": "arXiv:2601.00105v1 Announce Type: new Abstract: We present Mortar, a system for autonomously evolving game mechanics for automatic game design. Game mechanics define the rules and interactions that govern gameplay, and designing them manually is a time-consuming and expert-driven process. Mortar combines a quality-dive…",
+    "published_at": "2026-01-06",
+    "raw_snippet": "arXiv:2601.00830v1 Announce Type: new Abstract: When AI systems explain their reasoning step-by-step, practitioners often assume these explanations reveal what actually influenced the AI's answer. We tested this assumption by embedding hints into questions and measuring whether models mentioned them. In a study of over…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -398,11 +197,11 @@
     ]
   },
   {
-    "title": "Ask, Clarify, Optimize: Human-LLM Agent Collaboration for Smarter Inventory Control",
-    "url": "https://arxiv.org/abs/2601.00121",
+    "title": "OmniNeuro: A Multimodal HCI Framework for Explainable BCI Feedback via Generative AI and Sonification",
+    "url": "https://arxiv.org/abs/2601.00843",
     "source": "arXiv cs.AI",
-    "published_at": "2026-01-05",
-    "raw_snippet": "arXiv:2601.00121v1 Announce Type: new Abstract: Inventory management remains a challenge for many small and medium-sized businesses that lack the expertise to deploy advanced optimization methods. This paper investigates whether Large Language Models (LLMs) can help bridge this gap. We show that employing LLMs as direc…",
+    "published_at": "2026-01-06",
+    "raw_snippet": "arXiv:2601.00843v1 Announce Type: new Abstract: While Deep Learning has improved Brain-Computer Interface (BCI) decoding accuracy, clinical adoption is hindered by the \"Black Box\" nature of these algorithms, leading to user frustration and poor neuroplasticity outcomes. We propose OmniNeuro, a novel HCI framework that…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -412,11 +211,25 @@
     ]
   },
   {
-    "title": "Constructing a Neuro-Symbolic Mathematician from First Principles",
-    "url": "https://arxiv.org/abs/2601.00125",
+    "title": "Enhancing Temporal Awareness in LLMs for Temporal Point Processes",
+    "url": "https://arxiv.org/abs/2601.00845",
     "source": "arXiv cs.AI",
-    "published_at": "2026-01-05",
-    "raw_snippet": "arXiv:2601.00125v1 Announce Type: new Abstract: Large Language Models (LLMs) exhibit persistent logical failures in complex reasoning due to the lack of an internal axiomatic framework. We propose Mathesis, a neuro-symbolic architecture that encodes mathematical states as higher-order hypergraphs and uses a Symbolic Re…",
+    "published_at": "2026-01-06",
+    "raw_snippet": "arXiv:2601.00845v1 Announce Type: new Abstract: Temporal point processes (TPPs) are crucial for analyzing events over time and are widely used in fields such as finance, healthcare, and social systems. These processes are particularly valuable for understanding how events unfold over time, accounting for their irregula…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "Temporal Attack Pattern Detection in Multi-Agent AI Workflows: An Open Framework for Training Trace-Based Security Models",
+    "url": "https://arxiv.org/abs/2601.00848",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-06",
+    "raw_snippet": "arXiv:2601.00848v1 Announce Type: new Abstract: We present an openly documented methodology for fine-tuning language models to detect temporal attack patterns in multi-agent AI workflows using OpenTelemetry trace analysis. We curate a dataset of 80,851 examples from 18 public cybersecurity sources and 35,026 synthetic…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
