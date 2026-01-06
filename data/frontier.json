@@ -1,10 +1,10 @@
 [
   {
-    "title": "The Reasoning-Creativity Trade-off: Toward Creativity-Driven Problem Solving",
-    "url": "https://huggingface.co/papers/2601.00747",
+    "title": "Fast-weight Product Key Memory",
+    "url": "https://huggingface.co/papers/2601.00671",
     "source": "HF Trending Papers",
-    "published_at": "2026-01-05",
-    "raw_snippet": "Large language model training methods that optimize for correctness can cause reasoning path diversity collapse, but a new variational framework provides principled solutions to maintain both accuracy and creativity. AI-generated summary State-of-the-art large language model (LLM) pipelines rely on bootstrapped reasoni…",
+    "published_at": "2026-01-06",
+    "raw_snippet": "FwPKM introduces a dynamic, fast-weight episodic memory mechanism for sequence modeling that balances storage capacity and efficiency, achieving strong performance on long-context tasks like Needle in a Haystack evaluations. AI-generated summary Sequence modeling layers in modern language models typically face a trade-…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -19,6 +19,20 @@
     "source": "HF Trending Papers",
     "published_at": "2026-01-05",
     "raw_snippet": "Avatar Forcing framework enables real-time interactive head avatar generation with low latency and expressive motion through diffusion forcing and label-free preference optimization. AI-generated summary Talking head generation creates lifelike avatars from static portraits for virtual communication and content creatio…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "The Reasoning-Creativity Trade-off: Toward Creativity-Driven Problem Solving",
+    "url": "https://huggingface.co/papers/2601.00747",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-05",
+    "raw_snippet": "Large language model training methods that optimize for correctness can cause reasoning path diversity collapse, but a new variational framework provides principled solutions to maintain both accuracy and creativity. AI-generated summary State-of-the-art large language model (LLM) pipelines rely on bootstrapped reasoni…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -168,22 +182,36 @@
     ]
   },
   {
-    "title": "Fast-weight Product Key Memory",
-    "url": "https://huggingface.co/papers/2601.00671",
-    "source": "HF Trending Papers",
+    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+    "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+    "source": "Hugging Face Blog",
     "published_at": "2026-01-05",
-    "raw_snippet": "FwPKM introduces a dynamic, fast-weight episodic memory mechanism for sequence modeling that balances storage capacity and efficiency, achieving strong performance on long-context tasks like Needle in a Haystack evaluations. AI-generated summary Sequence modeling layers in modern language models typically face a trade-…",
+    "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
-    "hot_score": 15,
+    "hot_score": 14,
     "sources": [
-      "HF Trending Papers"
+      "Hugging Face Blog"
     ]
   },
   {
     "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
     "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-01-05",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
+    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+    "url": "https://huggingface.co/blog/nvidia-reachy-mini",
     "source": "Hugging Face Blog",
     "published_at": "2026-01-05",
     "raw_snippet": "",
