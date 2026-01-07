@@ -1,9 +1,345 @@
 [
   {
-    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
-    "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+    "title": "Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes",
+    "url": "https://huggingface.co/papers/2601.02356",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "Talk2Move presents a reinforcement learning-based diffusion framework that enables precise, semantically faithful spatial transformations of objects in scenes using natural language instructions. AI-generated summary We introduce Talk2Move, a reinforcement learning (RL) based diffusion framework for text-instructed spa…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "OpenNovelty: An LLM-powered Agentic System for Verifiable Scholarly Novelty Assessment",
+    "url": "https://huggingface.co/papers/2601.01576",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "An LLM-powered agentic system for transparent, evidence-based novelty assessment in peer review that retrieves and analyzes prior work through semantic search and hierarchical taxonomy construction. AI-generated summary Evaluating novelty is critical yet challenging in peer review, as reviewers must assess submissions…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Prithvi-Complimentary Adaptive Fusion Encoder (CAFE): unlocking full-potential for flood inundation mapping",
+    "url": "https://huggingface.co/papers/2601.02315",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "Prithvi-CAFE combines a pretrained Geo-Foundation Model encoder with a parallel CNN branch featuring attention modules to improve flood mapping accuracy by capturing both global context and local details. AI-generated summary Geo-Foundation Models (GFMs), have proven effective in diverse downstream applications, includ…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "CPPO: Contrastive Perception for Vision Language Policy Optimization",
+    "url": "https://huggingface.co/papers/2601.00501",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "CPPO improves vision-language model fine-tuning by detecting perception tokens through entropy shifts and using contrastive perception loss to enhance multimodal reasoning efficiency. AI-generated summary We introduce CPPO, a Contrastive Perception Policy Optimization method for finetuning vision-language models (VLMs)…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "DiffProxy: Multi-View Human Mesh Recovery via Diffusion-Generated Dense Proxies",
+    "url": "https://huggingface.co/papers/2601.02267",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "DiffProxy enables human mesh recovery from multi-view images by generating multi-view consistent proxies using diffusion-based generative priors, achieving state-of-the-art performance through synthetic training and robust test-time scaling. AI-generated summary Human mesh recovery from multi-view images faces a fundam…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Confidence Estimation for LLMs in Multi-turn Interactions",
+    "url": "https://huggingface.co/papers/2601.02179",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "Multi-turn conversation confidence estimation lacks systematic evaluation frameworks, prompting the introduction of novel metrics and a \"Hinter-Guesser\" paradigm for controlled dataset generation to improve calibration and monotonicity. AI-generated summary While confidence estimation is a promising direction for mitig…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Selective Imperfection as a Generative Framework for Analysis, Creativity and Discovery",
+    "url": "https://huggingface.co/papers/2601.00863",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "We introduce materiomusic as a generative framework linking the hierarchical structures of matter with the compositional logic of music. Across proteins, spider webs and flame dynamics, vibrational and architectural principles recur as tonal hierarchies, harmonic progressions, and long-range musical form. Using reversi…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "M-ErasureBench: A Comprehensive Multimodal Evaluation Benchmark for Concept Erasure in Diffusion Models",
+    "url": "https://huggingface.co/papers/2512.22877",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "A multimodal evaluation framework and robustness enhancement module are introduced to address concept erasure vulnerabilities in text-to-image diffusion models across multiple input modalities. AI-generated summary Text-to-image diffusion models may generate harmful or copyrighted content, motivating research on concep…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SWE-Lego: Pushing the Limits of Supervised Fine-tuning for Software Issue Resolving",
+    "url": "https://huggingface.co/papers/2601.01426",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "SWE-Lego achieves state-of-the-art performance in software engineering task resolution through a lightweight supervised fine-tuning approach combined with a curated dataset and refined training procedures. AI-generated summary We present SWE-Lego, a supervised fine-tuning (SFT) recipe designed to achieve state-ofthe-ar…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "InfiniteVGGT: Visual Geometry Grounded Transformer for Endless Streams",
+    "url": "https://huggingface.co/papers/2601.02281",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "InfiniteVGGT enables continuous 3D visual geometry understanding through a causal transformer with adaptive memory management, outperforming existing streaming methods in long-term stability while introducing a new benchmark for extended evaluation. AI-generated summary The grand vision of enabling persistent, large-sc…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Recursive Language Models",
+    "url": "https://huggingface.co/papers/2512.24601",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "We study allowing large language models (LLMs) to process arbitrarily long prompts through the lens of inference-time scaling. We propose Recursive Language Models (RLMs), a general inference strategy that treats long prompts as part of an external environment and allows the LLM to programmatically examine, decompose,…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Toward Stable Semi-Supervised Remote Sensing Segmentation via Co-Guidance and Co-Fusion",
+    "url": "https://huggingface.co/papers/2512.23035",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "A semi-supervised remote sensing image segmentation framework combines vision-language and self-supervised models to reduce pseudo-label drift through dual-student architecture and semantic co-guidance mechanisms. AI-generated summary Semi-supervised remote sensing (RS) image semantic segmentation offers a promising so…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "IMA++: ISIC Archive Multi-Annotator Dermoscopic Skin Lesion Segmentation Dataset",
+    "url": "https://huggingface.co/papers/2512.21472",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "A large-scale public multi-annotator skin lesion segmentation dataset is introduced with extensive metadata for annotator analysis and consensus modeling. AI-generated summary Multi-annotator medical image segmentation is an important research problem, but requires annotated datasets that are expensive to collect. Derm…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Falcon-H1R: Pushing the Reasoning Frontiers with a Hybrid Model for Efficient Test-Time Scaling",
+    "url": "https://huggingface.co/papers/2601.02346",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "Falcon-H1R is a 7B-parameter language model that achieves competitive reasoning performance through efficient training strategies and architectural design, enabling scalable reasoning capabilities in compact models. AI-generated summary This work introduces Falcon-H1R, a 7B-parameter reasoning-optimized model that esta…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "GARDO: Reinforcing Diffusion Models without Reward Hacking",
+    "url": "https://huggingface.co/papers/2512.24138",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "Online reinforcement learning for diffusion model fine-tuning suffers from reward hacking due to proxy reward mismatches, which GARDO addresses through selective regularization, adaptive reference updates, and diversity-aware reward amplification. AI-generated summary Fine-tuning diffusion models via online reinforceme…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "COMPASS: A Framework for Evaluating Organization-Specific Policy Alignment in LLMs",
+    "url": "https://huggingface.co/papers/2601.01836",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "COMPASS evaluates large language models' compliance with organizational policies, revealing significant gaps in enforcing prohibitions despite strong performance on legitimate requests. AI-generated summary As large language models are deployed in high-stakes enterprise applications, from healthcare to finance, ensurin…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Project Ariadne: A Structural Causal Framework for Auditing Faithfulness in LLM Agents",
+    "url": "https://huggingface.co/papers/2601.02314",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "Project Ariadne uses structural causal models and counterfactual logic to evaluate the causal integrity of LLM reasoning, revealing a faithfulness gap where reasoning traces are not reliable drivers of outputs. AI-generated summary As Large Language Model (LLM) agents are increasingly tasked with high-stakes autonomous…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "VINO: A Unified Visual Generator with Interleaved OmniModal Context",
+    "url": "https://huggingface.co/papers/2601.02358",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "VINO is a unified visual generator that uses a shared diffusion backbone with multimodal inputs to perform image and video generation and editing tasks. AI-generated summary We present VINO, a unified visual generator that performs image and video generation and editing within a single framework. Instead of relying on…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation",
+    "url": "https://huggingface.co/papers/2601.02204",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "NextFlow is a unified decoder-only autoregressive transformer that processes interleaved text-image tokens, enabling fast multimodal generation through novel next-token and next-scale prediction strategies. AI-generated summary We present NextFlow, a unified decoder-only autoregressive transformer trained on 6 trillion…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation",
+    "url": "https://huggingface.co/papers/2601.02256",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "Visual autoregressive models face training instability due to asynchronous policy conflicts, which are addressed through a novel framework enhancing group relative policy optimization with intermediate rewards, dynamic time-step reweighting, and mask propagation algorithms. AI-generated summary Visual generation is dom…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs",
+    "url": "https://huggingface.co/papers/2601.01046",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "KV-Embedding enables training-free representation learning from frozen LLMs by utilizing key-value states for enhanced context access and automated layer selection. AI-generated summary While LLMs are powerful embedding backbones, their application in training-free settings faces two structural challenges: causal atten…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits",
+    "url": "https://huggingface.co/papers/2512.20578",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "Large language models (LLMs) generate fluent and complex outputs but often fail to recognize their own mistakes and hallucinations. Existing approaches typically rely on external judges, multi-sample consistency, or text-based self-critique, which incur additional compute or correlate weakly with true correctness. We a…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer",
+    "url": "https://huggingface.co/papers/2601.01425",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "A novel video face swapping framework combines image face swapping techniques with diffusion transformers and curriculum learning to achieve superior identity preservation and visual realism. AI-generated summary Video Face Swapping (VFS) requires seamlessly injecting a source identity into a target video while meticul…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "K-EXAONE Technical Report",
+    "url": "https://huggingface.co/papers/2601.01739",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-06",
+    "raw_snippet": "K-EXAONE is a multilingual language model with a Mixture-of-Experts architecture that achieves competitive performance on various benchmarks while supporting multiple languages and long-context windows. AI-generated summary This technical report presents K-EXAONE, a large-scale multilingual language model developed by…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models",
+    "url": "https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b",
     "source": "Hugging Face Blog",
-    "published_at": "2026-01-05",
+    "published_at": "2026-01-06",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
@@ -22,7 +358,7 @@
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
-    "hot_score": 14,
+    "hot_score": 13,
     "sources": [
       "Hugging Face Blog"
     ]
@@ -36,21 +372,7 @@
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
-    "hot_score": 14,
-    "sources": [
-      "Hugging Face Blog"
-    ]
-  },
-  {
-    "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-    "source": "Hugging Face Blog",
-    "published_at": "2025-12-23",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 11,
+    "hot_score": 13,
     "sources": [
       "Hugging Face Blog"
     ]
