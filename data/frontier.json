@@ -84,11 +84,11 @@
     ]
   },
   {
-    "title": "Semantic Alignment of Multilingual Knowledge Graphs via Contextualized Vector Projections",
-    "url": "https://arxiv.org/abs/2601.00814",
+    "title": "Textual Explanations and Their Evaluations for Reinforcement Learning Policy",
+    "url": "https://arxiv.org/abs/2601.02514",
     "source": "arXiv cs.AI",
     "published_at": "2026-01-07",
-    "raw_snippet": "arXiv:2601.00814v1 Announce Type: new Abstract: The paper presents our work on cross-lingual ontology alignment system which uses embedding based cosine similarity matching. The ontology entities are made contextually richer by creating descriptions using novel techniques. We use a fine-tuned transformer based multilin…",
+    "raw_snippet": "arXiv:2601.02514v1 Announce Type: new Abstract: Understanding a Reinforcement Learning (RL) policy is crucial for ensuring that autonomous agents behave according to human expectations. This goal can be achieved using Explainable Reinforcement Learning (XRL) techniques. Although textual explanations are easily understo…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -98,11 +98,11 @@
     ]
   },
   {
-    "title": "MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback",
-    "url": "https://arxiv.org/abs/2601.00816",
+    "title": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
+    "url": "https://arxiv.org/abs/2601.02553",
     "source": "arXiv cs.AI",
     "published_at": "2026-01-07",
-    "raw_snippet": "arXiv:2601.00816v1 Announce Type: new Abstract: Contemporary AI systems achieve extraordinary performance yet remain opaque and non-verifiable, creating a crisis of trust for safety-critical deployment. We introduce MathLedger, a substrate for verifiable machine cognition that integrates formal verification, cryptograp…",
+    "raw_snippet": "arXiv:2601.02553v1 Announce Type: new Abstract: To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundan…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -112,11 +112,11 @@
     ]
   },
   {
-    "title": "Agentic AI for Autonomous, Explainable, and Real-Time Credit Risk Decision-Making",
-    "url": "https://arxiv.org/abs/2601.00818",
+    "title": "Orchestral AI: A Framework for Agent Orchestration",
+    "url": "https://arxiv.org/abs/2601.02577",
     "source": "arXiv cs.AI",
     "published_at": "2026-01-07",
-    "raw_snippet": "arXiv:2601.00818v1 Announce Type: new Abstract: Significant digitalization of financial services in a short period of time has led to an urgent demand to have autonomous, transparent and real-time credit risk decision making systems. The traditional machine learning models are effective in pattern recognition, but do n…",
+    "raw_snippet": "arXiv:2601.02577v1 Announce Type: new Abstract: The rapid proliferation of LLM agent frameworks has forced developers to choose between vendor lock-in through provider-specific SDKs and complex multi-package ecosystems that obscure control flow and hinder reproducibility. Integrating tool calling across multiple LLM pr…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -126,11 +126,11 @@
     ]
   },
   {
-    "title": "CogCanvas: Verbatim-Grounded Artifact Extraction for Long LLM Conversations",
-    "url": "https://arxiv.org/abs/2601.00821",
+    "title": "An Empirical Study of On-Device Translation for Real-Time Live-Stream Chat on Mobile Devices",
+    "url": "https://arxiv.org/abs/2601.02641",
     "source": "arXiv cs.AI",
     "published_at": "2026-01-07",
-    "raw_snippet": "arXiv:2601.00821v2 Announce Type: new Abstract: Conversation summarization loses nuanced details: when asked about coding preferences after 40 turns, summarization recalls \"use type hints\" but drops the critical constraint \"everywhere\" (19.0% exact match vs. 93.0% for our approach). We present CogCanvas, a training-fre…",
+    "raw_snippet": "arXiv:2601.02641v1 Announce Type: new Abstract: Despite its efficiency, there has been little research on the practical aspects required for real-world deployment of on-device AI models, such as the device's CPU utilization and thermal conditions. In this paper, through extensive experiments, we investigate two key iss…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -140,11 +140,11 @@
     ]
   },
   {
-    "title": "Energy-Aware Routing to Large Reasoning Models",
-    "url": "https://arxiv.org/abs/2601.00823",
+    "title": "AWARE-US: Benchmark for Preference-Aware Resolution in Tool-Calling Agents",
+    "url": "https://arxiv.org/abs/2601.02643",
     "source": "arXiv cs.AI",
     "published_at": "2026-01-07",
-    "raw_snippet": "arXiv:2601.00823v1 Announce Type: new Abstract: Large reasoning models (LRMs) have heterogeneous inference energy costs based on which model is used and how much it reasons. To reduce energy, it is important to choose the right LRM and operate it in the right way. As a result, the performance of systems that dispatch t…",
+    "raw_snippet": "arXiv:2601.02643v1 Announce Type: new Abstract: Tool-calling conversational agents querying structured databases often face two linked failures: underspecification (missing constraints needed to run a precise query) and infeasibility (the fully specified query returns an empty set because no item satisfies all constrai…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -154,11 +154,11 @@
     ]
   },
   {
-    "title": "Decomposing LLM Self-Correction: The Accuracy-Correction Paradox and Error Depth Hypothesis",
-    "url": "https://arxiv.org/abs/2601.00828",
+    "title": "Inferring Causal Graph Temporal Logic Formulas to Expedite Reinforcement Learning in Temporally Extended Tasks",
+    "url": "https://arxiv.org/abs/2601.02666",
     "source": "arXiv cs.AI",
     "published_at": "2026-01-07",
-    "raw_snippet": "arXiv:2601.00828v1 Announce Type: new Abstract: Large Language Models (LLMs) are widely believed to possess self-correction capabilities, yet recent studies suggest that intrinsic self-correction--where models correct their own outputs without external feedback--remains largely ineffective. In this work, we systematica…",
+    "raw_snippet": "arXiv:2601.02666v1 Announce Type: new Abstract: Decision-making tasks often unfold on graphs with spatial-temporal dynamics. Black-box reinforcement learning often overlooks how local changes spread through network structure, limiting sample efficiency and interpretability. We present GTL-CIRL, a closed-loop framework…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -168,11 +168,11 @@
     ]
   },
   {
-    "title": "Can We Trust AI Explanations? Evidence of Systematic Underreporting in Chain-of-Thought Reasoning",
-    "url": "https://arxiv.org/abs/2601.00830",
+    "title": "Learning from Prompt itself: the Hierarchical Attribution Prompt Optimization",
+    "url": "https://arxiv.org/abs/2601.02683",
     "source": "arXiv cs.AI",
     "published_at": "2026-01-07",
-    "raw_snippet": "arXiv:2601.00830v1 Announce Type: new Abstract: When AI systems explain their reasoning step-by-step, practitioners often assume these explanations reveal what actually influenced the AI's answer. We tested this assumption by embedding hints into questions and measuring whether models mentioned them. In a study of over…",
+    "raw_snippet": "arXiv:2601.02683v1 Announce Type: new Abstract: Optimization is fundamental across numerous disciplines, typically following an iterative process of refining an initial solution to enhance performance. This principle is equally critical in prompt engineering, where designing effective prompts for large language models…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -182,11 +182,11 @@
     ]
   },
   {
-    "title": "OmniNeuro: A Multimodal HCI Framework for Explainable BCI Feedback via Generative AI and Sonification",
-    "url": "https://arxiv.org/abs/2601.00843",
+    "title": "Learning User Preferences Through Interaction for Long-Term Collaboration",
+    "url": "https://arxiv.org/abs/2601.02702",
     "source": "arXiv cs.AI",
     "published_at": "2026-01-07",
-    "raw_snippet": "arXiv:2601.00843v1 Announce Type: new Abstract: While Deep Learning has improved Brain-Computer Interface (BCI) decoding accuracy, clinical adoption is hindered by the \"Black Box\" nature of these algorithms, leading to user frustration and poor neuroplasticity outcomes. We propose OmniNeuro, a novel HCI framework that…",
+    "raw_snippet": "arXiv:2601.02702v1 Announce Type: new Abstract: As conversational agents accumulate experience collaborating with users, adapting to user preferences is essential for fostering long-term relationships and improving collaboration quality over time. We introduce MultiSessionCollab, a benchmark that evaluates how well age…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -196,25 +196,26 @@
     ]
   },
   {
-    "title": "Enhancing Temporal Awareness in LLMs for Temporal Point Processes",
-    "url": "https://arxiv.org/abs/2601.00845",
+    "title": "Time-Scaling Is What Agents Need Now",
+    "url": "https://arxiv.org/abs/2601.02714",
     "source": "arXiv cs.AI",
     "published_at": "2026-01-07",
-    "raw_snippet": "arXiv:2601.00845v1 Announce Type: new Abstract: Temporal point processes (TPPs) are crucial for analyzing events over time and are widely used in fields such as finance, healthcare, and social systems. These processes are particularly valuable for understanding how events unfold over time, accounting for their irregula…",
+    "raw_snippet": "arXiv:2601.02714v1 Announce Type: new Abstract: Early artificial intelligence paradigms exhibited separated cognitive functions: Neural Networks focused on \"perception-representation,\" Reinforcement Learning on \"decision-making-behavior,\" and Symbolic AI on \"knowledge-reasoning.\" With Transformer-based large models and…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
     "hot_score": 5,
     "sources": [
-      "arXiv cs.AI"
+      "arXiv cs.AI",
+      "arXiv cs.CL"
     ]
   },
   {
-    "title": "Temporal Attack Pattern Detection in Multi-Agent AI Workflows: An Open Framework for Training Trace-Based Security Models",
-    "url": "https://arxiv.org/abs/2601.00848",
+    "title": "The Path Ahead for Agentic AI: Challenges and Opportunities",
+    "url": "https://arxiv.org/abs/2601.02749",
     "source": "arXiv cs.AI",
     "published_at": "2026-01-07",
-    "raw_snippet": "arXiv:2601.00848v1 Announce Type: new Abstract: We present an openly documented methodology for fine-tuning language models to detect temporal attack patterns in multi-agent AI workflows using OpenTelemetry trace analysis. We curate a dataset of 80,851 examples from 18 public cybersecurity sources and 35,026 synthetic…",
+    "raw_snippet": "arXiv:2601.02749v1 Announce Type: new Abstract: The evolution of Large Language Models (LLMs) from passive text generators to autonomous, goal-driven systems represents a fundamental shift in artificial intelligence. This chapter examines the emergence of agentic AI systems that integrate planning, memory, tool use, an…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
