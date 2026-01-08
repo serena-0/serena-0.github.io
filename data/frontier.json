@@ -1,5 +1,355 @@
 [
   {
+    "title": "MiMo-V2-Flash Technical Report",
+    "url": "https://huggingface.co/papers/2601.02780",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-08",
+    "raw_snippet": "MiMo-V2-Flash is a sparse Mixture-of-Experts model with hybrid attention architecture and efficient distillation technique that achieves strong performance with reduced parameters and improved inference speed. AI-generated summary We present MiMo-V2-Flash, a Mixture-of-Experts (MoE) model with 309B total parameters and…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "LTX-2: Efficient Joint Audio-Visual Foundation Model",
+    "url": "https://huggingface.co/papers/2601.03233",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance. AI-generated summary Recent text-to-video diffusion models can generate compelling video sequences, yet they remai…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Large Reasoning Models Are (Not Yet) Multilingual Latent Reasoners",
+    "url": "https://huggingface.co/papers/2601.02996",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "Large reasoning models exhibit multilingual latent reasoning capabilities with varying strength across languages and benchmarks, showing consistent internal prediction evolution despite surface-level differences. AI-generated summary Large reasoning models (LRMs) achieve strong performance on mathematical reasoning tas…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Unified Thinker: A General Reasoning Modular Core for Image Generation",
+    "url": "https://huggingface.co/papers/2601.03127",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "Unified Thinker addresses the reasoning-execution gap in image generation by decoupling a reasoning module from image generators and using reinforcement learning to optimize visual correctness. AI-generated summary Despite impressive progress in high-fidelity image synthesis, generative models still struggle with logic…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors",
+    "url": "https://huggingface.co/papers/2601.02359",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "A fully self-supervised diffusion model approach for face forgery detection that computes identity distances through reconstruction errors, demonstrating superior performance on unseen manipulations and real-world corruptions. AI-generated summary Detecting unknown deepfake manipulations remains one of the most challen…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Digital Twin AI: Opportunities and Challenges from Large Language Models to World Models",
+    "url": "https://huggingface.co/papers/2601.01321",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "AI integration in digital twins follows a four-stage framework encompassing modeling, mirroring, intervention, and autonomous management, leveraging physics-informed approaches, generative AI, and foundation models for intelligent system operation. AI-generated summary Digital twins, as precise digital representations…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Mechanistic Interpretability of Large-Scale Counting in LLMs through a System-2 Strategy",
+    "url": "https://huggingface.co/papers/2601.02989",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "A test-time strategy inspired by System-2 cognitive processes decomposes large counting tasks into smaller sub-problems, enabling large language models to overcome architectural limitations and achieve high accuracy on complex counting tasks through mechanistic components like latent count computation, dedicated attent…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "U-Net-Like Spiking Neural Networks for Single Image Dehazing",
+    "url": "https://huggingface.co/papers/2512.23950",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "DehazeSNN combines a U-Net-like architecture with Spiking Neural Networks and an Orthogonal Leaky-Integrate-and-Fire Block to achieve efficient and effective image dehazing with reduced computational resources. AI-generated summary Image dehazing is a critical challenge in computer vision, essential for enhancing image…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "AceFF: A State-of-the-Art Machine Learning Potential for Small Molecules",
+    "url": "https://huggingface.co/papers/2601.00581",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "We introduce AceFF, a pre-trained machine learning interatomic potential (MLIP) optimized for small molecule drug discovery. While MLIPs have emerged as efficient alternatives to Density Functional Theory (DFT), generalizability across diverse chemical spaces remains difficult. AceFF addresses this via a refined Tensor…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs",
+    "url": "https://huggingface.co/papers/2601.01592",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "OpenRT is a unified red-teaming framework for evaluating multimodal large language model safety through modular adversarial testing across multiple attack dimensions and models. AI-generated summary The rapid integration of Multimodal Large Language Models (MLLMs) into critical applications is increasingly hindered by…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Steerability of Instrumental-Convergence Tendencies in LLMs",
+    "url": "https://huggingface.co/papers/2601.01584",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "Research investigates the balance between AI system capabilities and steerability, finding that specific prompts can dramatically reduce unwanted behaviors in large language models. AI-generated summary We examine two properties of AI systems: capability (what a system can do) and steerability (how reliably one can shi…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence",
+    "url": "https://huggingface.co/papers/2512.22334",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "SciEvalKit is a unified benchmarking toolkit for evaluating AI models across scientific disciplines, focusing on core scientific intelligence competencies and supporting diverse domains from physics to materials science. AI-generated summary We introduce SciEvalKit, a unified benchmarking toolkit designed to evaluate A…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SOP: A Scalable Online Post-Training System for Vision-Language-Action Models",
+    "url": "https://huggingface.co/papers/2601.03044",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "A scalable online post-training system enables real-world robot policy adaptation through distributed, multi-task learning that maintains generality while improving task proficiency. AI-generated summary Vision-language-action (VLA) models achieve strong generalization through large-scale pre-training, but real-world d…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "The Sonar Moment: Benchmarking Audio-Language Models in Audio Geo-Localization",
+    "url": "https://huggingface.co/papers/2601.03227",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "Audio geo-localization benchmark AGL1K is introduced to advance audio language models' geospatial reasoning capabilities through curated audio clips and evaluation across multiple models. AI-generated summary Geo-localization aims to infer the geographic origin of a given signal. In computer vision, geo-localization ha…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision",
+    "url": "https://huggingface.co/papers/2601.03193",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "UniCorn, a self-improvement framework for unified multimodal models, addresses generation gaps through self-play and cognitive pattern reconstruction, achieving state-of-the-art results in text-to-image generation. AI-generated summary While Unified Multimodal Models (UMMs) have achieved remarkable success in cross-mod…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Muses: Designing, Composing, Generating Nonexistent Fantasy 3D Creatures without Training",
+    "url": "https://huggingface.co/papers/2601.03256",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "Muses enables feed-forward generation of 3D creatures by leveraging skeletal structures and graph-constrained reasoning for coherent design and assembly. AI-generated summary We present Muses, the first training-free method for fantastic 3D creature generation in a feed-forward paradigm. Previous methods, which rely on…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Parallel Latent Reasoning for Sequential Recommendation",
+    "url": "https://huggingface.co/papers/2601.03153",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "Parallel Latent Reasoning framework improves sequential recommendation by exploring multiple diverse reasoning trajectories simultaneously through learnable trigger tokens and adaptive aggregation. AI-generated summary Capturing complex user preferences from sparse behavioral sequences remains a fundamental challenge i…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "CogFlow: Bridging Perception and Reasoning through Knowledge Internalization for Visual Mathematical Problem Solving",
+    "url": "https://huggingface.co/papers/2601.01874",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "Visual mathematical problem solving remains challenging for multimodal large language models, prompting the development of CogFlow, a cognitive-inspired three-stage framework that enhances perception, internalization, and reasoning through synergistic rewards and visual-gated policy optimization. AI-generated summary D…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks",
+    "url": "https://huggingface.co/papers/2601.02439",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "WebGym presents a large-scale open-source environment for training visual web agents using reinforcement learning with high-throughput asynchronous sampling, achieving superior performance on unseen websites compared to proprietary models. AI-generated summary We present WebGym, the largest-to-date open-source environm…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "MOSS Transcribe Diarize: Accurate Transcription with Speaker Diarization",
+    "url": "https://huggingface.co/papers/2601.01554",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "A unified multimodal large language model for end-to-end speaker-attributed, time-stamped transcription with extended context window and strong generalization across benchmarks. AI-generated summary Speaker-Attributed, Time-Stamped Transcription (SATS) aims to transcribe what is said and to precisely determine the timi…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "DreamStyle: A Unified Framework for Video Stylization",
+    "url": "https://huggingface.co/papers/2601.02785",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "DreamStyle is a unified video stylization framework that supports multiple style conditions while addressing style inconsistency and temporal flicker through a specialized data curation pipeline and LoRA training approach. AI-generated summary Video stylization, an important downstream task of video generation models,…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "NitroGen: An Open Foundation Model for Generalist Gaming Agents",
+    "url": "https://huggingface.co/papers/2601.02427",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "NitroGen is a vision-action foundation model trained on extensive gameplay data that demonstrates strong cross-game generalization and effective transfer learning capabilities. AI-generated summary We introduce NitroGen, a vision-action foundation model for generalist gaming agents that is trained on 40,000 hours of ga…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "X-MuTeST: A Multilingual Benchmark for Explainable Hate Speech Detection and A Novel LLM-consulted Explanation Framework",
+    "url": "https://huggingface.co/papers/2601.03194",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "A novel explainability-guided training framework for hate speech detection in Indic languages that combines large language models with attention-enhancing techniques and provides human-annotated rationales for improved performance and interpretability. AI-generated summary Hate speech detection on social media faces ch…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields",
+    "url": "https://huggingface.co/papers/2601.03252",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "InfiniDepth represents depth as neural implicit fields using a local implicit decoder, enabling continuous 2D coordinate querying for arbitrary-resolution depth estimation and superior performance in fine-detail regions. AI-generated summary Existing depth estimation methods are fundamentally limited to predicting dept…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "FFP-300K: Scaling First-Frame Propagation for Generalizable Video Editing",
+    "url": "https://huggingface.co/papers/2601.01720",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-07",
+    "raw_snippet": "A new large-scale video dataset and framework are presented that enable effective first-frame propagation without runtime guidance through adaptive spatio-temporal positional encoding and self-distillation techniques. AI-generated summary First-Frame Propagation (FFP) offers a promising paradigm for controllable video…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
     "title": "Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models",
     "url": "https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b",
     "source": "Hugging Face Blog",
@@ -8,7 +358,7 @@
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
-    "hot_score": 14,
+    "hot_score": 13,
     "sources": [
       "Hugging Face Blog"
     ]
@@ -208,20 +558,6 @@
     "sources": [
       "arXiv cs.AI",
       "arXiv cs.CL"
-    ]
-  },
-  {
-    "title": "The Path Ahead for Agentic AI: Challenges and Opportunities",
-    "url": "https://arxiv.org/abs/2601.02749",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-07",
-    "raw_snippet": "arXiv:2601.02749v1 Announce Type: new Abstract: The evolution of Large Language Models (LLMs) from passive text generators to autonomous, goal-driven systems represents a fundamental shift in artificial intelligence. This chapter examines the emergence of agentic AI systems that integrate planning, memory, tool use, an…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
     ]
   }
 ]
