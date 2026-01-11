@@ -1,5 +1,467 @@
 [
   {
+    "title": "Token-Level LLM Collaboration via FusionRoute",
+    "url": "https://huggingface.co/papers/2601.05106",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-10",
+    "raw_snippet": "FusionRoute is a token-level multi-LLM collaboration framework that uses a lightweight router to select optimal experts and add complementary logits, outperforming existing methods in diverse tasks while maintaining efficiency. AI-generated summary Large language models (LLMs) exhibit strengths across diverse domains.…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice",
+    "url": "https://huggingface.co/papers/2601.05175",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-10",
+    "raw_snippet": "VideoAuto-R1 framework employs a reason-when-necessary strategy for video understanding, using a Thinking Once, Answering Twice training paradigm with verifiable rewards and confidence-based reasoning activation during inference. AI-generated summary Chain-of-thought (CoT) reasoning has emerged as a powerful tool for m…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Plenoptic Video Generation",
+    "url": "https://huggingface.co/papers/2601.05239",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-10",
+    "raw_snippet": "PlenopticDreamer enables consistent multi-view video re-rendering through synchronized generative hallucinations, leveraging camera-guided retrieval and progressive training mechanisms for improved temporal coherence and visual fidelity. AI-generated summary Camera-controlled generative video re-rendering methods, such…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Agent-as-a-Judge",
+    "url": "https://huggingface.co/papers/2601.05111",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-10",
+    "raw_snippet": "Large language models face limitations in evaluating complex, multi-step tasks, prompting the development of agent-based evaluation systems that utilize planning, tool-augmented verification, and multi-agent collaboration for more robust assessments. AI-generated summary LLM-as-a-Judge has revolutionized AI evaluation…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Beyond Binary Preference: Aligning Diffusion Models to Fine-grained Criteria by Decoupling Attributes",
+    "url": "https://huggingface.co/papers/2601.04300",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-10",
+    "raw_snippet": "A two-stage framework for diffusion model alignment using hierarchical evaluation criteria and complex preference optimization demonstrates improved generation quality and expert alignment. AI-generated summary Post-training alignment of diffusion models relies on simplified signals, such as scalar rewards or binary pr…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers",
+    "url": "https://huggingface.co/papers/2601.04342",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "ReHyAt introduces a recurrent hybrid attention mechanism that combines softmax and linear attention benefits, enabling efficient video generation with reduced computational costs and improved scalability. AI-generated summary Recent advances in video diffusion models have shifted towards transformer-based architectures…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "PyramidalWan: On Making Pretrained Video Model Pyramidal for Efficient Inference",
+    "url": "https://huggingface.co/papers/2601.04792",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "Pyramidal diffusion models reduce computational cost through hierarchical resolution processing, with pretrained models converted via low-cost fine-tuning maintaining output quality while enabling efficient inference. AI-generated summary Recently proposed pyramidal models decompose the conventional forward and backwar…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Learning User Preferences Through Interaction for Long-Term Collaboration",
+    "url": "https://huggingface.co/papers/2601.02702",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "MultiSessionCollab benchmark evaluates agents' ability to learn and adapt to user preferences through persistent memory systems that enhance long-term collaboration quality. AI-generated summary As conversational agents accumulate experience collaborating with users, adapting to user preferences is essential for foster…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Multi-Scale Local Speculative Decoding for Image Generation",
+    "url": "https://huggingface.co/papers/2601.05149",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "Multi-Scale Local Speculative Decoding accelerates autoregressive image generation through multi-resolution drafting and spatially informed verification while maintaining semantic quality and perceptual fidelity. AI-generated summary Autoregressive (AR) models have achieved remarkable success in image synthesis, yet th…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Scaling Behavior Cloning Improves Causal Reasoning: An Open Model for Real-Time Video Game Playing",
+    "url": "https://huggingface.co/papers/2601.04575",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "Behavior cloning demonstrates improved performance and causal reasoning through scaling model size and training data, achieving human-level gameplay in 3D video games. AI-generated summary Behavior cloning is enjoying a resurgence in popularity as scaling both model and data sizes proves to provide a strong starting po…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "LEMAS: Large A 150K-Hour Large-scale Extensible Multilingual Audio Suite with Generative Speech Models",
+    "url": "https://huggingface.co/papers/2601.04233",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "The LEMAS-Dataset enables high-quality multilingual speech synthesis and editing through specialized models leveraging flow-matching and autoregressive architectures with novel training techniques. AI-generated summary We present the LEMAS-Dataset, which, to our knowledge, is currently the largest open-source multiling…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "One Sample to Rule Them All: Extreme Data Efficiency in RL Scaling",
+    "url": "https://huggingface.co/papers/2601.03111",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "Reinforcement learning with carefully designed single training samples can significantly enhance the reasoning abilities of large language models across multiple disciplines, outperforming traditional approaches that rely on large datasets. AI-generated summary The reasoning ability of large language models (LLMs) can…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "CoV: Chain-of-View Prompting for Spatial Reasoning",
+    "url": "https://huggingface.co/papers/2601.05172",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "Chain-of-View prompting enables vision-language models to actively explore 3D environments by selecting question-aligned views and iteratively adjusting camera positions to improve spatial reasoning in embodied question answering. AI-generated summary Embodied question answering (EQA) in 3D environments often requires…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Few Tokens Matter: Entropy Guided Attacks on Vision-Language Models",
+    "url": "https://huggingface.co/papers/2512.21815",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "Selective adversarial attacks targeting high-entropy tokens in vision-language models achieve significant semantic degradation with reduced budgets and demonstrate transferable vulnerabilities across different architectures. AI-generated summary Vision-language models (VLMs) achieve remarkable performance but remain vu…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "VERSE: Visual Embedding Reduction and Space Exploration. Clustering-Guided Insights for Training Data Enhancement in Visually-Rich Document Understanding",
+    "url": "https://huggingface.co/papers/2601.05125",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "VERSE is a methodology for analyzing and improving Vision-Language Models in document understanding by visualizing latent representations and generating synthetic data to enhance performance in error-prone clusters. AI-generated summary This work introduces VERSE, a methodology for analyzing and improving Vision-Langua…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting",
+    "url": "https://huggingface.co/papers/2601.04754",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "ProFuse enhances 3D scene understanding by integrating semantic information into 3D Gaussian Splatting through efficient context-aware processing and pre-registration phases. AI-generated summary We present ProFuse, an efficient context-aware framework for open-vocabulary 3D scene understanding with 3D Gaussian Splatti…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "AgentDevel: Reframing Self-Evolving LLM Agents as Release Engineering",
+    "url": "https://huggingface.co/papers/2601.04620",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "AgentDevel presents a release engineering approach for large language model agents that treats them as shippable artifacts and emphasizes stable, auditable improvements through externalized testing and diagnostic processes. AI-generated summary Recent progress in large language model (LLM) agents has largely focused on…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset",
+    "url": "https://huggingface.co/papers/2512.24160",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "A large-scale industrial multimodal defect dataset with 1 million image-text pairs enables efficient foundation model adaptation for manufacturing quality inspection and generation tasks. AI-generated summary We present IMDD-1M, the first large-scale Industrial Multimodal Defect Dataset comprising 1,000,000 aligned ima…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control",
+    "url": "https://huggingface.co/papers/2601.05138",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "VerseCrafter is a 4D-aware video world model that enables unified control over camera and object dynamics through 4D geometric control representation and video diffusion models. AI-generated summary Video world models aim to simulate dynamic, real-world environments, yet existing methods struggle to provide unified and…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes",
+    "url": "https://huggingface.co/papers/2601.05249",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "A novel nighttime color constancy framework combines statistical methods with deep reinforcement learning to improve white balance adjustment under low-light conditions. AI-generated summary Nighttime color constancy remains a challenging problem in computational photography due to low-light noise and complex illuminat…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Enhancing Object Detection with Privileged Information: A Model-Agnostic Teacher-Student Approach",
+    "url": "https://huggingface.co/papers/2601.02016",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "Learning Using Privileged Information paradigm enhances object detection accuracy by integrating additional training-time information through teacher-student architectures without increasing inference complexity. AI-generated summary This paper investigates the integration of the Learning Using Privileged Information (…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "AT^2PO: Agentic Turn-based Policy Optimization via Tree Search",
+    "url": "https://huggingface.co/papers/2601.04767",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "AT²PO is a unified framework for multi-turn agentic reinforcement learning that improves exploration diversity, credit assignment, and policy optimization through tree search and turn-level learning objectives. AI-generated summary LLM agents have emerged as powerful systems for tackling multi-turn tasks by interleavin…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views",
+    "url": "https://huggingface.co/papers/2601.03362",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "HairGuard is a framework for recovering fine-grained soft boundary details in 3D vision tasks through specialized depth refinement and view synthesis techniques. AI-generated summary Soft boundaries, like thin hairs, are commonly observed in natural and computer-generated imagery, but they remain challenging for 3D vis…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Learnable Multipliers: Freeing the Scale of Language Model Matrix Layers",
+    "url": "https://huggingface.co/papers/2601.04890",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "Learnable multipliers are introduced to address weight decay-induced normalization artifacts in large language model training, outperforming traditional methods while reducing computational overhead. AI-generated summary Applying weight decay (WD) to matrix layers is standard practice in large-language-model pretrainin…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation",
+    "url": "https://huggingface.co/papers/2601.05241",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "Visual identity prompting enhances manipulation data augmentation for robot policies by providing explicit visual guidance to diffusion models, improving policy performance in both simulation and real-world settings. AI-generated summary The diversity, quantity, and quality of manipulation data are critical for trainin…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing",
+    "url": "https://huggingface.co/papers/2601.05124",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "Re-Align addresses the gap between understanding and generation in in-context image generation and editing through structured reasoning-guided alignment and reinforcement learning training. AI-generated summary In-context image generation and editing (ICGE) enables users to specify visual concepts through interleaved i…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Memorization in 3D Shape Generation: An Empirical Study",
+    "url": "https://huggingface.co/papers/2512.23628",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "Researchers develop a framework to measure memorization in 3D generative models and identify factors affecting it, finding that data modality and model design parameters influence how much training data is remembered during generation. AI-generated summary Generative models are increasingly used in 3D vision to synthes…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization",
+    "url": "https://huggingface.co/papers/2601.05242",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "Multi-reward reinforcement learning suffers from reward normalization collapse in GRPO, which GDPO addresses by decoupling reward normalization for improved training stability and performance across reasoning tasks. AI-generated summary As language models become increasingly capable, users expect them to provide not on…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance",
+    "url": "https://huggingface.co/papers/2601.01887",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "Safety alignment of large language models can be fully recovered with a single safety example, maintaining utility and achieving convergence in few epochs through identified low-rank gradient structures. AI-generated summary Fine-tuning safety-aligned large language models (LLMs) can substantially compromise their safe…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "DocDancer: Towards Agentic Document-Grounded Information Seeking",
+    "url": "https://huggingface.co/papers/2601.05163",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "DocDancer is an end-to-end trained open-source document question answering agent that formulates the task as an information-seeking problem and uses a tool-driven framework with exploration and synthesis for training. AI-generated summary Document Question Answering (DocQA) focuses on answering questions grounded in gi…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "The Illusion of Specialization: Unveiling the Domain-Invariant \"Standing Committee\" in Mixture-of-Experts Models",
+    "url": "https://huggingface.co/papers/2601.03425",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "Research challenges the assumption of domain specialization in Mixture of Experts models by identifying a persistent central committee of experts that dominates routing behavior across different domains and architectures. AI-generated summary Mixture of Experts models are widely assumed to achieve domain specialization…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "RelayLLM: Efficient Reasoning via Collaborative Decoding",
+    "url": "https://huggingface.co/papers/2601.05167",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "RelayLLM enables efficient collaborative reasoning between small and large language models through token-level dynamic invocation, achieving high accuracy with minimal computational overhead. AI-generated summary Large Language Models (LLMs) for complex reasoning is often hindered by high computational costs and latenc…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs",
+    "url": "https://huggingface.co/papers/2601.03559",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-09",
+    "raw_snippet": "DiffCoT reformulates chain-of-thought reasoning as an iterative denoising process using diffusion principles, enabling unified generation and correction of intermediate steps while maintaining causal consistency. AI-generated summary Chain-of-Thought (CoT) reasoning improves multi-step mathematical problem solving in l…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
     "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
     "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
     "source": "Hugging Face Blog",
