@@ -1,5 +1,425 @@
 [
   {
+    "title": "GenCtrl -- A Formal Controllability Toolkit for Generative Models",
+    "url": "https://huggingface.co/papers/2601.05637",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-13",
+    "raw_snippet": "Generative models' controllability is theoretically analyzed through a framework that estimates controllable sets with distribution-free bounds, revealing that controllability is fragile and context-dependent. AI-generated summary As generative models become ubiquitous, there is a critical need for fine-grained control…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck",
+    "url": "https://huggingface.co/papers/2601.05870",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-13",
+    "raw_snippet": "Latent Policy Optimization via Iterative Information Bottleneck addresses exploration collapse in LLM reasoning by enabling topological branching of reasoning trajectories through information bottleneck principles. AI-generated summary Recent advances in Reinforcement Learning with Verifiable Rewards (RLVR) for Large L…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents",
+    "url": "https://huggingface.co/papers/2601.05899",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "A new tower defense-based environment called TowerMind is introduced for evaluating large language models' planning and decision-making capabilities with low computational requirements and multimodal observations. AI-generated summary Recent breakthroughs in Large Language Models (LLMs) have positioned them as a promis…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models",
+    "url": "https://huggingface.co/papers/2601.05376",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "Persona conditioning in clinical language models produces context-dependent effects on performance and safety that vary systematically with professional role and interaction style, challenging assumptions of monotonic improvement in expert behavior. AI-generated summary Persona conditioning can be viewed as a behaviora…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "An Empirical Study on Preference Tuning Generalization and Diversity Under Domain Shift",
+    "url": "https://huggingface.co/papers/2601.05882",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "Preference tuning of language models shows varying generalization capabilities under domain shift, with pseudo-labeling adaptation strategies effectively reducing performance degradation in summarization and question-answering tasks. AI-generated summary Preference tuning aligns pretrained language models to human judg…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Legal Alignment for Safe and Ethical AI",
+    "url": "https://huggingface.co/papers/2601.04175",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "Legal alignment explores how legal principles and methods can guide AI system design to ensure safety, ethics, and compliance through three research directions involving rule adherence, legal reasoning methods, and structural blueprints for AI reliability and trust. AI-generated summary Alignment of artificial intellig…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Afri-MCQA: Multimodal Cultural Question Answering for African Languages",
+    "url": "https://huggingface.co/papers/2601.05699",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "Afri-MCQA benchmark demonstrates poor performance of open-weight LLMs in African languages, highlighting the need for culturally grounded pretraining and speech-first approaches in AI development. AI-generated summary Africa is home to over one-third of the world's languages, yet remains underrepresented in AI research…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "ViTNT-FIQA: Training-Free Face Image Quality Assessment with Vision Transformers",
+    "url": "https://huggingface.co/papers/2601.05741",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "ViTNT-FIQA measures face image quality by analyzing patch embedding stability across Vision Transformer blocks with a single forward pass. AI-generated summary Face Image Quality Assessment (FIQA) is essential for reliable face recognition systems. Current approaches primarily exploit only final-layer representations,…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "TCAndon-Router: Adaptive Reasoning Router for Multi-Agent Collaboration",
+    "url": "https://huggingface.co/papers/2601.04544",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "A multi-agent system router that uses dynamic agent onboarding and natural language reasoning chains to improve routing accuracy and reduce conflicts in enterprise applications. AI-generated summary Multi-Agent Systems(MAS) have become a powerful paradigm for building high performance intelligent applications. Within t…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection",
+    "url": "https://huggingface.co/papers/2601.05403",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "A comprehensive benchmark evaluates behavioral biases in large language models for multilingual financial misinformation detection across diverse economic scenarios. AI-generated summary Large language models (LLMs) have been widely applied across various domains of finance. Since their training data are largely derive…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Distilling Feedback into Memory-as-a-Tool",
+    "url": "https://huggingface.co/papers/2601.05960",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "A framework converts transient critiques into retrievable guidelines using a file-based memory system and agent-controlled tool calls, enabling LLMs to match test-time refinement performance with reduced inference costs. AI-generated summary We propose a framework that amortizes the cost of inference-time reasoning by…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning",
+    "url": "https://huggingface.co/papers/2601.04726",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "CompassMem is an event-centric memory framework that organizes experiences into an Event Graph to enable structured memory navigation and long-horizon reasoning beyond traditional retrieval methods. AI-generated summary Large language models (LLMs) are increasingly deployed as intelligent agents that reason, plan, and…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "CaricatureGS: Exaggerating 3D Gaussian Splatting Faces With Gaussian Curvature",
+    "url": "https://huggingface.co/papers/2601.03319",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "A photorealistic 3D caricaturization framework combines Gaussian curvature-based surface exaggeration with 3D Gaussian Splatting to create controllable, realistic avatars with improved fidelity and real-time deformation capabilities. AI-generated summary A photorealistic and controllable 3D caricaturization framework f…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "MMFormalizer: Multimodal Autoformalization in the Wild",
+    "url": "https://huggingface.co/papers/2601.03017",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "MMFormalizer enables multimodal autoformalization by integrating visual perception with formal mathematical reasoning, supporting complex physical domains from classical mechanics to quantum mechanics. AI-generated summary Autoformalization, which translates natural language mathematics into formal statements to enable…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "AnyDepth: Depth Estimation Made Easy",
+    "url": "https://huggingface.co/papers/2601.02760",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "A lightweight monocular depth estimation framework uses DINOv3 as visual encoder and a compact transformer decoder to achieve higher accuracy with reduced computational overhead and improved data quality. AI-generated summary Monocular depth estimation aims to recover the depth information of 3D scenes from 2D images.…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking",
+    "url": "https://huggingface.co/papers/2601.04720",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimodal search pipeline, leveraging multi-stage training and cross-attention mechanisms to achieve high-precision retrieval across diverse modalities. AI-generated summary In this report, we introduce the Qwen3-VL-Embedding and Qwen3-VL-Reranker…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "AgentOCR: Reimagining Agent History via Optical Self-Compression",
+    "url": "https://huggingface.co/papers/2601.04786",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "AgentOCR reduces token consumption in agentic systems by representing interaction history as visual tokens and employing visual caching and self-compression techniques. AI-generated summary Recent advances in large language models (LLMs) enable agentic systems trained with reinforcement learning (RL) over multi-turn in…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Can We Predict Before Executing Machine Learning Agents?",
+    "url": "https://huggingface.co/papers/2601.05930",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "Autonomous machine learning agents overcome execution bottlenecks by predicting outcomes before physical execution, achieving faster convergence and improved performance through a predict-then-verify approach. AI-generated summary Autonomous machine learning agents have revolutionized scientific discovery, yet they rem…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Illusions of Confidence? Diagnosing LLM Truthfulness via Neighborhood Consistency",
+    "url": "https://huggingface.co/papers/2601.05905",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "Large language models exhibit brittle beliefs under contextual perturbations, which are better measured by structural consistency metrics and addressed through structure-aware training methods. AI-generated summary As Large Language Models (LLMs) are increasingly deployed in real-world settings, correctness alone is in…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning",
+    "url": "https://huggingface.co/papers/2601.06002",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "Large language models struggle with long chain-of-thought reasoning due to unstable structural patterns, but a molecular-inspired approach using effective semantic isomers and distribution-transfer-graph methods improves training stability and performance. AI-generated summary Large language models (LLMs) often fail to…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Router-Suggest: Dynamic Routing for Multimodal Auto-Completion in Visually-Grounded Dialogs",
+    "url": "https://huggingface.co/papers/2601.05851",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "Multimodal auto-completion leverages visual and textual context to improve real-time prediction accuracy in conversational interfaces, with a router framework enabling efficient model selection based on dialog context. AI-generated summary Real-time multimodal auto-completion is essential for digital assistants, chatbo…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization",
+    "url": "https://huggingface.co/papers/2601.05432",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "Large vision-language models are enhanced for image geolocalization by incorporating map-based reasoning and agent-in-the-map loop optimization, achieving superior accuracy compared to existing models. AI-generated summary The image geolocalization task aims to predict the location where an image was taken anywhere on…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SmartSearch: Process Reward-Guided Query Refinement for Search Agents",
+    "url": "https://huggingface.co/papers/2601.04888",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "SmartSearch enhances LLM-based search agents through process rewards and query refinement mechanisms that improve intermediate search query quality via a three-stage curriculum learning approach. AI-generated summary Large language model (LLM)-based search agents have proven promising for addressing knowledge-intensive…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Orient Anything V2: Unifying Orientation and Rotation Understanding",
+    "url": "https://huggingface.co/papers/2601.05573",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "Orient Anything V2 enhances 3D orientation understanding through scalable 3D asset synthesis, symmetry-aware periodic distribution fitting, and multi-frame relative rotation prediction, achieving state-of-the-art performance across multiple benchmarks. AI-generated summary This work presents Orient Anything V2, an enha…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis",
+    "url": "https://huggingface.co/papers/2601.05808",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "EnvScaler automates the creation of tool-interaction environments through programmatic synthesis, enhancing LLM performance in complex multi-turn, multi-tool tasks via supervised fine-tuning and reinforcement learning. AI-generated summary Large language models (LLMs) are expected to be trained to act as agents in vari…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "DR-LoRA: Dynamic Rank LoRA for Mixture-of-Experts Adaptation",
+    "url": "https://huggingface.co/papers/2601.04823",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "DR-LoRA dynamically adjusts LoRA ranks for experts in Mixture-of-Experts models based on task-specific demands, improving parameter efficiency and performance. AI-generated summary Mixture-of-Experts (MoE) has become a prominent paradigm for scaling Large Language Models (LLMs). Parameter-efficient fine-tuning (PEFT),…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Over-Searching in Search-Augmented Large Language Models",
+    "url": "https://huggingface.co/papers/2601.05503",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "Search-augmented large language models suffer from over-searching behavior that wastes computational resources and introduces hallucinations, with findings showing varied impacts across model types and conversation contexts. AI-generated summary Search-augmented large language models (LLMs) excel at knowledge-intensive…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards",
+    "url": "https://huggingface.co/papers/2601.06021",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "A citation-aware reward framework and policy optimization method improve deep search agents' reasoning comprehensiveness and factual accuracy while reducing shortcut exploitation and hallucinations. AI-generated summary Reinforcement learning (RL) has emerged as a critical technique for enhancing LLM-based deep search…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction",
+    "url": "https://huggingface.co/papers/2601.05966",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "VideoAR presents a large-scale visual autoregressive framework for video generation that combines multi-scale next-frame prediction with autoregressive modeling, achieving state-of-the-art results with improved efficiency and temporal consistency. AI-generated summary Recent advances in video generation have been domin…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals",
+    "url": "https://huggingface.co/papers/2601.05848",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-12",
+    "raw_snippet": "Video generation models trained on synthetic physics primitives demonstrate zero-shot generalization to complex real-world scenarios by modeling force propagation through time and space. AI-generated summary Recent advancements in video generation have enabled the development of ``world models'' capable of simulating p…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
     "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
     "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
     "source": "Hugging Face Blog",
@@ -8,7 +428,7 @@
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
-    "hot_score": 12,
+    "hot_score": 11,
     "sources": [
       "Hugging Face Blog"
     ]
@@ -22,7 +442,7 @@
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
-    "hot_score": 12,
+    "hot_score": 11,
     "sources": [
       "Hugging Face Blog"
     ]
@@ -36,7 +456,7 @@
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
-    "hot_score": 12,
+    "hot_score": 11,
     "sources": [
       "Hugging Face Blog"
     ]
@@ -133,93 +553,6 @@
     "source": "arXiv cs.AI",
     "published_at": "2026-01-12",
     "raw_snippet": "arXiv:2601.05330v1 Announce Type: new Abstract: Predicting enzyme-substrate interactions has long been a fundamental problem in biochemistry and metabolic engineering. While existing methods could leverage databases of expert-curated enzyme-substrate pairs for models to learn from known pair interactions, the databases…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models",
-    "url": "https://arxiv.org/abs/2601.05376",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-12",
-    "raw_snippet": "arXiv:2601.05376v1 Announce Type: new Abstract: Persona conditioning can be viewed as a behavioral prior for large language models (LLMs) and is often assumed to confer expertise and improve safety in a monotonic manner. However, its effects on high-stakes clinical decision-making remain poorly characterized. We system…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI",
-      "arXiv cs.CL"
-    ]
-  },
-  {
-    "title": "Conformity and Social Impact on AI Agents",
-    "url": "https://arxiv.org/abs/2601.05384",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-12",
-    "raw_snippet": "arXiv:2601.05384v1 Announce Type: new Abstract: As AI agents increasingly operate in multi-agent environments, understanding their collective behavior becomes critical for predicting the dynamics of artificial societies. This study examines conformity, the tendency to align with group opinions under social pressure, in…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI",
-      "arXiv cs.CL"
-    ]
-  },
-  {
-    "title": "On the Effect of Cheating in Chess",
-    "url": "https://arxiv.org/abs/2601.05386",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-12",
-    "raw_snippet": "arXiv:2601.05386v1 Announce Type: new Abstract: Cheating in chess, by using advice from powerful software, has become a major problem, reaching the highest levels. As opposed to the large majority of previous work, which concerned {\\em detection} of cheating, here we try to evaluate the possible gain in performance, ob…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "ART: Adaptive Reasoning Trees for Explainable Claim Verification",
-    "url": "https://arxiv.org/abs/2601.05455",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-12",
-    "raw_snippet": "arXiv:2601.05455v1 Announce Type: new Abstract: Large Language Models (LLMs) are powerful candidates for complex decision-making, leveraging vast encoded knowledge and remarkable zero-shot abilities. However, their adoption in high-stakes environments is hindered by their opacity; their outputs lack faithful explanatio…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI",
-      "arXiv cs.LG"
-    ]
-  },
-  {
-    "title": "PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-Agent Architecture for Open-Domain Multi-Hop Question Answering",
-    "url": "https://arxiv.org/abs/2601.05465",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-12",
-    "raw_snippet": "arXiv:2601.05465v1 Announce Type: new Abstract: Answering real-world open-domain multi-hop questions over massive corpora is a critical challenge in Retrieval-Augmented Generation (RAG) systems. Recent research employs reinforcement learning (RL) to end-to-end optimize the retrieval-augmented reasoning process, directl…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "MMUEChange: A Generalized LLM Agent Framework for Intelligent Multi-Modal Urban Environment Change Analysis",
-    "url": "https://arxiv.org/abs/2601.05483",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-12",
-    "raw_snippet": "arXiv:2601.05483v1 Announce Type: new Abstract: Understanding urban environment change is essential for sustainable development. However, current approaches, particularly remote sensing change detection, often rely on rigid, single-modal analysis. To overcome these limitations, we propose MMUEChange, a multi-modal agen…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
