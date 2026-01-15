@@ -1,5 +1,19 @@
 [
   {
+    "title": "Open Responses: What you need to know",
+    "url": "https://huggingface.co/blog/open-responses",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-01-15",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
     "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
     "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
     "source": "Hugging Face Blog",
@@ -42,6 +56,20 @@
     ]
   },
   {
+    "title": "国内首个可复现！萝博派对公开人形机器人 “从 0 到跑” 全开源方案",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-15-13",
+    "source": "机器之心",
+    "published_at": "2026-01-15",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 6,
+    "sources": [
+      "机器之心"
+    ]
+  },
+  {
     "title": "联发科天玑9500s、8500发布：GPU、光追拉满，红米Turbo 5Max将搭载",
     "url": "https://www.jiqizhixin.com/articles/2026-01-15-12",
     "source": "机器之心",
@@ -58,20 +86,6 @@
   {
     "title": "通用级PixVerse P1的技术突破，揣着进入平行世界的密码",
     "url": "https://www.jiqizhixin.com/articles/2026-01-15-11",
-    "source": "机器之心",
-    "published_at": "2026-01-15",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 6,
-    "sources": [
-      "机器之心"
-    ]
-  },
-  {
-    "title": "Mira公司内乱？CTO被开除，带团队回OpenAI，翁荔上推发言",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-15-10",
     "source": "机器之心",
     "published_at": "2026-01-15",
     "raw_snippet": "",
