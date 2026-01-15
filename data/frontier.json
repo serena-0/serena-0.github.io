@@ -1,5 +1,327 @@
 [
   {
+    "title": "VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory",
+    "url": "https://huggingface.co/papers/2601.08665",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "VLingNav enhances embodied navigation through linguistic-driven cognition with adaptive reasoning and visual-assisted memory, achieving state-of-the-art performance and zero-shot transfer to real robots. AI-generated summary VLA models have shown promising potential in embodied navigation by unifying perception and pla…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "GeoMotionGPT: Geometry-Aligned Motion Understanding with Large Language Models",
+    "url": "https://huggingface.co/papers/2601.07632",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "A novel framework for motion understanding and motion-language reasoning that aligns motion token geometry with language model embeddings through orthogonal constraints and sparse projection techniques. AI-generated summary Discrete motion tokenization has recently enabled Large Language Models (LLMs) to serve as versa…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "UM-Text: A Unified Multimodal Model for Image Understanding",
+    "url": "https://huggingface.co/papers/2601.08321",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "A unified multimodal model for visual text editing that understands natural language instructions and maintains stylistic consistency with reference images through visual language modeling and contextual embedding combination. AI-generated summary With the rapid advancement of image generation, visual text editing usin…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding",
+    "url": "https://huggingface.co/papers/2601.07290",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "VideoLoom is a unified video large language model that achieves state-of-the-art performance in spatial-temporal video understanding through a specialized dataset and benchmark. AI-generated summary This paper presents VideoLoom, a unified Video Large Language Model (Video LLM) for joint spatial-temporal understanding.…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "3AM: Segment Anything with Geometric Consistency in Videos",
+    "url": "https://huggingface.co/papers/2601.08831",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "3AM enhances video object segmentation by integrating 3D-aware features from MUSt3R into SAM2, achieving improved viewpoint consistency with only RGB input at inference. AI-generated summary Video object segmentation methods like SAM2 achieve strong performance through memory-based architectures but struggle under larg…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "ViDoRe V3: A Comprehensive Evaluation of Retrieval Augmented Generation in Complex Real-World Scenarios",
+    "url": "https://huggingface.co/papers/2601.08620",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "ViDoRe v3 is a multimodal retrieval-augmented generation benchmark with diverse document types and languages, revealing that visual retrieval and late interaction models improve performance while current systems still face challenges with non-textual elements and complex queries. AI-generated summary Retrieval-Augmente…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Parallel Context-of-Experts Decoding for Retrieval Augmented Generation",
+    "url": "https://huggingface.co/papers/2601.08670",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "Parallel Context-of-Experts Decoding enables multi-document reasoning in retrieval-augmented generation by treating retrieved documents as isolated experts and synchronizing predictions through a retrieval-aware contrastive decoding rule. AI-generated summary Retrieval Augmented Generation faces a trade-off: concatenat…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "EpiCaR: Knowing What You Don't Know Matters for Better Reasoning in LLMs",
+    "url": "https://huggingface.co/papers/2601.06786",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "Training large language models for improved reasoning while maintaining calibration through epistemic learning reduces inference compute requirements and enhances performance on mathematical and coding tasks. AI-generated summary Improving the reasoning abilities of large language models (LLMs) has largely relied on it…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Ministral 3",
+    "url": "https://huggingface.co/papers/2601.08584",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "The Ministral 3 series consists of parameter-efficient dense language models with three sizes (3B, 8B, 14B) and three variants per size, trained using cascade distillation for compute-constrained applications. AI-generated summary We introduce the Ministral 3 series, a family of parameter-efficient dense language model…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions",
+    "url": "https://huggingface.co/papers/2601.04745",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "Long-horizon memory benchmarks based on autobiographical narratives evaluate models' ability to infer stable motivations and decision principles through evidence-linked questions spanning factual recall, subjective state attribution, and principle-level reasoning. AI-generated summary Existing long-horizon memory bench…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Towards Comprehensive Stage-wise Benchmarking of Large Language Models in Fact-Checking",
+    "url": "https://huggingface.co/papers/2601.02669",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "FactArena is an automated evaluation framework that comprehensively assesses large language models across all stages of the fact-checking pipeline, revealing gaps between claim verification accuracy and overall fact-checking capability. AI-generated summary Large Language Models (LLMs) are increasingly deployed in real…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "JudgeRLVR: Judge First, Generate Second for Efficient Reasoning",
+    "url": "https://huggingface.co/papers/2601.08468",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "Reinforcement learning with verifiable rewards is enhanced through a judge-then-generate paradigm that improves both efficiency and accuracy in mathematical problem-solving. AI-generated summary Reinforcement Learning with Verifiable Rewards (RLVR) has become a standard paradigm for reasoning in Large Language Models.…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "ShowUI-π: Flow-based Generative Models as GUI Dexterous Hands",
+    "url": "https://huggingface.co/papers/2512.24965",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "Building intelligent agents capable of dexterous manipulation is essential for achieving human-like automation in both robotics and digital environments. However, existing GUI agents rely on discrete click predictions (x,y), which prohibits free-form, closed-loop trajectories (e.g. dragging a progress bar) that require…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Solar Open Technical Report",
+    "url": "https://huggingface.co/papers/2601.07022",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "Solar Open presents a 102B-parameter bilingual Mixture-of-Experts language model that addresses data scarcity in underserved languages through synthetic data generation, progressive curriculum coordination, and scalable reinforcement learning optimization. AI-generated summary We introduce Solar Open, a 102B-parameter…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "User-Oriented Multi-Turn Dialogue Generation with Tool Use at scale",
+    "url": "https://huggingface.co/papers/2601.08225",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "Large reasoning models enable scalable multi-turn dialogue generation through automated task-oriented simulation and user-oriented behavioral modeling for enhanced human-agent interaction datasets. AI-generated summary The recent paradigm shift toward large reasoning models (LRMs) as autonomous agents has intensified t…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "MemGovern: Enhancing Code Agents through Learning from Governed Human Experiences",
+    "url": "https://huggingface.co/papers/2601.06789",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "MemGovern framework transforms unstructured GitHub data into structured experiential memory for autonomous software engineering agents, improving bug resolution rates through enhanced experience retrieval. AI-generated summary While autonomous software engineering (SWE) agents are reshaping programming paradigms, they…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "The Confidence Dichotomy: Analyzing and Mitigating Miscalibration in Tool-Use Agents",
+    "url": "https://huggingface.co/papers/2601.07264",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "Tool-integrated language model agents exhibit different calibration behaviors based on tool type, with a reinforcement learning framework improving both task accuracy and reliable uncertainty estimation across diverse domains. AI-generated summary Autonomous agents based on large language models (LLMs) are rapidly evol…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking",
+    "url": "https://huggingface.co/papers/2601.06487",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "Reinforcement learning for large language model agents suffers from discrimination collapse in open-ended tasks due to pointwise scalar scoring, which ArenaRL addresses through relative ranking and pairwise evaluation mechanisms. AI-generated summary Reinforcement learning has substantially improved the performance of…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Aligning Text, Code, and Vision: A Multi-Objective Reinforcement Learning Framework for Text-to-Visualization",
+    "url": "https://huggingface.co/papers/2601.04582",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "A reinforcement learning framework for text-to-visualization generation that improves chart quality and code execution by optimizing multiple objectives using post-execution feedback. AI-generated summary Text-to-Visualization (Text2Vis) systems translate natural language queries over tabular data into concise answers…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices",
+    "url": "https://huggingface.co/papers/2601.08303",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "An efficient diffusion transformer framework for mobile and edge devices that maintains high-generation quality while reducing computational costs through compact architecture, elastic training, and knowledge-guided distillation. AI-generated summary Recent advances in diffusion transformers (DiTs) have set new standar…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Motion Attribution for Video Generation",
+    "url": "https://huggingface.co/papers/2601.08828",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "Motive is a gradient-based data attribution framework that identifies influential video clips for motion improvement in text-to-video models through motion-weighted loss masking. AI-generated summary Despite the rapid progress of video generation models, the role of data in influencing motion is poorly understood. We p…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "End-to-End Video Character Replacement without Structural Guidance",
+    "url": "https://huggingface.co/papers/2601.08587",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "MoCha enables controllable video character replacement using a single frame mask through condition-aware RoPE and a comprehensive data construction pipeline with specialized datasets. AI-generated summary Controllable video character replacement with a user-provided identity remains a challenging problem due to the lac…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "MemoBrain: Executive Memory as an Agentic Brain for Reasoning",
+    "url": "https://huggingface.co/papers/2601.08079",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-14",
+    "raw_snippet": "Memory management in tool-augmented agents is crucial for maintaining coherent, goal-directed reasoning over extended tasks, requiring explicit mechanisms to track and organize reasoning steps within constrained contexts. AI-generated summary Complex reasoning in tool-augmented agent frameworks is inherently long-horiz…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
     "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
     "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
     "source": "Hugging Face Blog",
