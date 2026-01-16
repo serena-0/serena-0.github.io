@@ -1,5 +1,397 @@
 [
   {
+    "title": "SCALER:Synthetic Scalable Adaptive Learning Environment for Reasoning",
+    "url": "https://huggingface.co/papers/2601.04809",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "SCALER is a reinforcement learning framework that maintains effective training signals for language models through adaptive environment design and multi-environment strategies, enabling sustained performance improvements in reasoning tasks. AI-generated summary Reinforcement learning (RL) offers a principled way to enh…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in RAG",
+    "url": "https://huggingface.co/papers/2601.09028",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "OpenDecoder enhances retrieval-augmented generation by explicitly evaluating retrieved information quality through relevance, ranking, and query performance prediction scores, improving robustness to noisy context. AI-generated summary The development of large language models (LLMs) has achieved superior performance in…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "sui-1: Grounded and Verifiable Long-Form Summarization",
+    "url": "https://huggingface.co/papers/2601.08472",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "A 24 billion parameter model generates abstractive summaries with inline citations through synthetic data training, outperforming larger models in accuracy and verifiability. AI-generated summary Large language models frequently generate plausible but unfaithful summaries that users cannot verify against source text, a…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Flow Equivariant World Models: Memory for Partially Observed Dynamic Environments",
+    "url": "https://huggingface.co/papers/2601.01075",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "Flow Equivariant World Models unify self-motion and external object motion as one-parameter Lie group flows to create stable, symmetry-guided representations for embodied intelligence. AI-generated summary Embodied systems experience the world as 'a symphony of flows': a combination of many continuous streams of sensor…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "No More Stale Feedback: Co-Evolving Critics for Open-World Agent Learning",
+    "url": "https://huggingface.co/papers/2601.06794",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "ECHO is a reinforcement learning framework that jointly optimizes policy and critic through co-evolutionary loops, addressing staleness issues in critique-guided training of language model agents. AI-generated summary Critique-guided reinforcement learning (RL) has emerged as a powerful paradigm for training LLM agents…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "DPWriter: Reinforcement Learning with Diverse Planning Branching for Creative Writing",
+    "url": "https://huggingface.co/papers/2601.09609",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "A reinforcement learning framework with diverse planning branching and group-aware rewards enhances large language model output diversity in creative writing tasks. AI-generated summary Reinforcement learning (RL)-based enhancement of large language models (LLMs) often leads to reduced output diversity, undermining the…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SampoNLP: A Self-Referential Toolkit for Morphological Analysis of Subword Tokenizers",
+    "url": "https://huggingface.co/papers/2601.04469",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "A corpus-free toolkit for morphological lexicon creation using MDL-inspired scoring enables systematic evaluation of BPE tokenizers for morphologically rich Uralic languages, establishing optimal vocabulary sizes through integrated performance metrics. AI-generated summary The quality of subword tokenization is critica…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Cluster Workload Allocation: Semantic Soft Affinity Using Natural Language Processing",
+    "url": "https://huggingface.co/papers/2601.09282",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "A semantic, intent-driven scheduling approach uses large language models to interpret natural language hints for workload allocation in cluster systems, achieving high accuracy and improved placement compared to traditional methods. AI-generated summary Cluster workload allocation often requires complex configurations,…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Omni-R1: Towards the Unified Generative Paradigm for Multimodal Reasoning",
+    "url": "https://huggingface.co/papers/2601.09536",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "Unified generative multimodal reasoning approach enables diverse reasoning skills through intermediate image generation, with a two-stage SFT+RL framework and a text-only bootstrapping variant. AI-generated summary Multimodal Large Language Models (MLLMs) are making significant progress in multimodal reasoning. Early a…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Geometric Stability: The Missing Axis of Representations",
+    "url": "https://huggingface.co/papers/2601.09173",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "Geometric stability measures representational robustness under perturbation, offering complementary insights to similarity metrics in analyzing learned representations across diverse domains. AI-generated summary Analysis of learned representations has a blind spot: it focuses on similarity, measuring how closely embed…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Distribution-Aligned Sequence Distillation for Superior Long-CoT Reasoning",
+    "url": "https://huggingface.co/papers/2601.09088",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "A lightweight open-source reasoning model achieves state-of-the-art performance through enhanced sequence-level distillation that addresses limitations in current teacher-student knowledge transfer methods. AI-generated summary In this report, we introduce DASD-4B-Thinking, a lightweight yet highly capable, fully open-…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Focal Guidance: Unlocking Controllability from Semantic-Weak Layers in Video Diffusion Models",
+    "url": "https://huggingface.co/papers/2601.07287",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "Diffusion Transformer-based image-to-video models suffer from condition isolation where visual attention becomes detached from text guidance; focal guidance addresses this through fine-grained semantic guidance and attention cache mechanisms. AI-generated summary The task of Image-to-Video (I2V) generation aims to synt…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models",
+    "url": "https://huggingface.co/papers/2601.08955",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "Imagine-then-Plan framework enables agent learning through adaptive lookahead imagination, combining imagined trajectories with current observations to guide policy learning in complex task scenarios. AI-generated summary Recent advances in world models have shown promise for modeling future dynamics of environmental s…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "ExpSeek: Self-Triggered Experience Seeking for Web Agents",
+    "url": "https://huggingface.co/papers/2601.08605",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "ExpSeek enables web agents to proactively seek experience during interaction by using entropy-based timing and tailored content, achieving significant performance improvements across multiple benchmarks. AI-generated summary Experience intervention in web agents emerges as a promising technical paradigm, enhancing agen…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "TranslateGemma Technical Report",
+    "url": "https://huggingface.co/papers/2601.09012",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "TranslateGemma enhances Gemma 3's multilingual capabilities through two-stage fine-tuning with synthetic and human-translated data, achieving superior translation quality with improved efficiency. AI-generated summary We present TranslateGemma, a suite of open machine translation models based on the Gemma 3 foundation…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding",
+    "url": "https://huggingface.co/papers/2601.09575",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "OpenVoxel enables open-vocabulary 3D scene understanding through training-free grouping and captioning of sparse voxels using Vision Language Models and Multi-modal Large Language Models. AI-generated summary We propose OpenVoxel, a training-free algorithm for grouping and captioning sparse voxels for the open-vocabula…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "EvoFSM: Controllable Self-Evolution for Deep Research with Finite State Machines",
+    "url": "https://huggingface.co/papers/2601.09465",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "EvoFSM is a structured self-evolving framework for LLM agents that uses finite state machines to improve adaptability while maintaining control through constrained optimization and memory mechanisms. AI-generated summary While LLM-based agents have shown promise for deep research, most existing approaches rely on fixed…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "The AI Hippocampus: How Far are We From Human Memory?",
+    "url": "https://huggingface.co/papers/2601.09113",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "Memory mechanisms in large language models and multi-modal language models are categorized into implicit, explicit, and agentic paradigms, supporting enhanced reasoning, adaptability, and contextual fidelity through internal parameters, external knowledge storage, and persistent agent memory structures. AI-generated su…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation",
+    "url": "https://huggingface.co/papers/2601.09688",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "DeepResearchEval presents an automated framework for creating complex research tasks and evaluating them through agent-based methods that adapt to task specifics and verify facts without relying on citations. AI-generated summary Deep research systems are widely used for multi-step web research, analysis, and cross-sou…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering",
+    "url": "https://huggingface.co/papers/2601.09697",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "Diffusion-based video generation is made more efficient through keyframe-based 3D reconstruction and rendering, enabling faster synthesis with maintained visual quality. AI-generated summary Modern video generative models based on diffusion models can produce very realistic clips, but they are computationally inefficie…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection",
+    "url": "https://huggingface.co/papers/2601.03928",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "FocusUI is an efficient UI grounding framework that reduces computational overhead by selecting relevant visual tokens while preserving positional continuity through a novel PosPad strategy. AI-generated summary Vision-Language Models (VLMs) have shown remarkable performance in User Interface (UI) grounding tasks, driv…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SkinFlow: Efficient Information Transmission for Open Dermatological Diagnosis via Dynamic Visual Encoding and Staged RL",
+    "url": "https://huggingface.co/papers/2601.09136",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "SkinFlow introduces a novel framework for dermatological vision-language modeling that improves diagnostic accuracy through optimized visual information transmission efficiency rather than parameter scaling alone. AI-generated summary General-purpose Large Vision-Language Models (LVLMs), despite their massive scale, of…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Are LLMs Vulnerable to Preference-Undermining Attacks (PUA)? A Factorial Analysis Methodology for Diagnosing the Trade-off between Preference Alignment and Real-World Validity",
+    "url": "https://huggingface.co/papers/2601.06596",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "Research examines how large language models can be manipulated through preference-undermining attacks that exploit alignment objectives, revealing model vulnerabilities and proposing a factorial evaluation method for diagnosing alignment risks. AI-generated summary Large Language Model (LLM) training often optimizes fo…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "A^3-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation",
+    "url": "https://huggingface.co/papers/2601.09274",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "Scientific reasoning relies not only on logical inference but also on activating prior knowledge and experiential structures. Memory can efficiently reuse knowledge and enhance reasoning consistency and stability. However, existing benchmarks mainly evaluate final answers or step-by-step coherence, overlooking the memo…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Controlled Self-Evolution for Algorithmic Code Optimization",
+    "url": "https://huggingface.co/papers/2601.07348",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "Controlled Self-Evolution method improves code generation through diversified initialization, feedback-guided genetic evolution, and hierarchical memory to enhance exploration efficiency and solution quality. AI-generated summary Self-evolution methods enhance code generation through iterative \"generate-verify-refine\"…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "MAXS: Meta-Adaptive Exploration with LLM Agents",
+    "url": "https://huggingface.co/papers/2601.09259",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "MAXS is a meta-adaptive reasoning framework for LLM agents that improves multi-tool reasoning through lookahead strategies and trajectory convergence mechanisms, balancing global effectiveness and computational efficiency. AI-generated summary Large Language Model (LLM) Agents exhibit inherent reasoning abilities throu…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning",
+    "url": "https://huggingface.co/papers/2601.09708",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "Fast-ThinkAct is an efficient vision-language-action framework that reduces inference latency by 89.3% through compact latent reasoning while maintaining long-horizon planning and few-shot adaptation capabilities. AI-generated summary Vision-Language-Action (VLA) tasks require reasoning over complex visual scenes and e…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Introducing OptiMind, a research model designed for optimization",
+    "url": "https://huggingface.co/blog/microsoft/optimind",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-01-15",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
     "title": "Open Responses: What you need to know",
     "url": "https://huggingface.co/blog/open-responses",
     "source": "Hugging Face Blog",
@@ -159,76 +551,6 @@
     "source": "arXiv cs.AI",
     "published_at": "2026-01-15",
     "raw_snippet": "arXiv:2601.08005v1 Announce Type: new Abstract: Frontier AI regulations primarily focus on systems deployed to external users, where deployment is more visible and subject to outside scrutiny. However, high-stakes applications can occur internally when companies deploy highly capable systems within their own organizati…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "Integrating Attendance Tracking and Emotion Detection for Enhanced Student Engagement in Smart Classrooms",
-    "url": "https://arxiv.org/abs/2601.08049",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-15",
-    "raw_snippet": "arXiv:2601.08049v1 Announce Type: new Abstract: The increasing adoption of smart classroom technologies in higher education has mainly focused on automating attendance, with limited attention given to students' emotional and cognitive engagement during lectures. This limits instructors' ability to identify disengagemen…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "Forecast Aware Deep Reinforcement Learning for Efficient Electricity Load Scheduling in Dairy Farms",
-    "url": "https://arxiv.org/abs/2601.08052",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-15",
-    "raw_snippet": "arXiv:2601.08052v1 Announce Type: new Abstract: Dairy farming is an energy intensive sector that relies heavily on grid electricity. With increasing renewable energy integration, sustainable energy management has become essential for reducing grid dependence and supporting the United Nations Sustainable Development Goa…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "A New Strategy for Verifying Reach-Avoid Specifications in Neural Feedback Systems",
-    "url": "https://arxiv.org/abs/2601.08065",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-15",
-    "raw_snippet": "arXiv:2601.08065v1 Announce Type: new Abstract: Forward reachability analysis is the predominant approach for verifying reach-avoid properties in neural feedback systems (dynamical systems controlled by neural networks). This dominance stems from the limited scalability of existing backward reachability methods. In thi…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "Semantic Gravity Wells: Why Negative Constraints Backfire",
-    "url": "https://arxiv.org/abs/2601.08070",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-15",
-    "raw_snippet": "arXiv:2601.08070v1 Announce Type: new Abstract: Negative constraints (instructions of the form \"do not use word X\") represent a fundamental test of instruction-following capability in large language models. Despite their apparent simplicity, these constraints fail with striking regularity, and the conditions governing…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "MemoBrain: Executive Memory as an Agentic Brain for Reasoning",
-    "url": "https://arxiv.org/abs/2601.08079",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-15",
-    "raw_snippet": "arXiv:2601.08079v1 Announce Type: new Abstract: Complex reasoning in tool-augmented agent frameworks is inherently long-horizon, causing reasoning traces and transient tool artifacts to accumulate and strain the bounded working context of large language models. Without explicit memory mechanisms, such accumulation disr…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
