@@ -1,5 +1,313 @@
 [
   {
+    "title": "What Matters in Data Curation for Multimodal Reasoning? Insights from the DCVLR Challenge",
+    "url": "https://huggingface.co/papers/2601.10922",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "Data curation for multimodal reasoning shows that difficulty-based example selection on aligned datasets drives performance gains, while increasing dataset size mainly reduces variance and synthetic augmentation heuristics often degrade performance. AI-generated summary We study data curation for multimodal reasoning t…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts",
+    "url": "https://huggingface.co/papers/2601.11044",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "AgencyBench presents a comprehensive benchmark for evaluating autonomous agents across real-world scenarios, enabling automated evaluation through user simulation and sandbox environments while revealing performance gaps between closed-source and open-source models. AI-generated summary Large Language Models (LLMs) bas…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Future Optical Flow Prediction Improves Robot Control & Video Generation",
+    "url": "https://huggingface.co/papers/2601.10781",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "A novel language-conditioned optical flow forecasting model combines Vision-Language Model and Diffusion architecture to predict future motion from noisy web-scale video data, demonstrating versatility in robotic manipulation and video generation tasks. AI-generated summary Future motion representations, such as optica…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Entropy Sentinel: Continuous LLM Accuracy Monitoring from Decoding Entropy Traces in STEM",
+    "url": "https://huggingface.co/papers/2601.09001",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "Output-entropy profiles computed from final-layer next-token probabilities serve as a scalable signal for monitoring LLM performance and prioritizing data acquisition under domain shifts. AI-generated summary Deploying LLMs raises two coupled challenges: (1) monitoring - estimating where a model underperforms as traffi…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "ShapeR: Robust Conditional 3D Shape Generation from Casual Captures",
+    "url": "https://huggingface.co/papers/2601.11514",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "ShapeR generates high-fidelity 3D shapes from casual image sequences using visual-inertial SLAM, 3D detection, and vision-language models with rectified flow transformer conditioning. AI-generated summary Recent advances in 3D shape generation have achieved impressive results, but most existing methods rely on clean, u…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Language of Thought Shapes Output Diversity in Large Language Models",
+    "url": "https://huggingface.co/papers/2601.11227",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "Controlling the language of thought in large language models increases output diversity by leveraging distinct thinking spaces across different languages, with mixed-language sampling providing superior results. AI-generated summary Output diversity is crucial for Large Language Models as it underpins pluralism and cre…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "More Images, More Problems? A Controlled Analysis of VLM Failure Modes",
+    "url": "https://huggingface.co/papers/2601.07812",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "Large Vision Language Models exhibit significant limitations in multi-image understanding and reasoning, which are revealed through a new benchmark and addressed via procedural data generation and attention masking techniques. AI-generated summary Large Vision Language Models (LVLMs) have demonstrated remarkable capabi…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents",
+    "url": "https://huggingface.co/papers/2601.11496",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "The integration of AI agents into economic markets fundamentally alters the landscape of strategic interaction. We investigate the economic implications of expanding the set of available technologies in three canonical game-theoretic settings: bargaining (resource division), negotiation (asymmetric information trade),…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "PhyRPR: Training-Free Physics-Constrained Video Generation",
+    "url": "https://huggingface.co/papers/2601.09255",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "A three-stage pipeline decouples physical reasoning from visual synthesis in video generation, improving physical plausibility and motion controllability through distinct phases of reasoning, planning, and refinement. AI-generated summary Recent diffusion-based video generation models can synthesize visually plausible…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records",
+    "url": "https://huggingface.co/papers/2601.09636",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "PersonalAlign framework addresses GUI agent alignment with implicit user intents through hierarchical memory organization and long-term record reasoning, improving both execution and proactive performance. AI-generated summary While GUI agents have shown strong performance under explicit and completion instructions, re…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models",
+    "url": "https://huggingface.co/papers/2601.11404",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "Vision-Language-Action models are enhanced by incorporating action-space reasoning through a structured sequence of coarse action intents, improving manipulation task performance in both simulation and real-world environments. AI-generated summary Vision-Language-Action (VLA) models have emerged as essential generalist…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "When Personalization Misleads: Understanding and Mitigating Hallucinations in Personalized LLMs",
+    "url": "https://huggingface.co/papers/2601.11000",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "Personalized large language models can generate false information aligned with user history instead of factual truth, but a new method called FPPS helps maintain both factual accuracy and personalized responses while preserving existing personalization effects. AI-generated summary Personalized large language models (L…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models",
+    "url": "https://huggingface.co/papers/2601.11087",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "A physics-aware reinforcement learning paradigm is introduced for video generation that enforces physical collision rules directly in high-dimensional spaces, ensuring strict application of physics knowledge rather than treating it as conditional constraints. AI-generated summary Physical principles are fundamental to…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text",
+    "url": "https://huggingface.co/papers/2601.10355",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "A text-based data synthesis approach generates multi-turn tool-use trajectories for large language models, achieving improved performance and reduced computational costs through a specialized trajectory synthesizer. AI-generated summary Enabling Large Language Models (LLMs) to effectively utilize tools in multi-turn in…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "ProFit: Leveraging High-Value Signals in SFT via Probability-Guided Token Selection",
+    "url": "https://huggingface.co/papers/2601.09195",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "Supervised fine-tuning with multiple references addresses overfitting to non-core expressions by masking low-probability tokens based on their semantic importance. AI-generated summary Supervised fine-tuning (SFT) is a fundamental post-training strategy to align Large Language Models (LLMs) with human intent. However,…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "FrankenMotion: Part-level Human Motion Generation and Composition",
+    "url": "https://huggingface.co/papers/2601.10909",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "A diffusion-based framework generates human motion from text prompts with fine-grained part-level control using a newly constructed dataset with atomic, temporally-aware annotations. AI-generated summary Human motion generation from text prompts has made remarkable progress in recent years. However, existing methods pr…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation",
+    "url": "https://huggingface.co/papers/2601.08430",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "RLVR has advanced reasoning capabilities but struggles with open-ended generation due to lack of ground truth; this work proposes an automated rubric generation framework and dataset to improve performance in health reasoning benchmarks. AI-generated summary Reinforcement Learning with Verifiable Rewards (RLVR) has dri…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Building Production-Ready Probes For Gemini",
+    "url": "https://huggingface.co/papers/2601.11516",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "Activation probes for language model misuse mitigation face challenges with long-context generalization, requiring new architectures and diverse training for robust performance across production shifts. AI-generated summary Frontier language model capabilities are improving rapidly. We thus need stronger mitigations ag…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Reasoning Models Generate Societies of Thought",
+    "url": "https://huggingface.co/papers/2601.10825",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "Reasoning models demonstrate enhanced performance through multi-agent-like interactions that create diverse cognitive perspectives and improve problem-solving through structured social organization. AI-generated summary Large language models have achieved remarkable capabilities across domains, yet mechanisms underlyin…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "AstroReason-Bench: Evaluating Unified Agentic Planning across Heterogeneous Space Planning Problems",
+    "url": "https://huggingface.co/papers/2601.11354",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "Recent advances in agentic Large Language Models (LLMs) have positioned them as generalist planners capable of reasoning and acting across diverse tasks. However, existing agent benchmarks largely focus on symbolic or weakly grounded environments, leaving their performance in physics-constrained real-world domains unde…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "BAPO: Boundary-Aware Policy Optimization for Reliable Agentic Search",
+    "url": "https://huggingface.co/papers/2601.11037",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-19",
+    "raw_snippet": "Reinforcement learning framework for agentic search that improves reliability by teaching agents to recognize reasoning limits and respond appropriately when evidence is insufficient. AI-generated summary RL-based agentic search enables LLMs to solve complex questions via dynamic planning and external search. While thi…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Your Group-Relative Advantage Is Biased",
+    "url": "https://huggingface.co/papers/2601.08521",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-15",
+    "raw_snippet": "Group-based reinforcement learning from verifier rewards suffers from biased advantage estimation that underestimates hard prompts and overestimates easy prompts, which is addressed through a history-aware adaptive difficulty weighting method that improves performance on mathematical reasoning benchmarks. AI-generated…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 13,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
     "title": "Introducing OptiMind, a research model designed for optimization",
     "url": "https://huggingface.co/blog/microsoft/optimind",
     "source": "Hugging Face Blog",
@@ -23,48 +331,6 @@
     "ai_generated": false,
     "tags": [],
     "hot_score": 12,
-    "sources": [
-      "Hugging Face Blog"
-    ]
-  },
-  {
-    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
-    "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-01-05",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 11,
-    "sources": [
-      "Hugging Face Blog"
-    ]
-  },
-  {
-    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-01-05",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 11,
-    "sources": [
-      "Hugging Face Blog"
-    ]
-  },
-  {
-    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-    "url": "https://huggingface.co/blog/nvidia-reachy-mini",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-01-05",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 11,
     "sources": [
       "Hugging Face Blog"
     ]
