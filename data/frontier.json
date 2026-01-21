@@ -1,7 +1,175 @@
 [
   {
+    "title": "PubMed-OCR: PMC Open Access OCR Annotations",
+    "url": "https://huggingface.co/papers/2601.11425",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-20",
+    "raw_snippet": "PubMed-OCR is an OCR-centric corpus of scientific articles derived from PubMed Central Open Access PDFs. Each page image is annotated with Google Cloud Vision and released in a compact JSON schema with word-, line-, and paragraph-level bounding boxes. The corpus spans 209.5K articles (1.5M pages; ~1.3B words) and suppo…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems",
+    "url": "https://huggingface.co/papers/2601.11004",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-20",
+    "raw_snippet": "Large language models suffer from poor confidence calibration in retrieval-augmented generation due to noisy contexts, but a noise-aware calibration framework significantly improves calibration performance. AI-generated summary Accurately assessing model confidence is essential for deploying large language models (LLMs…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models",
+    "url": "https://huggingface.co/papers/2601.10387",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-20",
+    "raw_snippet": "Research reveals that large language models operate within a persona space where an \"Assistant Axis\" controls helpfulness and behavioral stability, with steering techniques able to influence model responses and prevent harmful behavior drift. AI-generated summary Large language models can represent a variety of persona…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "CLARE: Continual Learning for Vision-Language-Action Models via Autonomous Adapter Routing and Expansion",
+    "url": "https://huggingface.co/papers/2601.09512",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-20",
+    "raw_snippet": "CLARE is a parameter-efficient, exemplar-free continual learning framework for vision-language-action models that enables robots to adapt to new tasks while preserving previously learned knowledge through lightweight adapters and dynamic routing mechanisms. AI-generated summary To teach robots complex manipulation task…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation",
+    "url": "https://huggingface.co/papers/2601.10880",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-20",
+    "raw_snippet": "Medical SAM3 adapts the SAM3 foundation model through comprehensive fine-tuning on diverse medical imaging datasets to achieve robust prompt-driven segmentation across various modalities and anatomical structures. AI-generated summary Promptable segmentation foundation models such as SAM3 have demonstrated strong gener…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "YaPO: Learnable Sparse Activation Steering Vectors for Domain Adaptation",
+    "url": "https://huggingface.co/papers/2601.08441",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-20",
+    "raw_snippet": "YaPO learns sparse steering vectors through sparse autoencoder latent space optimization, enabling more effective and stable control of large language model behaviors compared to dense methods. AI-generated summary Steering Large Language Models (LLMs) through activation interventions has emerged as a lightweight alter…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs",
+    "url": "https://huggingface.co/papers/2601.11061",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-20",
+    "raw_snippet": "Spurious rewards in reinforcement learning with verifiable rewards trigger a memorization shortcut in LLMs, identified through neural circuit analysis and causal steering techniques. AI-generated summary Reinforcement Learning with Verifiable Rewards (RLVR) is highly effective for enhancing LLM reasoning, yet recent ev…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SIN-Bench: Tracing Native Evidence Chains in Long-Context Multimodal Scientific Interleaved Literature",
+    "url": "https://huggingface.co/papers/2601.10108",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-20",
+    "raw_snippet": "Researchers introduce the Fish-in-the-Ocean paradigm and SIN-Bench dataset to evaluate multimodal language models' ability to reason over scientific documents with evidence chains, revealing a gap between answer accuracy and traceable support. AI-generated summary Evaluating whether multimodal large language models tru…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "ABC-Bench: Benchmarking Agentic Backend Coding in Real-World Development",
+    "url": "https://huggingface.co/papers/2601.11077",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-20",
+    "raw_snippet": "ABC-Bench evaluates LLM agents on realistic backend coding tasks requiring full development lifecycle management from repository exploration to containerized service deployment and API testing. AI-generated summary The evolution of Large Language Models (LLMs) into autonomous agents has expanded the scope of AI coding…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation",
+    "url": "https://huggingface.co/papers/2601.11096",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-20",
+    "raw_snippet": "CoDance introduces an Unbind-Rebind framework for animating multiple subjects with flexible spatial configurations, using pose shift encoding and semantic/textual guidance for motion reassignment. AI-generated summary Character image animation is gaining significant importance across various domains, driven by the dema…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge",
+    "url": "https://huggingface.co/papers/2601.08808",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-20",
+    "raw_snippet": "Multiplex Thinking introduces a stochastic soft reasoning mechanism that samples multiple candidate tokens at each step to optimize reasoning trajectories with reinforcement learning while maintaining shorter sequences than traditional chain-of-thought methods. AI-generated summary Large language models often solve com…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
     "title": "Differential Transformer V2",
     "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-01-20",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
+    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+    "url": "https://huggingface.co/blog/waypoint-1",
     "source": "Hugging Face Blog",
     "published_at": "2026-01-20",
     "raw_snippet": "",
