@@ -1,5 +1,61 @@
 [
   {
+    "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+    "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-01-21",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 13,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
+    "title": "Differential Transformer V2",
+    "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-01-20",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 13,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
+    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+    "url": "https://huggingface.co/blog/waypoint-1",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-01-20",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 13,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
+    "title": "Open Responses: What you need to know",
+    "url": "https://huggingface.co/blog/open-responses",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-01-15",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 11,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
     "title": "OpenAI：以后大家用AI赚的钱，我可能要抽成",
     "url": "https://www.jiqizhixin.com/articles/2026-01-23-10",
     "source": "机器之心",
