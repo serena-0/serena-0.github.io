@@ -1,5 +1,369 @@
 [
   {
+    "title": "FARE: Fast-Slow Agentic Robotic Exploration",
+    "url": "https://huggingface.co/papers/2601.14681",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-23",
+    "raw_snippet": "FARE is a hierarchical exploration framework that combines large language model reasoning with reinforcement learning control to enable efficient autonomous robot navigation in complex environments. AI-generated summary This work advances autonomous robot exploration by integrating agent-level semantic reasoning with f…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Facilitating Proactive and Reactive Guidance for Decision Making on the Web: A Design Probe with WebSeek",
+    "url": "https://huggingface.co/papers/2601.15100",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-23",
+    "raw_snippet": "WebSeek is a mixed-initiative browser extension that enables interactive web data extraction and analysis with AI-assisted guidance and automation. AI-generated summary Web AI agents such as ChatGPT Agent and GenSpark are increasingly used for routine web-based tasks, yet they still rely on text-based input prompts, la…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Implicit Neural Representation Facilitates Unified Universal Vision Encoding",
+    "url": "https://huggingface.co/papers/2601.14256",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "A unified model learns image representations useful for both recognition and generation by using a hyper-network for implicit neural representation with knowledge distillation, achieving state-of-the-art results while enabling generative capabilities through compressed embeddings. AI-generated summary Models for image…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis",
+    "url": "https://huggingface.co/papers/2601.14253",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "Motion 3-to-4 synthesizes high-quality 4D dynamic objects from monocular video and 3D mesh by decomposing into static shape generation and motion reconstruction with canonical mesh and transformer-based frame processing. AI-generated summary We present Motion 3-to-4, a feed-forward framework for synthesising high-quali…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "CURE-Med: Curriculum-Informed Reinforcement Learning for Multilingual Medical Reasoning",
+    "url": "https://huggingface.co/papers/2601.13262",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "A multilingual medical reasoning framework using curriculum-informed reinforcement learning achieves high language consistency and logical correctness across thirteen languages including underrepresented ones. AI-generated summary While large language models (LLMs) have shown to perform well on monolingual mathematical…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "GutenOCR: A Grounded Vision-Language Front-End for Documents",
+    "url": "https://huggingface.co/papers/2601.14490",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "GutenOCR enhances vision-language models for document understanding by enabling unified reading, detection, and grounding through prompt-based interfaces trained on diverse document types. AI-generated summary GutenOCR is a family of grounded OCR front-ends obtained by fine-tuning Qwen2.5-VL-3B and Qwen2.5-VL-7B. The r…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking",
+    "url": "https://huggingface.co/papers/2601.11387",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "Although much research has focused on AI explanations to support decisions in complex information-seeking tasks such as fact-checking, the role of evidence is surprisingly under-researched. In our study, we systematically varied explanation type, AI prediction certainty, and correctness of AI system advice for non-expe…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning",
+    "url": "https://huggingface.co/papers/2601.11141",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "Chroma 1.0 enables real-time spoken dialogue with personalized voice cloning through discrete speech representations and interleaved text-audio token scheduling. AI-generated summary Recent end-to-end spoken dialogue systems leverage speech tokenizers and neural audio codecs to enable LLMs to operate directly on discre…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models",
+    "url": "https://huggingface.co/papers/2601.15220",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "Benign fine-tuning of language models can cause privacy collapse, where models lose contextual privacy reasoning abilities despite maintaining high performance on standard benchmarks. AI-generated summary We identify a novel phenomenon in language models: benign fine-tuning of frontier models can lead to privacy collap…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Behavior Knowledge Merge in Reinforced Agentic Models",
+    "url": "https://huggingface.co/papers/2601.13572",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "Reinforced Agent Merging (RAM) addresses the limitations of traditional merging methods for reinforcement learning-trained agents by distinguishing shared and task-specific parameters to preserve critical behaviors during model integration. AI-generated summary Reinforcement learning (RL) is central to post-training, p…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Rethinking Video Generation Model for the Embodied World",
+    "url": "https://huggingface.co/papers/2601.15282",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "A comprehensive robotics benchmark evaluates video generation models across multiple task domains and robot embodiments, revealing significant gaps in physical realism and introducing a large-scale dataset to address training data limitations. AI-generated summary Video generation models have significantly advanced emb…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "RoboBrain 2.5: Depth in Sight, Time in Mind",
+    "url": "https://huggingface.co/papers/2601.14352",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "RoboBrain 2.5 enhances embodied AI through improved 3D spatial reasoning and temporal value estimation for more precise manipulation tasks. AI-generated summary We introduce RoboBrain 2.5, a next-generation embodied AI foundation model that advances general perception, spatial reasoning, and temporal modeling through e…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Typhoon ASR Real-time: FastConformer-Transducer for Thai Automatic Speech Recognition",
+    "url": "https://huggingface.co/papers/2601.13044",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "A 115M-parameter FastConformer-Transducer model achieves low-latency Thai speech recognition with reduced computational cost through text normalization and curriculum learning, accompanied by a benchmark dataset for standardized evaluation. AI-generated summary Large encoder-decoder models like Whisper achieve strong o…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Typhoon OCR: Open Vision-Language Model For Thai Document Extraction",
+    "url": "https://huggingface.co/papers/2601.14722",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "Thai-focused vision-language model for document extraction combining OCR, layout reconstruction, and structural consistency with reduced computational requirements. AI-generated summary Document extraction is a core component of digital workflows, yet existing vision-language models (VLMs) predominantly favor high-reso…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Render-of-Thought: Rendering Textual Chain-of-Thought as Images for Visual Latent Reasoning",
+    "url": "https://huggingface.co/papers/2601.14750",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "Render-of-Thought framework converts textual reasoning steps into images using vision-language models to improve reasoning traceability and efficiency while maintaining competitive performance. AI-generated summary Chain-of-Thought (CoT) prompting has achieved remarkable success in unlocking the reasoning capabilities…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "sangkuriang: A pseudo-spectral Python library for Korteweg-de Vries soliton simulation",
+    "url": "https://huggingface.co/papers/2601.12029",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "The Korteweg-de Vries (KdV) equation serves as a foundational model in nonlinear wave physics, describing the balance between dispersive spreading and nonlinear steepening that gives rise to solitons. This article introduces sangkuriang, an open-source Python library for solving this equation using Fourier pseudo-spect…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis",
+    "url": "https://huggingface.co/papers/2601.14417",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "Research investigates the relationship between speaker embeddings and phonological rules in accent control for text-to-speech systems, introducing a metric to measure rule preservation versus embedding influence. AI-generated summary Many spoken languages, including English, exhibit wide variation in dialects and accen…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics",
+    "url": "https://huggingface.co/papers/2601.14027",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "A general coding agent paradigm enables flexible formal theorem proving by directly interfacing with proof assistants and retrieving relevant theorems without task-specific training. AI-generated summary Agentic systems have recently become the dominant paradigm for formal theorem proving, achieving strong performance…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "AgentEHR: Advancing Autonomous Clinical Decision-Making via Retrospective Summarization",
+    "url": "https://huggingface.co/papers/2601.13918",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "AgentEHR presents a benchmark for autonomous EHR navigation requiring complex decision-making, while RetroSum framework improves performance through retrospective summarization and evolving experience strategies. AI-generated summary Large Language Models have demonstrated profound utility in the medical domain. Howeve…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "MMDeepResearch-Bench: A Benchmark for Multimodal Deep Research Agents",
+    "url": "https://huggingface.co/papers/2601.12346",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "MMDeepResearch-Bench evaluates multimodal research agents on report generation with visual evidence, revealing trade-offs between prose quality, citation accuracy, and visual grounding. AI-generated summary Deep Research Agents (DRAs) generate citation-rich reports via multi-step search and synthesis, yet existing benc…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "FinVault: Benchmarking Financial Agent Safety in Execution-Grounded Environments",
+    "url": "https://huggingface.co/papers/2601.07853",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "FinVault presents the first execution-grounded security benchmark for financial agents, revealing significant vulnerabilities in current defense mechanisms when applied to real-world financial workflows. AI-generated summary Financial agents powered by large language models (LLMs) are increasingly deployed for investme…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "The Responsibility Vacuum: Organizational Failure in Scaled Agent Systems",
+    "url": "https://huggingface.co/papers/2601.15059",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "Modern CI/CD pipelines integrating agent-generated code exhibit a structural failure in responsibility attribution. Decisions are executed through formally correct approval processes, yet no entity possesses both the authority to approve those decisions and the epistemic capacity to meaningfully understand their basis.…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance",
+    "url": "https://huggingface.co/papers/2601.14171",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "RebuttalAgent is a multi-agent framework that reframes rebuttal generation as an evidence-centric planning task, improving coverage, faithfulness, and strategic coherence in academic peer review. AI-generated summary Writing effective rebuttals is a high-stakes task that demands more than linguistic fluency, as it requ…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "XR: Cross-Modal Agents for Composed Image Retrieval",
+    "url": "https://huggingface.co/papers/2601.14245",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "A multi-agent framework for compositional image retrieval that uses specialized agents for generation, filtering, and verification to improve semantic and visual query matching. AI-generated summary Retrieval is being redefined by agentic AI, demanding multimodal reasoning beyond conventional similarity-based paradigms…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Lost in the Prompt Order: Revealing the Limitations of Causal Attention in Language Models",
+    "url": "https://huggingface.co/papers/2601.14152",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "Research reveals that causal attention in language models creates information bottlenecks when question-answer options follow context, leading to performance drops of over 14 percentage points compared to reversed prompt ordering. AI-generated summary Large language models exhibit surprising sensitivity to the structur…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Agentic Reasoning for Large Language Models",
+    "url": "https://huggingface.co/papers/2601.12538",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-22",
+    "raw_snippet": "Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks. AI-generated summary Reasoning is a fundamental cognitive process underlying inference, problem-solving,…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
     "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
     "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
     "source": "Hugging Face Blog",
@@ -8,7 +372,7 @@
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
-    "hot_score": 14,
+    "hot_score": 13,
     "sources": [
       "Hugging Face Blog"
     ]
@@ -50,42 +414,42 @@
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
-    "hot_score": 12,
+    "hot_score": 11,
     "sources": [
       "Hugging Face Blog"
     ]
   },
   {
+    "title": "vLLM团队官宣创业：融资1.5亿美元，清华特奖游凯超成为联创",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-23-2",
+    "source": "机器之心",
+    "published_at": "2026-01-23",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 6,
+    "sources": [
+      "机器之心"
+    ]
+  },
+  {
+    "title": "一文速通「机器人3D场景表示」发展史",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-23",
+    "source": "机器之心",
+    "published_at": "2026-01-23",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 6,
+    "sources": [
+      "机器之心"
+    ]
+  },
+  {
     "title": "幻觉率不到3%，王小川把医生版的DeepSeek免费了",
     "url": "https://www.jiqizhixin.com/articles/2026-01-22-14",
-    "source": "机器之心",
-    "published_at": "2026-01-22",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 6,
-    "sources": [
-      "机器之心"
-    ]
-  },
-  {
-    "title": "清华姚班校友刘壮团队再发力，无需归一化的Transformer性能进化",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-22-13",
-    "source": "机器之心",
-    "published_at": "2026-01-22",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 6,
-    "sources": [
-      "机器之心"
-    ]
-  },
-  {
-    "title": "苹果入局AI Pin，或对标OpenAI，能否打破「电子垃圾」魔咒？",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-22-12",
     "source": "机器之心",
     "published_at": "2026-01-22",
     "raw_snippet": "",
@@ -198,49 +562,6 @@
     "sources": [
       "arXiv cs.AI",
       "arXiv cs.LG"
-    ]
-  },
-  {
-    "title": "MAS-Orchestra: Understanding and Improving Multi-Agent Reasoning Through Holistic Orchestration and Controlled Benchmarks",
-    "url": "https://arxiv.org/abs/2601.14652",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-22",
-    "raw_snippet": "arXiv:2601.14652v1 Announce Type: new Abstract: While multi-agent systems (MAS) promise elevated intelligence through coordination of agents, current approaches to automatic MAS design under-deliver. Such shortcomings stem from two key factors: (1) methodological complexity - agent orchestration is performed using sequ…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI",
-      "arXiv cs.CL"
-    ]
-  },
-  {
-    "title": "Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems",
-    "url": "https://arxiv.org/abs/2601.14662",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-22",
-    "raw_snippet": "arXiv:2601.14662v1 Announce Type: new Abstract: Graph-based retrieval-augmented generation (GraphRAG) systems construct knowledge graphs over document collections to support multi-hop reasoning. While prior work shows that GraphRAG responses may leak retrieved subgraphs, the feasibility of query-efficient reconstructio…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "Local Language Models for Context-Aware Adaptive Anonymization of Sensitive Text",
-    "url": "https://arxiv.org/abs/2601.14683",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-22",
-    "raw_snippet": "arXiv:2601.14683v1 Announce Type: new Abstract: Qualitative research often contains personal, contextual, and organizational details that pose privacy risks if not handled appropriately. Manual anonymization is time-consuming, inconsistent, and frequently omits critical identifiers. Existing automated tools tend to rel…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
     ]
   }
 ]
