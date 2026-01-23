@@ -1,63 +1,7 @@
 [
   {
-    "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
-    "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-01-21",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 13,
-    "sources": [
-      "Hugging Face Blog"
-    ]
-  },
-  {
-    "title": "Differential Transformer V2",
-    "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-01-20",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 13,
-    "sources": [
-      "Hugging Face Blog"
-    ]
-  },
-  {
-    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
-    "url": "https://huggingface.co/blog/waypoint-1",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-01-20",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 13,
-    "sources": [
-      "Hugging Face Blog"
-    ]
-  },
-  {
-    "title": "Open Responses: What you need to know",
-    "url": "https://huggingface.co/blog/open-responses",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-01-15",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 11,
-    "sources": [
-      "Hugging Face Blog"
-    ]
-  },
-  {
-    "title": "Nature子刊｜上智院、复旦、无限光年发布MAPLE框架，破解甲基化衰老与疾病风险预测的泛化难题",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-23-5",
+    "title": "OpenAI：以后大家用AI赚的钱，我可能要抽成",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-23-10",
     "source": "机器之心",
     "published_at": "2026-01-23",
     "raw_snippet": "",
@@ -70,8 +14,8 @@
     ]
   },
   {
-    "title": "百万围观、HuggingFace多模态登顶，华人团队开源语音版「DeepSeek」海外爆火",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-23-4",
+    "title": "陈天奇、贾扬清点赞：Vibe Coding版PyTorch，连论文都是AI写的",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-23-9",
     "source": "机器之心",
     "published_at": "2026-01-23",
     "raw_snippet": "",
@@ -84,8 +28,8 @@
     ]
   },
   {
-    "title": "具身启元，智创未来——上海国际具身智能产业博览会新闻发布会在京隆重召开",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-23-3",
+    "title": "思维链太长拖慢推理？把它「画」进隐空间！新框架RoT探索大模型隐空间推理新范式",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-23-8",
     "source": "机器之心",
     "published_at": "2026-01-23",
     "raw_snippet": "",
