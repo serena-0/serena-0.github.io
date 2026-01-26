@@ -1,5 +1,19 @@
 [
   {
+    "title": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
+    "url": "https://huggingface.co/blog/nvidia/earth-2-open-models",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-01-26",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
     "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
     "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
     "source": "Hugging Face Blog",
