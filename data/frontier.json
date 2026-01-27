@@ -1,5 +1,19 @@
 [
   {
+    "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+    "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-01-27",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
     "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
     "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
     "source": "Hugging Face Blog",
@@ -84,8 +98,8 @@
     ]
   },
   {
-    "title": "刚刚，DeepSeek又探索新架构了，开源OCR 2",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-27-8",
+    "title": "实时主动引导，研究周期缩短至分钟级，开源系统解决AI研究工具关键局限",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-27-12",
     "source": "机器之心",
     "published_at": "2026-01-27",
     "raw_snippet": "",
@@ -98,8 +112,8 @@
     ]
   },
   {
-    "title": "高效智能体的「幕后推手」是谁？一篇综述带你从记忆×工具学习×规划看透",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-27-7",
+    "title": "刚刚，杨植麟亲自开源Kimi K2.5！国产大模型打架的一天",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-27-11",
     "source": "机器之心",
     "published_at": "2026-01-27",
     "raw_snippet": "",
@@ -112,8 +126,8 @@
     ]
   },
   {
-    "title": "即刻体验国内最强推理模型Qwen3-Max-Thinking，千问PC和网页端已接入",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-27-6",
+    "title": "ICLR 2026 放榜了！28%接收率，欢迎投稿机器之心",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-27-10",
     "source": "机器之心",
     "published_at": "2026-01-27",
     "raw_snippet": "",
