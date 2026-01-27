@@ -1,5 +1,257 @@
 [
   {
+    "title": "Dancing in Chains: Strategic Persuasion in Academic Rebuttal via Theory of Mind",
+    "url": "https://huggingface.co/papers/2601.15715",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-27",
+    "raw_snippet": "RebuttalAgent is a novel framework that applies Theory of Mind to academic rebuttal, utilizing a ToM-Strategy-Response pipeline with supervised fine-tuning and reinforcement learning for improved automated evaluation. AI-generated summary Although artificial intelligence (AI) has become deeply integrated into various s…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "VISTA-PATH: An interactive foundation model for pathology image segmentation and quantitative analysis in computational pathology",
+    "url": "https://huggingface.co/papers/2601.16451",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "VISTA-PATH is an interactive, class-aware pathology segmentation model that integrates visual context, semantic descriptions, and expert feedback to enable precise multi-class segmentation and clinical interpretation in digital pathology. AI-generated summary Accurate semantic segmentation for histopathology image is c…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory",
+    "url": "https://huggingface.co/papers/2601.16296",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "Memory-V2V enhances multi-turn video editing by maintaining cross-consistency through explicit memory mechanisms and efficient token compression in video-to-video diffusion models. AI-generated summary Recent foundational video-to-video diffusion models have achieved impressive results in editing user provided videos b…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "ChartVerse: Scaling Chart Reasoning via Reliable Programmatic Synthesis from Scratch",
+    "url": "https://huggingface.co/papers/2601.13606",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "ChartVerse is a framework that synthesizes complex charts and reliable reasoning data using novel metrics and answer-first paradigms to improve vision-language model performance. AI-generated summary Chart reasoning is a critical capability for Vision Language Models (VLMs). However, the development of open-source mode…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "GameTalk: Training LLMs for Strategic Conversation",
+    "url": "https://huggingface.co/papers/2601.16276",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "GameTalk framework trains large language models to make strategic decisions through multi-turn dialogue by optimizing global objectives using reward signals across full conversations, outperforming untrained models in complex game scenarios. AI-generated summary Strategic decision-making in multi-agent settings is a ke…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "DSGym: A Holistic Framework for Evaluating and Training Data Science Agents",
+    "url": "https://huggingface.co/papers/2601.16344",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "DSGym presents a standardized framework for evaluating data science agents with comprehensive task suites and execution-verified training capabilities. AI-generated summary Data science agents promise to accelerate discovery and insight-generation by turning data into executable analyses and findings. Yet existing data…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "LongCat-Flash-Thinking-2601 Technical Report",
+    "url": "https://huggingface.co/papers/2601.16725",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "A 560-billion-parameter Mixture-of-Experts reasoning model achieves state-of-the-art performance on agentic benchmarks through a unified training framework combining domain-parallel expert training with fusion, along with enhancements for real-world robustness and complex reasoning. AI-generated summary We introduce Lo…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation",
+    "url": "https://huggingface.co/papers/2601.11258",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "A novel framework called Parametric Skill Transfer (PaST) is presented that enables efficient knowledge adaptation in large language models by combining supervised fine-tuning with skill vector injection, demonstrating superior performance in question answering and tool-use tasks. AI-generated summary Large Language Mo…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Endless Terminals: Scaling RL Environments for Terminal Agents",
+    "url": "https://huggingface.co/papers/2601.16443",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "Endless Terminals introduces an autonomous pipeline for generating procedural terminal tasks that significantly improves agent performance on both synthetic and human-curated benchmarks through scalable reinforcement learning environments. AI-generated summary Environments are the bottleneck for self-improving agents.…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Guidelines to Prompt Large Language Models for Code Generation: An Empirical Characterization",
+    "url": "https://huggingface.co/papers/2601.13118",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "Research derives and evaluates prompt optimization guidelines for code generation tasks in software engineering, identifying 10 specific improvement patterns related to input/output specification, conditions, examples, and clarity. AI-generated summary Large Language Models (LLMs) are nowadays extensively used for vari…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents",
+    "url": "https://huggingface.co/papers/2601.16746",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "SWE-Pruner is a self-adaptive context pruning framework for coding agents that uses task-aware pruning to reduce token usage while maintaining performance. AI-generated summary LLM agents have demonstrated remarkable capabilities in software development, but their performance is hampered by long interaction contexts, w…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow",
+    "url": "https://huggingface.co/papers/2601.14243",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "Quantized reinforcement learning training using FP8 precision faces stability issues due to numerical mismatches between training and inference phases, but a unified FP8 framework achieves significant speedups with stable convergence. AI-generated summary Reinforcement learning (RL) is essential for enhancing the compl…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Mecellem Models: Turkish Models Trained from Scratch and Continually Pre-trained for the Legal Domain",
+    "url": "https://huggingface.co/papers/2601.16018",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "A framework for developing specialized Turkish legal language models through domain adaptation, featuring a pre-trained encoder model and decoder models with continual pre-training for enhanced legal text processing. AI-generated summary This paper presents Mecellem models, a framework for developing specialized langua…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SALAD: Achieve High-Sparsity Attention via Efficient Linear Attention Tuning for Video Diffusion Transformer",
+    "url": "https://huggingface.co/papers/2601.16515",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "Diffusion Transformers for video generation are enhanced with SALAD, a method that combines linear and sparse attention branches to achieve high sparsity and speedup while maintaining quality and requiring minimal training data. AI-generated summary Diffusion Transformers have recently demonstrated remarkable performan…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "MeepleLM: A Virtual Playtester Simulating Diverse Subjective Experiences",
+    "url": "https://huggingface.co/papers/2601.07251",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "MeepleLM enables human-AI collaboration in board game design by providing constructive critique through persona-specific reasoning patterns that align with player experiences. AI-generated summary Recent advancements have expanded the role of Large Language Models in board games from playing agents to creative co-desig…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification",
+    "url": "https://huggingface.co/papers/2601.15808",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "A novel self-evolving framework for Deep Research Agents that enhances performance through iterative verification and rubric-based feedback during inference, achieving significant accuracy improvements without additional training. AI-generated summary Recent advances in Deep Research Agents (DRAs) are transforming auto…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents",
+    "url": "https://huggingface.co/papers/2601.16973",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "Modern vision-language models exhibit significant challenges in multi-step visual interaction tasks, particularly in long-horizon perception-memory-action integration, with performance declining when handling unbounded historical contexts. AI-generated summary Modern Vision-Language Models (VLMs) remain poorly characte…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers",
+    "url": "https://huggingface.co/papers/2601.14133",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-26",
+    "raw_snippet": "TwinBrainVLA addresses the tension between semantic understanding and motor skills in robot control by coordinating a generalist vision-language model with a specialist model through an asymmetric mixture-of-transformers mechanism. AI-generated summary Standard Vision-Language-Action (VLA) models typically fine-tune a…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
     "title": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
     "url": "https://huggingface.co/blog/nvidia/earth-2-open-models",
     "source": "Hugging Face Blog",
