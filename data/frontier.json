@@ -1,5 +1,19 @@
 [
   {
+    "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-01-27",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
     "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
     "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
     "source": "Hugging Face Blog",
@@ -46,6 +60,20 @@
     "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
     "source": "Hugging Face Blog",
     "published_at": "2026-01-21",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 12,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
+    "title": "One Year Since the “DeepSeek Moment”",
+    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-01-20",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
