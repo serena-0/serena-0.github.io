@@ -14,6 +14,20 @@
     ]
   },
   {
+    "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+    "url": "https://huggingface.co/blog/upskill",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-01-28",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
     "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
     "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
     "source": "Hugging Face Blog",
@@ -126,36 +140,36 @@
     ]
   },
   {
+    "title": "刚刚，AI音乐被重新定义！昆仑天工甩出新王炸，拿下全球第一",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-28-12",
+    "source": "机器之心",
+    "published_at": "2026-01-28",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 6,
+    "sources": [
+      "机器之心"
+    ]
+  },
+  {
+    "title": "字节跳动李航博士新作：AI智能体的通用框架",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-28-11",
+    "source": "机器之心",
+    "published_at": "2026-01-28",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 6,
+    "sources": [
+      "机器之心"
+    ]
+  },
+  {
     "title": "腾讯云lighthouse一键部署Clawdbot保姆级教程",
     "url": "https://www.jiqizhixin.com/articles/2026-01-28-10",
-    "source": "机器之心",
-    "published_at": "2026-01-28",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 6,
-    "sources": [
-      "机器之心"
-    ]
-  },
-  {
-    "title": "利用AI控制CRISPR，将基因编辑抑制剂从试错工程变成可预测技术",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-28-9",
-    "source": "机器之心",
-    "published_at": "2026-01-28",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 6,
-    "sources": [
-      "机器之心"
-    ]
-  },
-  {
-    "title": "万物皆可参考是种什么体验？Vidu Q2参考生Pro：特效、演技、细节全都要",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-28-8",
     "source": "机器之心",
     "published_at": "2026-01-28",
     "raw_snippet": "",
