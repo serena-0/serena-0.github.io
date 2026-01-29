@@ -1,299 +1,5 @@
 [
   {
-    "title": "Self-Distillation Enables Continual Learning",
-    "url": "https://huggingface.co/papers/2601.19897",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "Self-Distillation Fine-Tuning enables on-policy learning from demonstrations, reducing catastrophic forgetting and allowing continuous skill accumulation in foundation models. AI-generated summary Continual learning, enabling models to acquire new skills and knowledge without degrading existing capabilities, remains a…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Youtu-VL: Unleashing Visual Potential via Unified Vision-Language Supervision",
-    "url": "https://huggingface.co/papers/2601.19798",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "Youtu-VL addresses limitations in Vision-Language Models by introducing a unified autoregressive supervision paradigm that treats visual signals as target outputs rather than passive inputs, enabling improved multimodal comprehension and vision-centric task performance. AI-generated summary Despite the significant adva…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "CooperBench: Why Coding Agents Cannot be Your Teammates Yet",
-    "url": "https://huggingface.co/papers/2601.13295",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "Resolving team conflicts requires not only task-specific competence, but also social intelligence to find common ground and build consensus. As AI agents increasingly collaborate on complex work, they must develop coordination capabilities to function as effective teammates. Yet we hypothesize that current agents lack…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Towards Pixel-Level VLM Perception via Simple Points Prediction",
-    "url": "https://huggingface.co/papers/2601.19228",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "SimpleSeg enables multimodal large language models to perform pixel-level segmentation by predicting point sequences within language space, achieving competitive results without specialized architectures. AI-generated summary We present SimpleSeg, a strikingly simple yet highly effective approach to endow Multimodal La…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "DeFM: Learning Foundation Representations from Depth for Robotics",
-    "url": "https://huggingface.co/papers/2601.18923",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "DeFM is a self-supervised foundation model for depth representation learning that achieves state-of-the-art performance in robotic tasks through geometric and semantic feature extraction. AI-generated summary Depth sensors are widely deployed across robotic platforms, and advances in fast, high-fidelity depth simulatio…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "HalluCitation Matters: Revealing the Impact of Hallucinated References with 300 Hallucinated Papers in ACL Conferences",
-    "url": "https://huggingface.co/papers/2601.18724",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "Hallucinated citations, defined as false references to non-existent works, are prevalent in recent NLP conference publications, with significant implications for scientific reliability and conference credibility. AI-generated summary Recently, we have often observed hallucinated citations or references that do not corr…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "HyperAlign: Hypernetwork for Efficient Test-Time Alignment of Diffusion Models",
-    "url": "https://huggingface.co/papers/2601.15968",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "HyperAlign enhances diffusion model output quality by using a hypernetwork to dynamically adjust denoising trajectories based on input conditions and rewards, improving semantic consistency and visual appeal. AI-generated summary Diffusion models achieve state-of-the-art performance but often fail to generate outputs t…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "EvolVE: Evolutionary Search for LLM-based Verilog Generation and Optimization",
-    "url": "https://huggingface.co/papers/2601.18067",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "Verilog's design cycle is inherently labor-intensive and necessitates extensive domain expertise. Although Large Language Models (LLMs) offer a promising pathway toward automation, their limited training data and intrinsic sequential reasoning fail to capture the strict formal logic and concurrency inherent in hardware…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Post-LayerNorm Is Back: Stable, ExpressivE, and Deep",
-    "url": "https://huggingface.co/papers/2601.19895",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "A novel Post-LayerNorm Transformer architecture called Keel addresses training instability in extremely deep networks by replacing residual connections with Highway-style connections, enabling stable training beyond 1000 layers. AI-generated summary Large language model (LLM) scaling is hitting a wall. Widening models…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Benchmarks Saturate When The Model Gets Smarter Than The Judge",
-    "url": "https://huggingface.co/papers/2601.19532",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "A revised mathematical benchmark dataset was created through manual auditing to reduce noise and improve model performance assessment accuracy. AI-generated summary Benchmarks are important tools to track progress in the development of Large Language Models (LLMs), yet inaccuracies in datasets and evaluation methods co…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "FABLE: Forest-Based Adaptive Bi-Path LLM-Enhanced Retrieval for Multi-Document Reasoning",
-    "url": "https://huggingface.co/papers/2601.18116",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "FABLE is a forest-based adaptive bi-path retrieval framework that enhances LLM-based information retrieval through hierarchical indexing and structured evidence acquisition, achieving superior performance with reduced token usage compared to traditional RAG methods. AI-generated summary The rapid expansion of long-cont…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "TriPlay-RL: Tri-Role Self-Play Reinforcement Learning for LLM Safety Alignment",
-    "url": "https://huggingface.co/papers/2601.18292",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "A closed-loop reinforcement learning framework enables iterative collaboration between attacker, defender, and evaluator roles for improved large language model safety alignment without manual annotations. AI-generated summary In recent years, safety risks associated with large language models have become increasingly…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "World Craft: Agentic Framework to Create Visualizable Worlds via Text",
-    "url": "https://huggingface.co/papers/2601.09150",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "World Craft enables non-expert users to create executable and visualizable AI environments through textual descriptions by combining structured scaffolding and multi-agent intent analysis. AI-generated summary Large Language Models (LLMs) motivate generative agent simulation (e.g., AI Town) to create a ``dynamic world'…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "A Pragmatic VLA Foundation Model",
-    "url": "https://huggingface.co/papers/2601.18692",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "A Vision-Language-Action model trained on extensive real-world robotic data demonstrates superior performance and generalization across multiple platforms while offering enhanced efficiency through optimized training infrastructure. AI-generated summary Offering great potential in robotic manipulation, a capable Vision…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning",
-    "url": "https://huggingface.co/papers/2601.18631",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "AdaReasoner enables multimodal models to learn tool usage as a general reasoning skill through scalable data curation, reinforcement learning for tool selection, and adaptive learning mechanisms that improve performance on complex visual reasoning tasks. AI-generated summary When humans face problems beyond their immed…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security",
-    "url": "https://huggingface.co/papers/2601.18491",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "AI agents face safety and security challenges from autonomous tool use and environmental interactions, requiring advanced guardrail frameworks for risk diagnosis and transparent monitoring. AI-generated summary The rise of AI agents introduces complex safety and security challenges arising from autonomous tool use and…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "GPCR-Filter: a deep learning framework for efficient and precise GPCR modulator discovery",
-    "url": "https://huggingface.co/papers/2601.19149",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "GPCR-Filter is a deep learning framework that combines protein language models and graph neural networks to identify GPCR modulators with high accuracy and generalization across unseen receptors and ligands. AI-generated summary G protein-coupled receptors (GPCRs) govern diverse physiological processes and are central…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Selective Steering: Norm-Preserving Control Through Discriminative Layer Selection",
-    "url": "https://huggingface.co/papers/2601.19375",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "Selective Steering enables continuous, norm-preserving control of language model behavior through targeted layer selection and mathematically rigorous rotation techniques. AI-generated summary Despite significant progress in alignment, large language models (LLMs) remain vulnerable to adversarial attacks that elicit ha…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models",
-    "url": "https://huggingface.co/papers/2601.19834",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "Visual generation enhances reasoning capabilities in multimodal models by providing more natural world models for physical and spatial tasks, while verbal reasoning remains sufficient for abstract domains. AI-generated summary Humans construct internal world models and reason by manipulating the concepts within these m…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking",
-    "url": "https://huggingface.co/papers/2601.17645",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "Current multimodal models demonstrate limited understanding of cultural and contextual audio-visual content, particularly excelling only in surface-level analysis rather than deeper semantic comprehension. AI-generated summary Internet audio-visual clips convey meaning through time-varying sound and motion, which exten…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
-    "title": "Revisiting Parameter Server in LLM Post-Training",
-    "url": "https://huggingface.co/papers/2601.19362",
-    "source": "HF Trending Papers",
-    "published_at": "2026-01-28",
-    "raw_snippet": "On-Demand Communication (ODC) adapts parameter server principles to Fully Sharded Data Parallel training by replacing collective communication with point-to-point communication, improving device utilization and throughput in imbalanced large language model training scenarios. AI-generated summary Modern data parallel (…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 15,
-    "sources": [
-      "HF Trending Papers"
-    ]
-  },
-  {
     "title": "Nemotron-Personas-Brazil: Co-Designed Data for Sovereign AI",
     "url": "https://huggingface.co/blog/nvidia/nemotron-personas-brazil",
     "source": "Hugging Face Blog",
@@ -434,10 +140,10 @@
     ]
   },
   {
-    "title": "刚刚，AI音乐被重新定义！昆仑天工甩出新王炸，拿下全球第一",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-28-12",
+    "title": "AI破解基因组天书，可分析1兆碱基，谷歌DeepMind模型AlphaGenome登《Nature》封面",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-29-5",
     "source": "机器之心",
-    "published_at": "2026-01-28",
+    "published_at": "2026-01-29",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
@@ -448,10 +154,10 @@
     ]
   },
   {
-    "title": "字节跳动李航博士新作：AI智能体的通用框架",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-28-11",
+    "title": "一觉醒来，Clawdbot突然操纵电脑开口说话了",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-29-4",
     "source": "机器之心",
-    "published_at": "2026-01-28",
+    "published_at": "2026-01-29",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
@@ -462,10 +168,10 @@
     ]
   },
   {
-    "title": "腾讯云lighthouse一键部署Clawdbot保姆级教程",
-    "url": "https://www.jiqizhixin.com/articles/2026-01-28-10",
+    "title": "JustGRPO：扩散语言模型的极简主义回归",
+    "url": "https://www.jiqizhixin.com/articles/2026-01-29-3",
     "source": "机器之心",
-    "published_at": "2026-01-28",
+    "published_at": "2026-01-29",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
@@ -476,11 +182,11 @@
     ]
   },
   {
-    "title": "Agentic Business Process Management Systems",
-    "url": "https://arxiv.org/abs/2601.18833",
+    "title": "NeuroAI and Beyond",
+    "url": "https://arxiv.org/abs/2601.19955",
     "source": "arXiv cs.AI",
-    "published_at": "2026-01-28",
-    "raw_snippet": "arXiv:2601.18833v1 Announce Type: new Abstract: Since the early 90s, the evolution of the Business Process Management (BPM) discipline has been punctuated by successive waves of automation technologies. Some of these technologies enable the automation of individual tasks, while others focus on orchestrating the executi…",
+    "published_at": "2026-01-29",
+    "raw_snippet": "arXiv:2601.19955v1 Announce Type: new Abstract: Neuroscience and Artificial Intelligence (AI) have made significant progress in the past few years but have only been loosely inter-connected. Based on a workshop held in August 2025, we identify current and future areas of synergism between these two fields. We focus on…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -490,11 +196,11 @@
     ]
   },
   {
-    "title": "LLM Driven Design of Continuous Optimization Problems with Controllable High-level Properties",
-    "url": "https://arxiv.org/abs/2601.18846",
+    "title": "Teaching LLMs to Ask: Self-Querying Category-Theoretic Planning for Under-Specified Reasoning",
+    "url": "https://arxiv.org/abs/2601.20014",
     "source": "arXiv cs.AI",
-    "published_at": "2026-01-28",
-    "raw_snippet": "arXiv:2601.18846v1 Announce Type: new Abstract: Benchmarking in continuous black-box optimisation is hindered by the limited structural diversity of existing test suites such as BBOB. We explore whether large language models embedded in an evolutionary loop can be used to design optimisation problems with clearly defin…",
+    "published_at": "2026-01-29",
+    "raw_snippet": "arXiv:2601.20014v1 Announce Type: new Abstract: Inference-time planning with large language models frequently breaks under partial observability: when task-critical preconditions are not specified at query time, models tend to hallucinate missing facts or produce plans that violate hard constraints. We introduce \\textb…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -504,26 +210,11 @@
     ]
   },
   {
-    "title": "Explainable Uncertainty Quantification for Wastewater Treatment Energy Prediction via Interval Type-2 Neuro-Fuzzy System",
-    "url": "https://arxiv.org/abs/2601.18897",
+    "title": "Fuzzy Categorical Planning: Autonomous Goal Satisfaction with Graded Semantic Constraints",
+    "url": "https://arxiv.org/abs/2601.20021",
     "source": "arXiv cs.AI",
-    "published_at": "2026-01-28",
-    "raw_snippet": "arXiv:2601.18897v1 Announce Type: new Abstract: Wastewater treatment plants consume 1-3% of global electricity, making accurate energy forecasting critical for operational optimization and sustainability. While machine learning models provide point predictions, they lack explainable uncertainty quantification essential…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI",
-      "arXiv cs.LG"
-    ]
-  },
-  {
-    "title": "RIFT: Reordered Instruction Following Testbed To Evaluate Instruction Following in Singular Multistep Prompt Structures",
-    "url": "https://arxiv.org/abs/2601.18924",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-28",
-    "raw_snippet": "arXiv:2601.18924v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly relied upon for complex workflows, yet their ability to maintain flow of instructions remains underexplored. Existing benchmarks conflate task complexity with structural ordering, making it difficult to isolate the impact of p…",
+    "published_at": "2026-01-29",
+    "raw_snippet": "arXiv:2601.20021v1 Announce Type: new Abstract: Natural-language planning often involves vague predicates (e.g., suitable substitute, stable enough) whose satisfaction is inherently graded. Existing category-theoretic planners provide compositional structure and pullback-based hard-constraint verification, but treat ap…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -533,25 +224,11 @@
     ]
   },
   {
-    "title": "Neural Theorem Proving for Verification Conditions: A Real-World Benchmark",
-    "url": "https://arxiv.org/abs/2601.18944",
+    "title": "Insight Agents: An LLM-Based Multi-Agent System for Data Insights",
+    "url": "https://arxiv.org/abs/2601.20048",
     "source": "arXiv cs.AI",
-    "published_at": "2026-01-28",
-    "raw_snippet": "arXiv:2601.18944v1 Announce Type: new Abstract: Theorem proving is fundamental to program verification, where the automated proof of Verification Conditions (VCs) remains a primary bottleneck. Real-world program verification frequently encounters hard VCs that existing Automated Theorem Provers (ATPs) cannot prove, lea…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "More at Stake: How Payoff and Language Shape LLM Agent Strategies in Cooperation Dilemmas",
-    "url": "https://arxiv.org/abs/2601.19082",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-28",
-    "raw_snippet": "arXiv:2601.19082v1 Announce Type: new Abstract: As LLMs increasingly act as autonomous agents in interactive and multi-agent settings, understanding their strategic behavior is critical for safety, coordination, and AI-driven social and economic systems. We investigate how payoff magnitude and linguistic context shape…",
+    "published_at": "2026-01-29",
+    "raw_snippet": "arXiv:2601.20048v1 Announce Type: new Abstract: Today, E-commerce sellers face several key challenges, including difficulties in discovering and effectively utilizing available programs and tools, and struggling to understand and utilize rich data from various tools. We therefore aim to develop Insight Agents (IA), a c…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
@@ -559,6 +236,91 @@
     "sources": [
       "arXiv cs.AI",
       "arXiv cs.CL"
+    ]
+  },
+  {
+    "title": "Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control",
+    "url": "https://arxiv.org/abs/2601.20090",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-29",
+    "raw_snippet": "arXiv:2601.20090v1 Announce Type: new Abstract: Large language model (LLM)-powered agents can translate high-level user intents into plans and actions in an environment. Yet after observing an outcome, users may wonder: What if I had phrased my intent differently? We introduce a framework that enables such counterfactu…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "Towards Intelligent Urban Park Development Monitoring: LLM Agents for Multi-Modal Information Fusion and Analysis",
+    "url": "https://arxiv.org/abs/2601.20206",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-29",
+    "raw_snippet": "arXiv:2601.20206v1 Announce Type: new Abstract: As an important part of urbanization, the development monitoring of newly constructed parks is of great significance for evaluating the effect of urban planning and optimizing resource allocation. However, traditional change detection methods based on remote sensing image…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "Scaling Medical Reasoning Verification via Tool-Integrated Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2601.20221",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-29",
+    "raw_snippet": "arXiv:2601.20221v1 Announce Type: new Abstract: Large language models have achieved strong performance on medical reasoning benchmarks, yet their deployment in clinical settings demands rigorous verification to ensure factual accuracy. While reward models offer a scalable approach for reasoning trace verification, exis…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI",
+      "arXiv cs.CL"
+    ]
+  },
+  {
+    "title": "Endogenous Reprompting: Self-Evolving Cognitive Alignment for Unified Multimodal Models",
+    "url": "https://arxiv.org/abs/2601.20305",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-29",
+    "raw_snippet": "arXiv:2601.20305v1 Announce Type: new Abstract: Unified Multimodal Models (UMMs) exhibit strong understanding, yet this capability often fails to effectively guide generation. We identify this as a Cognitive Gap: the model lacks the understanding of how to enhance its own generation process. To bridge this gap, we prop…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "ECG-Agent: On-Device Tool-Calling Agent for ECG Multi-Turn Dialogue",
+    "url": "https://arxiv.org/abs/2601.20323",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-29",
+    "raw_snippet": "arXiv:2601.20323v1 Announce Type: new Abstract: Recent advances in Multimodal Large Language Models have rapidly expanded to electrocardiograms, focusing on classification, report generation, and single-turn QA tasks. However, these models fall short in real-world scenarios, lacking multi-turn conversational ability, o…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
+    ]
+  },
+  {
+    "title": "AMA: Adaptive Memory via Multi-Agent Collaboration",
+    "url": "https://arxiv.org/abs/2601.20352",
+    "source": "arXiv cs.AI",
+    "published_at": "2026-01-29",
+    "raw_snippet": "arXiv:2601.20352v1 Announce Type: new Abstract: The rapid evolution of Large Language Model (LLM) agents has necessitated robust memory systems to support cohesive long-term interaction and complex reasoning. Benefiting from the strong capabilities of LLMs, recent research focus has shifted from simple context extensio…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 5,
+    "sources": [
+      "arXiv cs.AI"
     ]
   }
 ]
