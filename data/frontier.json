@@ -1,7 +1,287 @@
 [
   {
+    "title": "SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation",
+    "url": "https://huggingface.co/papers/2601.20622",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-30",
+    "raw_snippet": "Free-form sketching enables intuitive dynamic intent communication for automated content creation, bridging human intention and digital output in animation workflows. AI-generated summary Sketching provides an intuitive way to convey dynamic intent in animation authoring (i.e., how elements change over time and space),…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Persona Prompting as a Lens on LLM Social Reasoning",
+    "url": "https://huggingface.co/papers/2601.20757",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "Persona prompting affects large language model rationales in socially sensitive tasks by improving classification accuracy but reducing explanation quality while failing to eliminate demographic biases. AI-generated summary For socially sensitive tasks like hate speech detection, the quality of explanations from Large…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Group Distributionally Robust Optimization-Driven Reinforcement Learning for LLM Reasoning",
+    "url": "https://huggingface.co/papers/2601.19280",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "A novel optimization framework dynamically adapts training distributions for large language models by classifying prompt difficulty and reallocating computational resources to improve reasoning performance. AI-generated summary Recent progress in Large Language Model (LLM) reasoning is increasingly driven by the refine…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "VERGE: Formal Refinement and Guidance Engine for Verifiable LLM Reasoning",
+    "url": "https://huggingface.co/papers/2601.20055",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "A neurosymbolic framework integrates large language models with SMT solvers to enhance logical correctness through verification-guided iterative refinement, utilizing formal semantic equivalence checking, semantic routing, and minimal correction subsets for precise error localization and consensus verification. AI-gene…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning",
+    "url": "https://huggingface.co/papers/2601.20829",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "Failure-prefix conditioning enables more effective reinforcement learning from saturated problems by focusing exploration on informative failure trajectories, maintaining token efficiency while improving robustness. AI-generated summary Reinforcement Learning with Verifiable Rewards (RLVR) has substantially improved th…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Reinforcement Learning via Self-Distillation",
+    "url": "https://huggingface.co/papers/2601.20802",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "Self-Distillation Policy Optimization (SDPO) enhances reinforcement learning with verifiable rewards by utilizing rich textual feedback to improve sample efficiency and accuracy in language model training. AI-generated summary Large language models are increasingly post-trained with reinforcement learning in verifiable…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Shallow-π: Knowledge Distillation for Flow-based VLAs",
+    "url": "https://huggingface.co/papers/2601.20262",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "A knowledge distillation framework called Shallow-pi is presented that reduces transformer depth in vision-language-action models, achieving faster inference with minimal performance loss in real-world robotic applications. AI-generated summary The growing demand for real-time robotic deployment necessitates fast and o…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "UPLiFT: Efficient Pixel-Dense Feature Upsampling with Local Attenders",
+    "url": "https://huggingface.co/papers/2601.17950",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "Iterative upsampling methods can match cross-attention-based approaches while achieving lower inference costs through the proposed UPLiFT architecture with Local Attender operator for dense feature generation. AI-generated summary The space of task-agnostic feature upsampling has emerged as a promising area of research…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SE-DiCoW: Self-Enrolled Diarization-Conditioned Whisper",
+    "url": "https://huggingface.co/papers/2601.19194",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "SE-DiCoW improves speaker-attributed ASR performance by using diarization output to identify enrollment segments for fixed conditioning in cross-attention layers, achieving significant reductions in transcription error rates. AI-generated summary Speaker-attributed automatic speech recognition (ASR) in multi-speaker en…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Innovator-VL: A Multimodal Large Language Model for Scientific Discovery",
+    "url": "https://huggingface.co/papers/2601.19325",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "Innovator-VL demonstrates that principled training design and transparent methodology can achieve strong scientific intelligence with reduced data requirements while maintaining general vision performance. AI-generated summary We present Innovator-VL, a scientific multimodal large language model designed to advance und…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Spark: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning",
+    "url": "https://huggingface.co/papers/2601.20209",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "Spark is a reinforcement learning framework that strategically allocates computational resources by branching at critical decision states, improving sample efficiency and generalization for long-horizon tasks. AI-generated summary Reinforcement learning has empowered large language models to act as intelligent agents,…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "SERA: Soft-Verified Efficient Repository Agents",
+    "url": "https://huggingface.co/papers/2601.20789",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "Soft-Verified Efficient Repository Agents (SERA) enables cost-effective training of coding agents through supervised fine-tuning, achieving state-of-the-art performance while enabling specialization to private codebases at a fraction of the cost of previous methods. AI-generated summary Open-weight coding agents should…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Linear representations in language models can change dramatically over a conversation",
+    "url": "https://huggingface.co/papers/2601.20834",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "Linear representation directions in language models dynamically shift during conversations, affecting how factual information is encoded while preserving generic content, with implications for interpretability and context-adaptive model behavior. AI-generated summary Language model representations often contain linear…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "DeepSeek-OCR 2: Visual Causal Flow",
+    "url": "https://huggingface.co/papers/2601.20552",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens based on semantic content, enabling more human-like causal reasoning in 2D image understanding through cascaded 1D causal structures. AI-generated summary We present DeepSeek-OCR 2 to investigate the feasibility of a novel encoder-DeepEnco…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution",
+    "url": "https://huggingface.co/papers/2601.20380",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "OmegaUse is a general-purpose GUI agent model that achieves state-of-the-art performance on mobile and desktop platforms through a combination of high-quality data construction, decoupled training methods, and a Mixture-of-Experts architecture. AI-generated summary Graphical User Interface (GUI) agents show great poten…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "RIR-Mega-Speech: A Reverberant Speech Corpus with Comprehensive Acoustic Metadata and Reproducible Evaluation",
+    "url": "https://huggingface.co/papers/2601.19949",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "A large-scale reverberant speech corpus with detailed acoustic annotations is introduced to facilitate standardized comparison and reproduction of speech processing research. AI-generated summary Despite decades of research on reverberant speech, comparing methods remains difficult because most corpora lack per-file ac…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation",
+    "url": "https://huggingface.co/papers/2601.20614",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "MathForge enhances mathematical reasoning in large models through a dual framework combining difficulty-aware policy optimization and multi-aspect question reformulation to address limitations in existing reinforcement learning methods. AI-generated summary Reinforcement Learning with Verifiable Rewards (RLVR) offers a…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "Advancing Open-source World Models",
+    "url": "https://huggingface.co/papers/2601.20540",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments. AI-generated summary We present LingBot-World, an open-sourced world simulator stemming from video generation. Positioned as a top-tier world model, LingBot-W…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
+    "title": "GDCNet: Generative Discrepancy Comparison Network for Multimodal Sarcasm Detection",
+    "url": "https://huggingface.co/papers/2601.20618",
+    "source": "HF Trending Papers",
+    "published_at": "2026-01-29",
+    "raw_snippet": "A multimodal sarcasm detection approach uses generative models to create stable semantic anchors and measures cross-modal discrepancies for improved accuracy and robustness. AI-generated summary Multimodal sarcasm detection (MSD) aims to identify sarcasm within image-text pairs by modeling semantic incongruities across…",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 15,
+    "sources": [
+      "HF Trending Papers"
+    ]
+  },
+  {
     "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
     "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-01-29",
+    "raw_snippet": "",
+    "ai_summary": "",
+    "ai_generated": false,
+    "tags": [],
+    "hot_score": 14,
+    "sources": [
+      "Hugging Face Blog"
+    ]
+  },
+  {
+    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+    "url": "https://huggingface.co/blog/daggr",
     "source": "Hugging Face Blog",
     "published_at": "2026-01-29",
     "raw_snippet": "",
@@ -22,7 +302,7 @@
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
-    "hot_score": 14,
+    "hot_score": 13,
     "sources": [
       "Hugging Face Blog"
     ]
@@ -116,20 +396,6 @@
     "url": "https://huggingface.co/blog/waypoint-1",
     "source": "Hugging Face Blog",
     "published_at": "2026-01-20",
-    "raw_snippet": "",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 11,
-    "sources": [
-      "Hugging Face Blog"
-    ]
-  },
-  {
-    "title": "Open Responses: What you need to know",
-    "url": "https://huggingface.co/blog/open-responses",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-01-15",
     "raw_snippet": "",
     "ai_summary": "",
     "ai_generated": false,
@@ -287,34 +553,6 @@
     "source": "arXiv cs.AI",
     "published_at": "2026-01-29",
     "raw_snippet": "arXiv:2601.20305v1 Announce Type: new Abstract: Unified Multimodal Models (UMMs) exhibit strong understanding, yet this capability often fails to effectively guide generation. We identify this as a Cognitive Gap: the model lacks the understanding of how to enhance its own generation process. To bridge this gap, we prop…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "ECG-Agent: On-Device Tool-Calling Agent for ECG Multi-Turn Dialogue",
-    "url": "https://arxiv.org/abs/2601.20323",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-29",
-    "raw_snippet": "arXiv:2601.20323v1 Announce Type: new Abstract: Recent advances in Multimodal Large Language Models have rapidly expanded to electrocardiograms, focusing on classification, report generation, and single-turn QA tasks. However, these models fall short in real-world scenarios, lacking multi-turn conversational ability, o…",
-    "ai_summary": "",
-    "ai_generated": false,
-    "tags": [],
-    "hot_score": 5,
-    "sources": [
-      "arXiv cs.AI"
-    ]
-  },
-  {
-    "title": "AMA: Adaptive Memory via Multi-Agent Collaboration",
-    "url": "https://arxiv.org/abs/2601.20352",
-    "source": "arXiv cs.AI",
-    "published_at": "2026-01-29",
-    "raw_snippet": "arXiv:2601.20352v1 Announce Type: new Abstract: The rapid evolution of Large Language Model (LLM) agents has necessitated robust memory systems to support cohesive long-term interaction and complex reasoning. Benefiting from the strong capabilities of LLMs, recent research focus has shifted from simple context extensio…",
     "ai_summary": "",
     "ai_generated": false,
     "tags": [],
